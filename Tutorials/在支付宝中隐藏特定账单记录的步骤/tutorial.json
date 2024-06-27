@@ -1,0 +1,84 @@
+{
+    "tutorialId": -628382480,
+    "tutorialName": "在支付宝中隐藏特定账单记录的步骤",
+    "tutorialDetail": "在手机上安装并打开支付宝APP在支付宝主界面选择右下角的【我的】进入个人中心在个人中心中找到并点击【账单】在账单界面中，找到并选择要隐藏的消费账单长按要隐藏的账单，选择出现的【删除】选项确认删除后，账单记录会从账单界面上隐藏，但实际上不会从支付宝服务器中删除",
+    "original_instructions": [
+        "open:支付宝APP",
+        "click:我的, 右下角",
+        "click:账单",
+        "longclick:消费账单",
+        "click:删除",
+        "back:previous"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在支付宝中隐藏特定账单记录的步骤在手机上安装并打开支...1. open:支付宝APP2. click:我的, 右下角3. click:账单4. longclick:消费账单5. click:删除6. back:previousSTART",
+            "type": "open",
+            "para": "支付宝",
+            "x": 735,
+            "y": 1210,
+            "endX": 735,
+            "endY": 1210,
+            "storeFolder": "176920036",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:支付宝APP"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 972,
+            "y": 2140,
+            "endX": 972,
+            "endY": 2140,
+            "storeFolder": "119982801",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.TabHost|1;android.widget.FrameLayout|0;android.widget.TabWidget|4;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的, 右下角",
+            "imagePath": "image276.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 851,
+            "y": 840,
+            "endX": 851,
+            "endY": 840,
+            "storeFolder": "77637659",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|1;android.support.v7.widget.RecyclerView|2;android.widget.FrameLayout|0;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:账单",
+            "imagePath": "image277.jpg"
+        },
+        {
+            "targetName": "焖饼炒鸡很哇塞(第07号档口逸洁美食城)外卖订单，-25.67元，，餐饮美食，，今天 10:30",
+            "type": "long_click",
+            "para": "1",
+            "x": 799,
+            "y": 1057,
+            "endX": 799,
+            "endY": 1057,
+            "storeFolder": "231278558",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;com.alipay.mywebview.sdk.WebView|0;android.webkit.WebView|0;android.view.View|0;android.view.View|2;android.view.View|0;android.view.View|2;android.view.View|0;android.view.View|0;android.view.View|0;android.widget.Button",
+            "absoluteIdAvailable": true,
+            "description": "longclick:消费账单",
+            "imagePath": "image278.jpg"
+        },
+        {
+            "targetName": "删除",
+            "type": "click",
+            "para": "1",
+            "x": 711,
+            "y": 1186,
+            "endX": 711,
+            "endY": 1186,
+            "storeFolder": "242195281",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.ListView|0;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:删除",
+            "imagePath": "image279.jpg"
+        }
+    ]
+}

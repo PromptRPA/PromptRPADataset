@@ -1,0 +1,71 @@
+{
+    "tutorialId": -510224707,
+    "tutorialName": "在飞书中查看交易记录的步骤",
+    "tutorialDetail": "首先打开飞书并点击左上角的头像然后点击钱包，进入后点击下面的交易记录最后点击上面的时间筛选功能，选择好时间后查看对应的交易记录",
+    "original_instructions": [
+        "open:飞书",
+        "click:头像, 左上角",
+        "click:钱包",
+        "click:交易记录, 下面",
+        "click:时间筛选功能, 上面",
+        "edit:时间筛选",
+        "click:查看"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在飞书中查看交易记录的步骤首先打开飞书并点击左...1. open:飞书2. click:头像, 左上角3. click:钱包4. click:交易记录, 下面5. click:时间筛选功能, 上面6. edit:时间筛选7. click:查看START",
+            "type": "open",
+            "para": "飞书",
+            "x": 582,
+            "y": 1157,
+            "endX": 582,
+            "endY": 1157,
+            "storeFolder": "262664817",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:飞书"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 127,
+            "y": 208,
+            "endX": 127,
+            "endY": 208,
+            "storeFolder": "75760786",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.view.ViewGroup|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.view.ViewGroup|0;android.view.View",
+            "absoluteIdAvailable": true,
+            "description": "click:头像, 左上角",
+            "imagePath": "image22.jpg"
+        },
+        {
+            "targetName": "钱包",
+            "type": "click",
+            "para": "1",
+            "x": 517,
+            "y": 987,
+            "endX": 517,
+            "endY": 987,
+            "storeFolder": "198685400",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|1;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.view.ViewGroup|1;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.ScrollView|0;android.widget.LinearLayout|1;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:钱包",
+            "imagePath": "image23.jpg"
+        },
+        {
+            "targetName": "交易记录",
+            "type": "click",
+            "para": "1",
+            "x": 408,
+            "y": 855,
+            "endX": 408,
+            "endY": 855,
+            "storeFolder": "251556271",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|11;com.lynx.tasm.behavior.ui.LynxFlattenUI",
+            "absoluteIdAvailable": true,
+            "description": "click:点击交易记录",
+            "imagePath": "image25.jpg"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "tutorialId": 880613722,
+    "tutorialName": "在手机QQ中进行余额提现的步骤",
+    "tutorialDetail": "进入手机QQ，点击钱包选项在QQ钱包页面，点击余额选项在余额页面，点击提现按钮选择提现到的银行卡，输入提现金额点击下一步完成提现操作",
+    "original_instructions": [
+        "open:手机QQ",
+        "click:钱包选项",
+        "click:余额选项",
+        "click:提现按钮",
+        "click:银行卡, 提现到的",
+        "edit:提现金额",
+        "click:下一步",
+        "click:完成提现操作"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在手机QQ中进行余额提现的步骤进入手机QQ，点击钱...1. open:手机QQ2. click:钱包选项3. click:余额选项4. click:提现按钮5. click:银行卡, 提现到的6. edit:提现金额7. click:下一步8. click:完成提现操作START",
+            "type": "open",
+            "para": "QQ",
+            "x": 410,
+            "y": 1189,
+            "endX": 410,
+            "endY": 1189,
+            "storeFolder": "123606546",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:手机QQ"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 94,
+            "y": 195,
+            "endX": 94,
+            "endY": 195,
+            "storeFolder": "17206398",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|1;android.widget.RelativeLayout|0;android.widget.Button",
+            "absoluteIdAvailable": true,
+            "description": "Click 搜索tt隐身消息频道短视频1联系人动态.",
+            "imagePath": "image48.jpg"
+        },
+        {
+            "targetName": "我的QQ钱包",
+            "type": "click",
+            "para": "1",
+            "x": 644,
+            "y": 1343,
+            "endX": 644,
+            "endY": 1343,
+            "storeFolder": "85036254",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.RelativeLayout|1;android.widget.ScrollView|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|3;android.widget.Button",
+            "absoluteIdAvailable": true,
+            "description": "click:钱包选项",
+            "imagePath": "image49.jpg"
+        },
+        {
+            "targetName": "0.00余额",
+            "type": "click",
+            "para": "1",
+            "x": 213,
+            "y": 461,
+            "endX": 213,
+            "endY": 461,
+            "storeFolder": "66925649",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.view.ViewGroup|0;android.widget.LinearLayout|0;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:余额选项",
+            "imagePath": "image50.jpg"
+        },
+        {
+            "targetName": "提现",
+            "type": "click",
+            "para": "1",
+            "x": 241,
+            "y": 780,
+            "endX": 241,
+            "endY": 780,
+            "storeFolder": "69705300",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;com.tencent.tbs.core.webkit.WebView|0;android.webkit.WebView|0;android.view.View|0;android.view.View|0;android.view.View|3;android.widget.TextView",
+            "absoluteIdAvailable": true,
+            "description": "click:提现按钮",
+            "imagePath": "image51.jpg"
+        }
+    ]
+}

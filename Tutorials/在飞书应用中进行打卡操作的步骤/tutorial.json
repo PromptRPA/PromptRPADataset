@@ -1,0 +1,59 @@
+{
+    "tutorialId": 1397405509,
+    "tutorialName": "在飞书应用中进行打卡操作的步骤",
+    "tutorialDetail": "打开飞书应用点击工作台点击打卡设置考勤人员、时间和地点，点击好的进行确认再次点击打卡点击上班打卡以完成打卡操作",
+    "original_instructions": [
+        "open:飞书应用",
+        "click:工作台",
+        "click:打卡设置",
+        "edit:考勤人员",
+        "edit:时间",
+        "edit:地点",
+        "click:好的",
+        "click:打卡",
+        "click:上班打卡"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW打开飞书应用点击工作...1. open:飞书应用2. click:工作台3. click:打卡设置4. edit:考勤人员5. edit:时间6. edit:地点7. click:好的8. click:打卡9. click:上班打卡START",
+            "type": "open",
+            "para": "飞书",
+            "x": 596,
+            "y": 1108,
+            "endX": 596,
+            "endY": 1108,
+            "storeFolder": "178382765",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:飞书应用"
+        },
+        {
+            "targetName": "工作台",
+            "type": "click",
+            "para": "1",
+            "x": 442,
+            "y": 2109,
+            "endX": 442,
+            "endY": 2109,
+            "storeFolder": "91800838",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.view.ViewGroup|1;android.widget.LinearLayout|2;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:工作台",
+            "imagePath": "image1.jpg"
+        },
+        {
+            "targetName": "假勤",
+            "type": "click",
+            "para": "1",
+            "x": 662,
+            "y": 974,
+            "endX": 662,
+            "endY": 974,
+            "storeFolder": "90009743",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.view.ViewGroup|0;android.widget.LinearLayout|1;androidx.viewpager.widget.ViewPager|0;androidx.recyclerview.widget.RecyclerView|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|3;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:勤假",
+            "imagePath": "image2.jpg"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "tutorialId": 737449683,
+    "tutorialName": "在抖音中复制自己的抖音号的步骤",
+    "tutorialDetail": "打开抖音，点击进入【我】点击按钮，点击抖音号进行复制看到箭头指向位置提示的已复制，即表示复制成功",
+    "original_instructions": [
+        "open:抖音",
+        "click:【我】按钮",
+        "click:抖音号",
+        "longclick:抖音号"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在抖音中复制自己的抖音号的步骤打开抖音，点击进入【...1. open:抖音2. click:【我】按钮3. click:抖音号4. longclick:抖音号START",
+            "type": "open",
+            "para": "抖音",
+            "x": 604,
+            "y": 1158,
+            "endX": 604,
+            "endY": 1158,
+            "storeFolder": "242959937",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:抖音"
+        },
+        {
+            "targetName": "我",
+            "type": "click",
+            "para": "1",
+            "x": 968,
+            "y": 2107,
+            "endX": 968,
+            "endY": 2107,
+            "storeFolder": "115923662",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;X.0sk1|0;android.widget.TabHost|0;android.widget.FrameLayout|2;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|4;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:【我】按钮",
+            "imagePath": "image15.jpg"
+        },
+        {
+            "targetName": "抖音号：49066832220",
+            "type": "click",
+            "para": "1",
+            "x": 625,
+            "y": 548,
+            "endX": 625,
+            "endY": 548,
+            "storeFolder": "222791513",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;X.0sk1|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.view.ViewGroup|1;android.widget.LinearLayout|1;android.widget.LinearLayout|0;android.view.ViewGroup|0;android.view.ViewGroup|0;android.widget.TextView",
+            "absoluteIdAvailable": true,
+            "description": "click:抖音号",
+            "imagePath": "image16.jpg"
+        }
+    ]
+}

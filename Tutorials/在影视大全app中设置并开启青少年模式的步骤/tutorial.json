@@ -1,0 +1,113 @@
+{
+    "tutorialId": -916625799,
+    "tutorialName": "在影视大全app中设置并开启青少年模式的步骤",
+    "tutorialDetail": "打开影视大全app并进入我的窗口找到并点击界面里的“设置”选项在设置窗口中找到并点击“青少年模式”在青少年模式窗口中点击“开启青少年模式”在设置密码窗口中输入4位密码并提交以开启青少年模式",
+    "original_instructions": [
+        "open:影视大全app",
+        "click:我的窗口",
+        "click:设置",
+        "click:青少年模式",
+        "click:开启青少年模式",
+        "edit:设置密码窗口",
+        "click:提交"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在影视大全app中设置并开启青少年模式的步骤打开影视大全app并...1. open:影视大全app2. click:我的窗口3. click:设置4. click:青少年模式5. click:开启青少年模式6. edit:设置密码窗口7. click:提交START",
+            "type": "open",
+            "para": "影视大全",
+            "x": 728,
+            "y": 1162,
+            "endX": 728,
+            "endY": 1162,
+            "storeFolder": "161884088",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:影视大全app"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 995,
+            "y": 2149,
+            "endX": 995,
+            "endY": 2149,
+            "storeFolder": "4403347",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|3;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的窗口",
+            "imagePath": "image199.jpg"
+        },
+        {
+            "targetName": "设置",
+            "type": "click",
+            "para": "1",
+            "x": 729,
+            "y": 1422,
+            "endX": 729,
+            "endY": 1422,
+            "storeFolder": "189095435",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.ScrollView|0;android.view.ViewGroup|4;android.widget.LinearLayout|2;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:设置",
+            "imagePath": "image200.jpg"
+        },
+        {
+            "targetName": "账户账户与安全播放个性化推荐跳过片头片尾短视频WIFI下自动播放短视频非WIFI下自动播放首页大卡片非WIFI下自动播放下载下载存储路径手机内置存储允许流量下载个人信息设置",
+            "type": "scroll",
+            "para": "down",
+            "x": 623,
+            "y": 1898,
+            "endX": 573,
+            "endY": 773,
+            "storeFolder": "208744200",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image201.jpg"
+        },
+        {
+            "targetName": "青少年模式",
+            "type": "click",
+            "para": "1",
+            "x": 635,
+            "y": 1893,
+            "endX": 635,
+            "endY": 1893,
+            "storeFolder": "138185248",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.ScrollView|0;android.widget.LinearLayout|3;android.widget.LinearLayout|1;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:青少年模式",
+            "imagePath": "image202.jpg"
+        },
+        {
+            "targetName": "开启青少年模式",
+            "type": "click",
+            "para": "1",
+            "x": 717,
+            "y": 1757,
+            "endX": 717,
+            "endY": 1757,
+            "storeFolder": "116389019",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.view.ViewGroup|4;android.widget.TextView",
+            "absoluteIdAvailable": true,
+            "description": "click:开启青少年模式",
+            "imagePath": "image203.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "edit",
+            "para": "1234",
+            "x": 264,
+            "y": 650,
+            "endX": 264,
+            "endY": 650,
+            "storeFolder": "89472372",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.LinearLayout|1;android.widget.EditText",
+            "absoluteIdAvailable": true,
+            "description": "edit:设置密码窗口",
+            "imagePath": "image204.jpg"
+        }
+    ]
+}

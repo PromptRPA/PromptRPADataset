@@ -1,0 +1,96 @@
+{
+    "tutorialId": 359748566,
+    "tutorialName": "在QQ中查看当前版本的步骤",
+    "tutorialDetail": "在QQ侧边栏，点击【设置】图标在设置界面，点击【关于QQ与帮助】选项在关于QQ与帮助界面，点击【查看当前的版本】以查看QQ当前版本信息",
+    "original_instructions": [
+        "open:QQ侧边栏",
+        "click:设置图标",
+        "click:关于QQ与帮助选项",
+        "click:查看当前的版本"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在QQ中查看当前版本的步骤在QQ侧边栏，点击【...1. open:QQ侧边栏2. click:设置图标3. click:关于QQ与帮助选项4. click:查看当前的版本START",
+            "type": "open",
+            "para": "QQ",
+            "x": 676,
+            "y": 1208,
+            "endX": 676,
+            "endY": 1208,
+            "storeFolder": "34135172",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:QQ"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 84,
+            "y": 192,
+            "endX": 84,
+            "endY": 192,
+            "storeFolder": "221164559",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|1;android.widget.RelativeLayout|0;android.widget.Button",
+            "absoluteIdAvailable": true,
+            "description": "Click 我的头像",
+            "imagePath": "image68.jpg"
+        },
+        {
+            "targetName": "设置",
+            "type": "click",
+            "para": "1",
+            "x": 100,
+            "y": 2116,
+            "endX": 100,
+            "endY": 2116,
+            "storeFolder": "89453307",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|2;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.Button",
+            "absoluteIdAvailable": true,
+            "description": "click:设置图标",
+            "imagePath": "image69.jpg"
+        },
+        {
+            "targetName": "账号管理手机号码133******39账号安全消息通知隐私通用辅助功能QQ免流量个人信息收集清单第三方个人信息共享清单个人信息保护设置隐私政策摘要设置",
+            "type": "scroll",
+            "para": "down",
+            "x": 633,
+            "y": 1941,
+            "endX": 690,
+            "endY": 476,
+            "storeFolder": "105365328",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image70.jpg"
+        },
+        {
+            "targetName": "关于QQ与帮助",
+            "type": "click",
+            "para": "1",
+            "x": 563,
+            "y": 2111,
+            "endX": 563,
+            "endY": 2111,
+            "storeFolder": "209997451",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|12;com.tencent.mobileqq.widget.listitem.QUISingleLineListItem",
+            "absoluteIdAvailable": true,
+            "description": "click:关于QQ与帮助选项",
+            "imagePath": "image71.jpg"
+        },
+        {
+            "targetName": "V 9.0.60.17095",
+            "type": "click",
+            "para": "1",
+            "x": 833,
+            "y": 1032,
+            "endX": 833,
+            "endY": 1032,
+            "storeFolder": "35048918",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|0;com.tencent.mobileqq.widget.listitem.QUISingleLineListItem|0;android.view.ViewGroup|1;android.widget.TextView",
+            "absoluteIdAvailable": true,
+            "description": "click:查看当前的版本",
+            "imagePath": "image72.jpg"
+        }
+    ]
+}

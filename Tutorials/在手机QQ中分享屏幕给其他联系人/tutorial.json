@@ -1,0 +1,98 @@
+{
+  "tutorialId": 1367259905,
+  "tutorialName": "在手机QQ中分享屏幕给其他联系人",
+  "tutorialDetail": "找到手机QQ软件并点击打开。打开QQ界面点击群聊。点击底部加号按钮。向左滑动功能，找到分享屏幕功能。选择需要分享屏幕的联系人。等待对方接受，便可以分享自己的屏幕了。",
+  "original_instructions": [
+    "open:手机QQ软件",
+    "click:群聊",
+    "click:底部加号按钮",
+    "scroll:功能",
+    "click:分享屏幕功能",
+    "click:需要分享屏幕的联系人"
+  ],
+  "actual_instructions": [
+    {
+      "targetName": "PromptRPANEW在手机QQ中分享屏幕给其他联系人找到手机QQ软件并点...1. open:手机QQ软件2. click:群聊3. click:底部加号按钮4. scroll:功能5. click:分享屏幕功能6. click:需要分享屏幕的联系人START",
+      "type": "open",
+      "para": "QQ",
+      "x": 477,
+      "y": 1889,
+      "endX": 477,
+      "endY": 1889,
+      "storeFolder": "201690839",
+      "absoluteId": "fake.root",
+      "absoluteIdAvailable": true,
+      "description": "Open QQ"
+    },
+    {
+      "targetName": "friend",
+      "type": "click",
+      "para": "1",
+      "x": 706,
+      "y": 1298,
+      "endX": 706,
+      "endY": 1298,
+      "storeFolder": "124773005",
+      "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;androidx.recyclerview.widget.RecyclerView|5;android.view.ViewGroup|0;android.widget.RelativeLayout",
+      "absoluteIdAvailable": true,
+      "description": "Click a friend.",
+      "imagePath": "image0.jpg"
+    },
+    {
+      "targetName": "加号",
+      "type": "click",
+      "para": "1",
+      "x": 985,
+      "y": 2145,
+      "endX": 985,
+      "endY": 2145,
+      "storeFolder": "67235657",
+      "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|1;android.widget.FrameLayout|2;android.widget.LinearLayout|5;android.widget.FrameLayout|0;android.widget.ImageView",
+      "absoluteIdAvailable": true,
+      "description": "Click 加号.",
+      "imagePath": "image1.jpg"
+    },
+    {
+      "targetName": "05/28 18:37你们已成功添加为好友，现在可以开始聊天了！[desired amount]05/28 19:39对方未接听friend发送语音通话视频通话戳一戳热图位置文件元梦组队王者好礼",
+      "type": "scroll",
+      "para": "right",
+      "x": 847,
+      "y": 1718,
+      "endX": 200,
+      "endY": 1718,
+      "storeFolder": "178878666",
+      "absoluteId": "fake.root|0;android.widget.FrameLayout",
+      "absoluteIdAvailable": true,
+      "description": "Scroll right",
+      "imagePath": "image2.jpg"
+    },
+    {
+      "targetName": "分享屏幕",
+      "type": "click",
+      "para": "1",
+      "x": 416,
+      "y": 1570,
+      "endX": 416,
+      "endY": 1570,
+      "storeFolder": "79739655",
+      "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.viewpager.widget.ViewPager|0;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|1;android.widget.RelativeLayout",
+      "absoluteIdAvailable": true,
+      "description": "Click 分享屏幕.",
+      "imagePath": "image3.jpg"
+    },
+    {
+      "targetName": "继续分享",
+      "type": "click",
+      "para": "1",
+      "x": 757,
+      "y": 1372,
+      "endX": 757,
+      "endY": 1372,
+      "storeFolder": "128539178",
+      "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|2;android.widget.LinearLayout|1;android.widget.Button",
+      "absoluteIdAvailable": true,
+      "description": "Click 继续分享.",
+      "imagePath": "image4.jpg"
+    }
+  ]
+}

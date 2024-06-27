@@ -1,0 +1,111 @@
+{
+    "tutorialId": 183268923,
+    "tutorialName": "在抖音中关闭抖音相册功能的步骤",
+    "tutorialDetail": "打开抖音点击下方【设置】进入设置页面在设置页面点击【通知设置】在通知设置界面点击【抖音相册】在关闭抖音相册功能页面点击【关闭相册】完成关闭",
+    "original_instructions": [
+        "open:抖音",
+        "click:设置, 下方",
+        "click:通知设置",
+        "click:抖音相册",
+        "click:关闭相册"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在抖音中关闭抖音相册功能的步骤打开抖音点击下方【设...1. open:抖音2. click:设置, 下方3. click:通知设置4. click:抖音相册5. click:关闭相册START",
+            "type": "open",
+            "para": "抖音",
+            "x": 584,
+            "y": 1266,
+            "endX": 584,
+            "endY": 1266,
+            "storeFolder": "196600279",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:抖音"
+        },
+        {
+            "targetName": "我",
+            "type": "click",
+            "para": "1",
+            "x": 972,
+            "y": 2101,
+            "endX": 972,
+            "endY": 2101,
+            "storeFolder": "201929058",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;X.0sk1|0;android.widget.TabHost|0;android.widget.FrameLayout|2;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|4;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Click 我",
+            "imagePath": "image13.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 974,
+            "y": 186,
+            "endX": 974,
+            "endY": 186,
+            "storeFolder": "152526152",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;X.0sk1|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|2;com.bytedance.highperformanceview.layout.MeasureOnceRelativeLayout2|0;com.bytedance.highperformanceview.layout.MeasureOnceRelativeLayout2|3;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "Click 右上角 三横线",
+            "imagePath": "image14.jpg"
+        },
+        {
+            "targetName": "设置",
+            "type": "click",
+            "para": "1",
+            "x": 628,
+            "y": 1812,
+            "endX": 628,
+            "endY": 1812,
+            "storeFolder": "259230924",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;X.0sk1|1;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.ScrollView|0;android.widget.LinearLayout|2;android.widget.LinearLayout|0;android.widget.LinearLayout|4;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:设置, 下方",
+            "imagePath": "image15.jpg"
+        },
+        {
+            "targetName": "通用设置",
+            "type": "click",
+            "para": "1",
+            "x": 560,
+            "y": 1308,
+            "endX": 560,
+            "endY": 1308,
+            "storeFolder": "116966444",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.ScrollView|0;android.widget.LinearLayout|4;android.widget.LinearLayout|0;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:通用设置",
+            "imagePath": "image16.jpg"
+        },
+        {
+            "targetName": "抖音相册",
+            "type": "switch",
+            "para": "false",
+            "x": 950,
+            "y": 1080,
+            "endX": 950,
+            "endY": 1080,
+            "storeFolder": "236275351",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.ScrollView|0;android.widget.LinearLayout|3;android.widget.LinearLayout|0;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:抖音相册",
+            "imagePath": "image17.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 770,
+            "y": 2022,
+            "endX": 770,
+            "endY": 2022,
+            "storeFolder": "190257440",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.view.View",
+            "absoluteIdAvailable": true,
+            "description": "click:关闭相册",
+            "imagePath": "image18.jpg"
+        }
+    ]
+}

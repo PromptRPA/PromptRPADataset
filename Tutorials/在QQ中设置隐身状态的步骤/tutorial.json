@@ -1,0 +1,98 @@
+{
+    "tutorialId": 146913482,
+    "tutorialName": "在QQ中设置隐身状态的步骤",
+    "tutorialDetail": "在QQ的'我的'界面选择设置在设置界面选择'账号管理'在账号管理选择'在线状态'在在线状态选择隐身选项选择隐身后，点击右上角的确定完成隐身状态的设置",
+    "original_instructions": [
+        "open:QQ的我的界面",
+        "click:设置",
+        "click:账号管理",
+        "click:在线状态选项",
+        "click:隐身选项",
+        "click:确定, 右上角"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在QQ中设置隐身状态的步骤在QQ的'我的'界面...1. open:QQ的我的界面2. click:设置3. click:账号管理4. click:在线状态选项5. click:隐身选项6. click:确定, 右上角START",
+            "type": "open",
+            "para": "QQ",
+            "x": 709,
+            "y": 1182,
+            "endX": 709,
+            "endY": 1182,
+            "storeFolder": "130812923",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:QQ"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 101,
+            "y": 187,
+            "endX": 101,
+            "endY": 187,
+            "storeFolder": "248466931",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|1;android.widget.RelativeLayout|0;android.widget.Button",
+            "absoluteIdAvailable": true,
+            "description": "Click 左上角头像",
+            "imagePath": "image63.jpg"
+        },
+        {
+            "targetName": "设置",
+            "type": "click",
+            "para": "1",
+            "x": 107,
+            "y": 2101,
+            "endX": 107,
+            "endY": 2101,
+            "storeFolder": "77867323",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|2;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.Button",
+            "absoluteIdAvailable": true,
+            "description": "click:设置",
+            "imagePath": "image64.jpg"
+        },
+        {
+            "targetName": "账号管理",
+            "type": "click",
+            "para": "1",
+            "x": 688,
+            "y": 397,
+            "endX": 688,
+            "endY": 397,
+            "storeFolder": "146427170",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:账号管理",
+            "imagePath": "image65.jpg"
+        },
+        {
+            "targetName": "在线状态[图片]在线",
+            "type": "click",
+            "para": "1",
+            "x": 901,
+            "y": 1161,
+            "endX": 901,
+            "endY": 1161,
+            "storeFolder": "50909605",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|1;android.widget.LinearLayout|3;com.tencent.mobileqq.widget.listitem.QUISingleLineListItem",
+            "absoluteIdAvailable": true,
+            "description": "click:在线状态选项",
+            "imagePath": "image66.jpg"
+        },
+        {
+            "targetName": "隐身",
+            "type": "click",
+            "para": "1",
+            "x": 715,
+            "y": 702,
+            "endX": 715,
+            "endY": 702,
+            "storeFolder": "221140829",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|0;android.widget.AbsListView|0;android.widget.LinearLayout|0;android.widget.RelativeLayout|0;androidx.viewpager.widget.ViewPager|0;android.view.ViewGroup|6;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:隐身选项",
+            "imagePath": "image67.jpg"
+        }
+    ]
+}

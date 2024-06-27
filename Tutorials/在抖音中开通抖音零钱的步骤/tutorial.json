@@ -1,0 +1,84 @@
+{
+    "tutorialId": 643746744,
+    "tutorialName": "在抖音中开通抖音零钱的步骤",
+    "tutorialDetail": "首先打开抖音，并在菜单页面点击“钱包”然后在钱包页面，点击“我的资产”接着点击“抖音零钱”最后，进行身份验证，确认开通成功",
+    "original_instructions": [
+        "open:抖音",
+        "click:钱包, 菜单页面",
+        "click:我的资产, 钱包页面",
+        "click:抖音零钱",
+        "edit:身份验证",
+        "click:开通成功确认"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在抖音中开通抖音零钱的步骤首先打开抖音，并在菜...1. open:抖音2. click:钱包, 菜单页面3. click:我的资产, 钱包页面4. click:抖音零钱5. edit:身份验证6. click:开通成功确认START",
+            "type": "open",
+            "para": "抖音",
+            "x": 481,
+            "y": 1104,
+            "endX": 481,
+            "endY": 1104,
+            "storeFolder": "238726471",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:抖音"
+        },
+        {
+            "targetName": "我",
+            "type": "click",
+            "para": "1",
+            "x": 942,
+            "y": 2097,
+            "endX": 942,
+            "endY": 2097,
+            "storeFolder": "186218380",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;X.0sk1|0;android.widget.TabHost|0;android.widget.FrameLayout|1;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|4;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Click 我的",
+            "imagePath": "image0.jpg"
+        },
+        {
+            "targetName": "我的钱包",
+            "type": "click",
+            "para": "1",
+            "x": 416,
+            "y": 1124,
+            "endX": 416,
+            "endY": 1124,
+            "storeFolder": "153702276",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;X.0sk1|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.view.ViewGroup|4;android.widget.LinearLayout|0;android.view.ViewGroup|0;android.widget.HorizontalScrollView|0;android.widget.LinearLayout|1;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的钱包",
+            "imagePath": "image1.jpg"
+        },
+        {
+            "targetName": "全部兑红包日用美食搜索筛选/排序我能兑换的甄选好券官方补贴1分购1元购超值兑返回 按钮我的钱包过亿人都在用**健的钱包已实名安全保障中总资产(元)0.00钻石DOU+卡券银行卡00.0031账单活动红包提现成功¥13.143天前全部次日可还放心借 次日可还 按钮抖音月付  按钮抖音支付  按钮我的保障  按钮放心借抖音月付抖音支付我的保障手机充值  按钮抖音信用卡  按钮生活缴费  按钮粉丝团  按钮手机充值抖音信用卡生活缴费粉丝团抖音商城  按钮附近团购  按钮电影票  按钮更多服务  按钮抖音商城附近团购电影票更多服务抖音支付积分 余额0 按钮连续签到领现金立即签到+1 按钮今天第2天第3天第4天第5天第6天第7天最高10元最高10元最高10元+4积分+5积分+6积分最高10元做任务赚积分 更多 按钮完成3个任务可再得+100(0/3)领取你的信用额度 成功激活，再得最高30天免息 抖币+150 去激活 按钮关注抖音电商官方账号 美好生活，触手可得 抖币+5 去关注 按钮机场贵宾权益，酒店甄选优惠 滑动浏览30秒 抖币+10 去看看 按钮美食周三5折，首年免年费 滑动浏览30秒 抖币+10 去看看 按钮全部兑红包日用美食搜索筛选/排序我能兑换的甄选好券官方补贴1分购1元购超值兑热兑榜1.5元电费红包9 积分 已兑5.7万积分热兑榜第6名0.5元-5元抖音随机支付红包1 积分 已兑243.0万积分热兑榜第1名- 抖音钱包 -",
+            "type": "click",
+            "para": "1",
+            "x": 641,
+            "y": 546,
+            "endX": 641,
+            "endY": 546,
+            "storeFolder": "38733208",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的资产, 钱包页面",
+            "imagePath": "image2.jpg"
+        },
+        {
+            "targetName": "balance_light抖音零钱payment_security_light_v4_02.png~tplv-obj保障中0.00SURBVCjPY6AQlApjCDkKKqALCQoKoQsZCmIoY8KiTHHIKRPDI4TQaIDHeITpg00RKNIIR20gZgIoEWagHAAABhIJ0Li82JsAAAAASUVORK5CYII=随取随用，即时到账",
+            "type": "click",
+            "para": "1",
+            "x": 661,
+            "y": 970,
+            "endX": 661,
+            "endY": 970,
+            "storeFolder": "61456797",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.webkit.WebView|0;android.webkit.WebView|0;android.view.View|0;android.view.View|1;android.view.View|3;android.view.View",
+            "absoluteIdAvailable": true,
+            "description": "click:抖音零钱",
+            "imagePath": "image3.jpg"
+        }
+    ]
+}

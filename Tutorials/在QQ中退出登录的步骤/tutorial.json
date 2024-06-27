@@ -1,0 +1,98 @@
+{
+    "tutorialId": -1759420665,
+    "tutorialName": "在QQ中退出登录的步骤",
+    "tutorialDetail": "打开QQ，选择个人头像进入个人主页在个人主页下方选择【设置】并点击在设置页面中选择【帐号管理】在帐号管理页面下方选择【退出】在弹出的提示中选择【退出登录】以完成操作",
+    "original_instructions": [
+        "open:QQ",
+        "click:个人头像",
+        "click:设置, 个人主页下方",
+        "click:帐号管理",
+        "click:退出, 帐号管理页面下方",
+        "click:退出登录"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在QQ中退出登录的步骤打开QQ，选择个人头...1. open:QQ2. click:个人头像3. click:设置, 个人主页下方4. click:帐号管理5. click:退出, 帐号管理页面下方6. click:退出登录START",
+            "type": "open",
+            "para": "QQ",
+            "x": 689,
+            "y": 1157,
+            "endX": 689,
+            "endY": 1157,
+            "storeFolder": "64506944",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:QQ"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 92,
+            "y": 176,
+            "endX": 92,
+            "endY": 176,
+            "storeFolder": "17230286",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|1;android.widget.RelativeLayout|0;android.widget.Button",
+            "absoluteIdAvailable": true,
+            "description": "click:个人头像",
+            "imagePath": "image7.jpg"
+        },
+        {
+            "targetName": "设置",
+            "type": "click",
+            "para": "1",
+            "x": 76,
+            "y": 2139,
+            "endX": 76,
+            "endY": 2139,
+            "storeFolder": "121615543",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|2;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.Button",
+            "absoluteIdAvailable": true,
+            "description": "click:设置, 个人主页下方",
+            "imagePath": "image8.jpg"
+        },
+        {
+            "targetName": "账号管理",
+            "type": "click",
+            "para": "1",
+            "x": 725,
+            "y": 389,
+            "endX": 725,
+            "endY": 389,
+            "storeFolder": "224266889",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:帐号管理",
+            "imagePath": "image9.jpg"
+        },
+        {
+            "targetName": "退出",
+            "type": "click",
+            "para": "1",
+            "x": 740,
+            "y": 1342,
+            "endX": 740,
+            "endY": 1342,
+            "storeFolder": "23943361",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|1;android.widget.LinearLayout|4;com.tencent.mobileqq.widget.listitem.QUISingleLineListItem",
+            "absoluteIdAvailable": true,
+            "description": "click:退出, 帐号管理页面下方",
+            "imagePath": "image10.jpg"
+        },
+        {
+            "targetName": "退出登录",
+            "type": "click",
+            "para": "1",
+            "x": 711,
+            "y": 1821,
+            "endX": 711,
+            "endY": 1821,
+            "storeFolder": "94495936",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.ScrollView|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:退出登录",
+            "imagePath": "image11.jpg"
+        }
+    ]
+}

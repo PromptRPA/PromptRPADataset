@@ -1,0 +1,82 @@
+{
+    "tutorialId": 736653968,
+    "tutorialName": "在微博中进入修正粉丝页面的步骤",
+    "tutorialDetail": "选择并点击【我的】进入个人页面点击右上角图标进入设置选择并点击【客服中心】选择并点击【修正粉丝】进入修正页面",
+    "original_instructions": [
+        "click:我的",
+        "click:右上角图标",
+        "click:客服中心",
+        "click:修正粉丝"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在微博中进入修正粉丝页面的步骤选择并点击【我的】进...1. click:我的2. click:右上角图标3. click:客服中心4. click:修正粉丝START",
+            "type": "open",
+            "para": "微博",
+            "x": 751,
+            "y": 1157,
+            "endX": 751,
+            "endY": 1157,
+            "storeFolder": "151525973",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "Open 微博"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 938,
+            "y": 2104,
+            "endX": 938,
+            "endY": 2104,
+            "storeFolder": "51882507",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.viewpager.widget.ViewPager|0;android.widget.TabHost|2;android.widget.FrameLayout|0;android.widget.LinearLayout|4;android.widget.FrameLayout|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的",
+            "imagePath": "image116.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 989,
+            "y": 201,
+            "endX": 989,
+            "endY": 201,
+            "storeFolder": "193832544",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.viewpager.widget.ViewPager|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|3;android.widget.ImageView",
+            "absoluteIdAvailable": true,
+            "description": "click:右上角图标",
+            "imagePath": "image117.jpg"
+        },
+        {
+            "targetName": "返回设置",
+            "type": "click",
+            "para": "1",
+            "x": 581,
+            "y": 2049,
+            "endX": 581,
+            "endY": 2049,
+            "storeFolder": "97774741",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:客服中心",
+            "imagePath": "image118.jpg"
+        },
+        {
+            "targetName": "修正粉丝",
+            "type": "click",
+            "para": "1",
+            "x": 129,
+            "y": 873,
+            "endX": 129,
+            "endY": 873,
+            "storeFolder": "197610359",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.webkit.WebView|0;android.webkit.WebView|0;android.view.View|0;android.view.View|0;android.view.View|0;android.view.View|0;android.view.View|0;android.view.View|0;android.view.View|0;android.view.View|2;android.view.View|0;android.view.View|4;android.view.View",
+            "absoluteIdAvailable": true,
+            "description": "click:修正粉丝",
+            "imagePath": "image119.jpg"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "tutorialId": 13477509,
+    "tutorialName": "在支付宝进行新用户注册的步骤",
+    "tutorialDetail": "打开支付宝APP，点击【新用户注册】输入手机号码，点击【注册】按钮根据系统指引进行身份验证验证成功后设置支付密码设置成功后点击【完成】以完成注册",
+    "original_instructions": [
+        "open:支付宝APP",
+        "click:新用户注册",
+        "edit:手机号码输入框",
+        "click:注册按钮",
+        "operate:按照系统指引进行身份验证",
+        "edit:支付密码设置输入框",
+        "click:完成"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在支付宝进行新用户注册的步骤打开支付宝APP，点...1. open:支付宝APP2. click:新用户注册3. edit:手机号码输入框4. click:注册按钮5. operate:按照系统指引进行身份验证6. edit:支付密码设置输入框7. click:完成START",
+            "type": "open",
+            "para": "支付宝",
+            "x": 680,
+            "y": 1121,
+            "endX": 680,
+            "endY": 1121,
+            "storeFolder": "190993450",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:支付宝APP"
+        },
+        {
+            "targetName": "133******39刷脸登录上次使用",
+            "type": "click",
+            "para": "1",
+            "x": 561,
+            "y": 2132,
+            "endX": 561,
+            "endY": 2132,
+            "storeFolder": "159286553",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "Click 更多选项.",
+            "imagePath": "image15.jpg"
+        },
+        {
+            "targetName": "注册账号",
+            "type": "click",
+            "para": "1",
+            "x": 589,
+            "y": 1581,
+            "endX": 589,
+            "endY": 1581,
+            "storeFolder": "83604972",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|1;android.widget.FrameLayout|0;android.support.v7.widget.RecyclerView|0;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:新用户注册",
+            "imagePath": "image16.jpg"
+        },
+        {
+            "targetName": "输入手机号，注册支付宝",
+            "type": "edit",
+            "para": "13088535760",
+            "x": 698,
+            "y": 1624,
+            "endX": 698,
+            "endY": 1624,
+            "storeFolder": "151109084",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|2;android.widget.EditText",
+            "absoluteIdAvailable": true,
+            "description": "edit:手机号码输入框",
+            "imagePath": "image17.jpg"
+        },
+        {
+            "targetName": "立即注册",
+            "type": "click",
+            "para": "1",
+            "x": 781,
+            "y": 1244,
+            "endX": 781,
+            "endY": 1244,
+            "storeFolder": "126641858",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|1;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:注册按钮",
+            "imagePath": "image18.jpg"
+        }
+    ]
+}

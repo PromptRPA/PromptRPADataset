@@ -1,0 +1,68 @@
+{
+    "tutorialId": 570605802,
+    "tutorialName": "在影视大全app中设置所在地的步骤",
+    "tutorialDetail": "打开手机上的影视大全app在界面中找到并点击编辑功能在所在地栏目选择或输入自己的所在地找到并点击确认来完成所在地设置",
+    "original_instructions": [
+        "open:影视大全app",
+        "click:编辑功能",
+        "edit:所在地栏目",
+        "click:确认"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在影视大全app中设置所在地的步骤打开手机上的影视大全...1. open:影视大全app2. click:编辑功能3. edit:所在地栏目4. click:确认START",
+            "type": "open",
+            "para": "影视大全",
+            "x": 750,
+            "y": 1142,
+            "endX": 750,
+            "endY": 1142,
+            "storeFolder": "201916412",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:影视大全app"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 936,
+            "y": 2152,
+            "endX": 936,
+            "endY": 2152,
+            "storeFolder": "211125133",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|3;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "Click 我的.",
+            "imagePath": "image229.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 662,
+            "y": 349,
+            "endX": 662,
+            "endY": 349,
+            "storeFolder": "1068732",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.ScrollView|0;android.view.ViewGroup|0;android.view.ViewGroup|2;android.widget.ImageView",
+            "absoluteIdAvailable": true,
+            "description": "click:编辑功能",
+            "imagePath": "image230.jpg"
+        },
+        {
+            "targetName": "所在地北京市",
+            "type": "click",
+            "para": "1",
+            "x": 895,
+            "y": 1205,
+            "endX": 895,
+            "endY": 1205,
+            "storeFolder": "250286925",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|3;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "Click 所在地.",
+            "imagePath": "image231.jpg"
+        }
+    ]
+}

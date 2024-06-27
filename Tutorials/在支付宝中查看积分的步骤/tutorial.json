@@ -1,0 +1,68 @@
+{
+    "tutorialId": 405994836,
+    "tutorialName": "在支付宝中查看积分的步骤",
+    "tutorialDetail": "打开支付宝主页面，点击右下角的【我的】在我的页面中点击【支付宝会员】进入在支付宝会员页面中点击【积分】，即可查看支付宝积分",
+    "original_instructions": [
+        "open:支付宝主页面",
+        "click:我的, 右下角",
+        "click:支付宝会员",
+        "click:积分"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在支付宝中查看积分的步骤打开支付宝主页面，点...1. open:支付宝主页面2. click:我的, 右下角3. click:支付宝会员4. click:积分START",
+            "type": "open",
+            "para": "支付宝",
+            "x": 654,
+            "y": 1256,
+            "endX": 654,
+            "endY": 1256,
+            "storeFolder": "46615074",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:支付宝主页面"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 929,
+            "y": 2118,
+            "endX": 929,
+            "endY": 2118,
+            "storeFolder": "240602564",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.TabHost|1;android.widget.FrameLayout|0;android.widget.TabWidget|4;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的, 右下角",
+            "imagePath": "image16.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 227,
+            "y": 586,
+            "endX": 227,
+            "endY": 586,
+            "storeFolder": "213378189",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|1;android.support.v7.widget.RecyclerView|1;android.widget.FrameLayout|0;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:支付宝会员",
+            "imagePath": "image17.jpg"
+        },
+        {
+            "targetName": "45积分查看收支/订单/规则",
+            "type": "click",
+            "para": "1",
+            "x": 117,
+            "y": 629,
+            "endX": 117,
+            "endY": 629,
+            "storeFolder": "27124868",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;com.alipay.mywebview.sdk.WebView|0;android.webkit.WebView|0;android.view.View|0;android.view.View|1;android.view.View|0;android.view.View|0;android.view.View",
+            "absoluteIdAvailable": true,
+            "description": "click:积分",
+            "imagePath": "image18.jpg"
+        }
+    ]
+}

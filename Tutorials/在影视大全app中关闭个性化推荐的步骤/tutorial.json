@@ -1,0 +1,68 @@
+{
+    "tutorialId": -1836609592,
+    "tutorialName": "在影视大全app中关闭个性化推荐的步骤",
+    "tutorialDetail": "打开手机桌面上的【影视大全】app在APP首页窗口点击【我的】在我的窗口点击【设置】在设置窗口点击【个性化推荐】右侧按钮进行关闭",
+    "original_instructions": [
+        "open:影视大全 app, 手机桌面上",
+        "click:我的, APP首页窗口",
+        "click:设置, 我的窗口",
+        "switch:个性化推荐右侧按钮, 设置窗口"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在影视大全app中关闭个性化推荐的步骤打开手机桌面上的【影...1. open:影视大全 app, 手机桌面上2. click:我的, APP首页窗口3. click:设置, 我的窗口4. switch:个性化推荐右侧按钮, 设置窗口START",
+            "type": "open",
+            "para": "影视大全",
+            "x": 776,
+            "y": 1153,
+            "endX": 776,
+            "endY": 1153,
+            "storeFolder": "86850231",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:影视大全 app, 手机桌面上"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 944,
+            "y": 2134,
+            "endX": 944,
+            "endY": 2134,
+            "storeFolder": "14092274",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|3;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的, APP首页窗口",
+            "imagePath": "image215.jpg"
+        },
+        {
+            "targetName": "设置",
+            "type": "click",
+            "para": "1",
+            "x": 755,
+            "y": 1402,
+            "endX": 755,
+            "endY": 1402,
+            "storeFolder": "197928885",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|4;android.widget.LinearLayout|2;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:设置, 我的窗口",
+            "imagePath": "image216.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "switch",
+            "para": "false",
+            "x": 937,
+            "y": 894,
+            "endX": 937,
+            "endY": 894,
+            "storeFolder": "94746183",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.ScrollView|0;android.widget.LinearLayout|1;android.widget.LinearLayout|1;android.widget.RelativeLayout|1;android.widget.ToggleButton",
+            "absoluteIdAvailable": true,
+            "description": "switch:个性化推荐右侧按钮, 设置窗口",
+            "imagePath": "image217.jpg"
+        }
+    ]
+}

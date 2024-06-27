@@ -1,0 +1,83 @@
+{
+    "tutorialId": -1855149859,
+    "tutorialName": "在最美天气APP中切换到粤语个性播报的步骤",
+    "tutorialDetail": "打开最美天气APP，选择底部的【我】以打开个人页面在特色功能中点击【个性播报】在个性播报页面中，点击【粤语】后面的【下载】下载成功后，点击【使用】以切换到粤语播报",
+    "original_instructions": [
+        "open:最美天气APP",
+        "click:我, 底部",
+        "click:个性播报, 特色功能中",
+        "click:下载, 粤语后面",
+        "click:使用, 下载成功后"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在最美天气APP中切换到粤语个性播报的步骤打开最美天气APP，...1. open:最美天气APP2. click:我, 底部3. click:个性播报, 特色功能中4. click:下载, 粤语后面5. click:使用, 下载成功后START",
+            "type": "open",
+            "para": "最美天气",
+            "x": 456,
+            "y": 1292,
+            "endX": 456,
+            "endY": 1292,
+            "storeFolder": "41534460",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:最美天气APP"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 962,
+            "y": 2150,
+            "endX": 962,
+            "endY": 2150,
+            "storeFolder": "143526216",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|3;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我, 底部",
+            "imagePath": "image31.jpg"
+        },
+        {
+            "targetName": "133****3239快来点亮勋章吧 >1关注城市--收藏--亲情短信40云豆会员中心更多任务中心更多无广告亲情短信专属主题钓鱼指数个性主题查看更多树的世界财福多多自在远山水墨禅韵特色功能桌面插件台风路径历史天气语音播报首页90天发现我的",
+            "type": "scroll",
+            "para": "down",
+            "x": 554,
+            "y": 1802,
+            "endX": 710,
+            "endY": 1118,
+            "storeFolder": "153575541",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image32.jpg"
+        },
+        {
+            "targetName": "语音播报",
+            "type": "click",
+            "para": "1",
+            "x": 898,
+            "y": 1631,
+            "endX": 901,
+            "endY": 1629,
+            "storeFolder": "62912324",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.recyclerview.widget.RecyclerView|2;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.RelativeLayout|1;androidx.recyclerview.widget.RecyclerView|3;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:个性播报, 特色功能中",
+            "imagePath": "image33.jpg"
+        },
+        {
+            "targetName": "粤语使用中100万人正在使用",
+            "type": "click",
+            "para": "1",
+            "x": 899,
+            "y": 440,
+            "endX": 899,
+            "endY": 440,
+            "storeFolder": "113448166",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|0;android.view.ViewGroup|0;androidx.recyclerview.widget.RecyclerView|0;android.widget.RelativeLayout|1;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:粤语",
+            "imagePath": "image34.jpg"
+        }
+    ]
+}

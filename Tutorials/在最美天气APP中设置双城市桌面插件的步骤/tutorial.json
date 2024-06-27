@@ -1,0 +1,85 @@
+{
+    "tutorialId": 970747991,
+    "tutorialName": "在最美天气APP中设置双城市桌面插件的步骤",
+    "tutorialDetail": "打开手机中的*美城市APP并进入【我】的页面在特色功能中点击【桌面插件】找到【双城市】选项并点击右侧的【使用】应用设置后，返回手机桌面查看新增的双城市天气插件",
+    "original_instructions": [
+        "open:美城市APP",
+        "click:我的页面",
+        "click:特色功能",
+        "click:桌面插件",
+        "click:双城市选项",
+        "click:使用, 右侧",
+        "back:home page"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在*美城市APP中设置双城市桌面插件的步骤打开手机中的*美城市...1. open:美城市APP2. click:我的页面3. click:特色功能4. click:桌面插件5. click:双城市选项6. click:使用, 右侧7. back:home pageSTART",
+            "type": "open",
+            "para": "最美天气",
+            "x": 350,
+            "y": 1131,
+            "endX": 350,
+            "endY": 1131,
+            "storeFolder": "170082240",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "Open 最美天气"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 940,
+            "y": 2131,
+            "endX": 940,
+            "endY": 2131,
+            "storeFolder": "156424021",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|3;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的页面",
+            "imagePath": "image26.jpg"
+        },
+        {
+            "targetName": "133****3239快来点亮勋章吧 >1关注城市--收藏--亲情短信40云豆会员中心更多任务中心更多无广告亲情短信专属主题钓鱼指数个性主题查看更多树的世界财福多多自在远山水墨禅韵特色功能桌面插件台风路径历史天气语音播报首页90天发现我的",
+            "type": "scroll",
+            "para": "down",
+            "x": 618,
+            "y": 1817,
+            "endX": 432,
+            "endY": 1157,
+            "storeFolder": "6469858",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image27.jpg"
+        },
+        {
+            "targetName": "桌面插件",
+            "type": "click",
+            "para": "1",
+            "x": 112,
+            "y": 1628,
+            "endX": 112,
+            "endY": 1628,
+            "storeFolder": "98903410",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.recyclerview.widget.RecyclerView|2;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.RelativeLayout|1;androidx.recyclerview.widget.RecyclerView|0;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:桌面插件",
+            "imagePath": "image28.jpg"
+        },
+        {
+            "targetName": "使用",
+            "type": "click",
+            "para": "1",
+            "x": 916,
+            "y": 392,
+            "endX": 916,
+            "endY": 392,
+            "storeFolder": "159216264",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|0;android.view.ViewGroup|0;androidx.recyclerview.widget.RecyclerView|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|2;android.widget.LinearLayout|0;android.widget.Button",
+            "absoluteIdAvailable": true,
+            "description": "click:使用, 右侧",
+            "imagePath": "image30.jpg"
+        }
+    ]
+}

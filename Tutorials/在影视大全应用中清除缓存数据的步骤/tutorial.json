@@ -1,0 +1,95 @@
+{
+    "tutorialId": 704692338,
+    "tutorialName": "在影视大全应用中清除缓存数据的步骤",
+    "tutorialDetail": "选择并点击【我的】以进入个人区域选择并点击【设置】以进入设置菜单选择并点击【清除缓存数据】以执行清除操作",
+    "original_instructions": [
+        "click:我的",
+        "click:设置",
+        "click:清除缓存数据"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在某个应用中清除缓存数据的步骤选择并点击【我的】以...1. click:我的2. click:设置3. click:清除缓存数据START",
+            "type": "open",
+            "para": "影视大全",
+            "x": 717,
+            "y": 1244,
+            "endX": 717,
+            "endY": 1244,
+            "storeFolder": "218611940",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "Open 影视大全"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 945,
+            "y": 2156,
+            "endX": 945,
+            "endY": 2156,
+            "storeFolder": "94724719",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|3;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的",
+            "imagePath": "image232.jpg"
+        },
+        {
+            "targetName": "设置",
+            "type": "click",
+            "para": "1",
+            "x": 565,
+            "y": 1433,
+            "endX": 565,
+            "endY": 1433,
+            "storeFolder": "261904245",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.ScrollView|0;android.view.ViewGroup|4;android.widget.LinearLayout|2;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:设置",
+            "imagePath": "image233.jpg"
+        },
+        {
+            "targetName": "账户账户与安全播放个性化推荐跳过片头片尾短视频WIFI下自动播放短视频非WIFI下自动播放首页大卡片非WIFI下自动播放下载下载存储路径手机内置存储允许流量下载个人信息设置",
+            "type": "scroll",
+            "para": "down",
+            "x": 527,
+            "y": 1858,
+            "endX": 647,
+            "endY": 806,
+            "storeFolder": "206446634",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image234.jpg"
+        },
+        {
+            "targetName": "短视频WIFI下自动播放短视频非WIFI下自动播放首页大卡片非WIFI下自动播放下载下载存储路径手机内置存储允许流量下载个人信息个人信息收集清单第三方共享个人信息清单其他青少年模式隐私设置清除缓存0.02MB设置",
+            "type": "scroll",
+            "para": "down",
+            "x": 548,
+            "y": 1789,
+            "endX": 811,
+            "endY": 803,
+            "storeFolder": "115408878",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image235.jpg"
+        },
+        {
+            "targetName": "清除缓存0.02MB",
+            "type": "click",
+            "para": "1",
+            "x": 440,
+            "y": 2002,
+            "endX": 440,
+            "endY": 2002,
+            "storeFolder": "237495201",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.ScrollView|0;android.widget.LinearLayout|3;android.widget.LinearLayout|3;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:清除缓存数据",
+            "imagePath": "image236.jpg"
+        }
+    ]
+}

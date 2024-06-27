@@ -1,0 +1,67 @@
+{
+    "tutorialId": 789130831,
+    "tutorialName": "在最美天气应用中查看应用权限说明的步骤",
+    "tutorialDetail": "从主界面选择并点击【我的】在个人页面中选择并点击【设置】在设置页面中选择并点击【应用权限说明】以查看权限详情",
+    "original_instructions": [
+        "click:我的, 主界面",
+        "click:设置, 个人页面",
+        "click:应用权限说明, 设置页面"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在应用中查看应用权限说明的步骤从主界面选择并点击【...1. click:我的, 主界面2. click:设置, 个人页面3. click:应用权限说明, 设置页面START",
+            "type": "open",
+            "para": "最美天气",
+            "x": 656,
+            "y": 1123,
+            "endX": 656,
+            "endY": 1123,
+            "storeFolder": "248044670",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "Open 最美天气"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 952,
+            "y": 2149,
+            "endX": 952,
+            "endY": 2149,
+            "storeFolder": "7365240",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|3;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的, 主界面",
+            "imagePath": "image9.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 1008,
+            "y": 192,
+            "endX": 1008,
+            "endY": 192,
+            "storeFolder": "101893775",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.RelativeLayout|0;android.widget.RelativeLayout|1;android.widget.ImageView",
+            "absoluteIdAvailable": true,
+            "description": "click:设置, 个人页面",
+            "imagePath": "image10.jpg"
+        },
+        {
+            "targetName": "应用权限说明",
+            "type": "click",
+            "para": "1",
+            "x": 628,
+            "y": 1626,
+            "endX": 628,
+            "endY": 1626,
+            "storeFolder": "196018909",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.RelativeLayout|0;android.widget.ScrollView|0;android.widget.LinearLayout|8;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:应用权限说明, 设置页面",
+            "imagePath": "image11.jpg"
+        }
+    ]
+}

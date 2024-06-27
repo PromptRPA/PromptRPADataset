@@ -1,0 +1,83 @@
+{
+    "tutorialId": -77649438,
+    "tutorialName": "在飞书中删除日程的步骤",
+    "tutorialDetail": "首先打开飞书然后点击日历选择需删除的日程接着点击右上角三个点图标再点击删除日程，完成删除操作",
+    "original_instructions": [
+        "open:飞书",
+        "click:日历",
+        "click:需删除的日程",
+        "click:三个点图标, 右上角",
+        "click:删除日程"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在飞书中删除日程的步骤首先打开飞书然后点击...1. open:飞书2. click:日历3. click:需删除的日程4. click:三个点图标, 右上角5. click:删除日程START",
+            "type": "open",
+            "para": "飞书",
+            "x": 582,
+            "y": 1180,
+            "endX": 582,
+            "endY": 1180,
+            "storeFolder": "85530780",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:飞书"
+        },
+        {
+            "targetName": "日历",
+            "type": "click",
+            "para": "1",
+            "x": 281,
+            "y": 2105,
+            "endX": 273,
+            "endY": 2107,
+            "storeFolder": "199859857",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.view.ViewGroup|1;android.widget.LinearLayout|1;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:日历",
+            "imagePath": "image33.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 495,
+            "y": 1171,
+            "endX": 495,
+            "endY": 1171,
+            "storeFolder": "46041570",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.view.ViewGroup|0;android.widget.LinearLayout|1;androidx.viewpager.widget.ViewPager|0;androidx.recyclerview.widget.RecyclerView|0;android.widget.FrameLayout|0;android.widget.FrameLayout|1;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|1;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;androidx.recyclerview.widget.RecyclerView|3;android.widget.RelativeLayout|0;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:需删除的日程",
+            "imagePath": "image34.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 988,
+            "y": 180,
+            "endX": 988,
+            "endY": 180,
+            "storeFolder": "188620254",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|2;android.widget.LinearLayout|2;android.widget.ImageView",
+            "absoluteIdAvailable": true,
+            "description": "click:三个点图标, 右上角",
+            "imagePath": "image35.jpg"
+        },
+        {
+            "targetName": "删除日程",
+            "type": "click",
+            "para": "1",
+            "x": 582,
+            "y": 1919,
+            "endX": 582,
+            "endY": 1919,
+            "storeFolder": "186530340",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.ScrollView|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;androidx.recyclerview.widget.RecyclerView|2;android.widget.LinearLayout|0;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:删除日程",
+            "imagePath": "image36.jpg"
+        }
+    ]
+}

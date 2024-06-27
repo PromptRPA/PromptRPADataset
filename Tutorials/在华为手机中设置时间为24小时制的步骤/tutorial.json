@@ -1,0 +1,113 @@
+{
+    "tutorialId": -170901052,
+    "tutorialName": "在华为手机中设置时间为24小时制的步骤",
+    "tutorialDetail": "解锁华为手机，点击桌面上的“设置”应用滑动屏幕到最底部，点击“系统”选项点击“日期和时间”找到“24小时制”选项，点击其右侧的开关按钮以开启开启24小时制后，点击左上角返回回到首页，检查时间是否已改为24小时制",
+    "original_instructions": [
+        "click:设置, 桌面上的图标",
+        "scroll:屏幕",
+        "click:系统",
+        "click:日期和时间",
+        "switch:24小时制, 右侧的开关按钮",
+        "click:返回, 左上角",
+        "back:首页"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在华为手机中设置时间为24小时制的步骤解锁华为手机，点击桌...1. click:设置, 桌面上的图标2. scroll:屏幕3. click:系统4. click:日期和时间5. switch:24小时制, 右侧的开关按钮6. click:返回, 左上角7. back:首页START",
+            "type": "open",
+            "para": "设置",
+            "x": 317,
+            "y": 1154,
+            "endX": 317,
+            "endY": 1154,
+            "storeFolder": "235698343",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "Open 设置"
+        },
+        {
+            "targetName": "anxieter华为帐号、付款与账单、云空间等WLANXuan蓝牙已开启移动网络超级终端更多连接桌面和个性化显示和亮度搜索设置项",
+            "type": "scroll",
+            "para": "down",
+            "x": 652,
+            "y": 1963,
+            "endX": 991,
+            "endY": 394,
+            "storeFolder": "112095769",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "scroll:屏幕",
+            "imagePath": "image82.jpg"
+        },
+        {
+            "targetName": "超级终端更多连接桌面和个性化显示和亮度声音和振动通知和状态栏生物识别和密码应用和服务电池存储安全",
+            "type": "scroll",
+            "para": "down",
+            "x": 660,
+            "y": 1964,
+            "endX": 658,
+            "endY": 202,
+            "storeFolder": "51309440",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image83.jpg"
+        },
+        {
+            "targetName": "电池存储安全隐私健康使用手机智慧助手钱包和支付辅助功能用户和帐户HMS CoreGoogle",
+            "type": "scroll",
+            "para": "down",
+            "x": 683,
+            "y": 2001,
+            "endX": 696,
+            "endY": 420,
+            "storeFolder": "147745184",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image84.jpg"
+        },
+        {
+            "targetName": "系统和更新",
+            "type": "click",
+            "para": "1",
+            "x": 642,
+            "y": 1871,
+            "endX": 642,
+            "endY": 1871,
+            "storeFolder": "151052216",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.recyclerview.widget.RecyclerView|9;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:系统",
+            "imagePath": "image85.jpg"
+        },
+        {
+            "targetName": "日期和时间",
+            "type": "click",
+            "para": "1",
+            "x": 755,
+            "y": 945,
+            "endX": 755,
+            "endY": 945,
+            "storeFolder": "83124432",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.widget.LinearLayout|1;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.recyclerview.widget.RecyclerView|3;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:日期和时间",
+            "imagePath": "image86.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "switch",
+            "para": "true",
+            "x": 942,
+            "y": 413,
+            "endX": 942,
+            "endY": 413,
+            "storeFolder": "95867024",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.widget.LinearLayout|1;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.recyclerview.widget.RecyclerView|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|1;android.widget.LinearLayout|0;android.widget.Switch",
+            "absoluteIdAvailable": true,
+            "description": "switch:24小时制, 右侧的开关按钮",
+            "imagePath": "image87.jpg"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "tutorialId": -673004139,
+    "tutorialName": "在支付宝中查看账号注册时间的步骤",
+    "tutorialDetail": "打开支付宝主页，点击底部的【我的】进入我的页面，点击右上角的设置图标进入设置页面，点击【账号与安全】在账号与安全页面，点击【管理名下账号】在名下账号页面，点击当前账号进入账号信息页面在账号信息页面查看账号的注册时间",
+    "original_instructions": [
+        "open:支付宝主页",
+        "click:我的, 底部",
+        "click:设置图标, 右上角",
+        "click:账号与安全",
+        "click:管理名下账号",
+        "click:当前账号",
+        "scroll:账号信息页面"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在支付宝中查看账号注册时间的步骤打开支付宝主页，点击...1. open:支付宝主页2. click:我的, 底部3. click:设置图标, 右上角4. click:账号与安全5. click:管理名下账号6. click:当前账号7. scroll:账号信息页面START",
+            "type": "open",
+            "para": "支付宝",
+            "x": 858,
+            "y": 1301,
+            "endX": 858,
+            "endY": 1301,
+            "storeFolder": "264704591",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:支付宝主页"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 979,
+            "y": 2129,
+            "endX": 979,
+            "endY": 2129,
+            "storeFolder": "234454837",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.TabHost|1;android.widget.FrameLayout|0;android.widget.TabWidget|4;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的, 底部",
+            "imagePath": "image248.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 1000,
+            "y": 231,
+            "endX": 1000,
+            "endY": 231,
+            "storeFolder": "252654483",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|2;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:设置图标, 右上角",
+            "imagePath": "image249.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 778,
+            "y": 374,
+            "endX": 778,
+            "endY": 374,
+            "storeFolder": "160544934",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|1;android.widget.LinearLayout|0;android.support.v7.widget.RecyclerView|0;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:账号与安全",
+            "imagePath": "image250.jpg"
+        },
+        {
+            "targetName": "名下其他账号",
+            "type": "click",
+            "para": "1",
+            "x": 819,
+            "y": 1307,
+            "endX": 819,
+            "endY": 1307,
+            "storeFolder": "180976688",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;com.alipay.mywebview.sdk.WebView|0;android.webkit.WebView|0;android.view.View|2;android.view.View|1;android.view.View",
+            "absoluteIdAvailable": true,
+            "description": "click:管理名下账号",
+            "imagePath": "image251.jpg"
+        },
+        {
+            "targetName": "已登录133******39注册时间2021.08.06",
+            "type": "click",
+            "para": "1",
+            "x": 729,
+            "y": 832,
+            "endX": 729,
+            "endY": 832,
+            "storeFolder": "88214557",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;com.alipay.mywebview.sdk.WebView|0;android.webkit.WebView|0;android.view.View|0;android.view.View|0;android.view.View|1;android.view.View",
+            "absoluteIdAvailable": true,
+            "description": "click:当前账号",
+            "imagePath": "image252.jpg"
+        }
+    ]
+}

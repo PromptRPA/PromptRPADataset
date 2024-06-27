@@ -1,0 +1,123 @@
+{
+    "tutorialId": 1025409325,
+    "tutorialName": "在抖音中查看小店的步骤",
+    "tutorialDetail": "点击【我】进入个人页面点击【列表图标】点击【抖音小店】选项",
+    "original_instructions": [
+        "click:我",
+        "click:列表图标",
+        "click:抖音小店"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在抖音中查看小店的步骤点击【我】进入个人页...1. click:我2. click:列表图标3. click:抖音小店START",
+            "type": "open",
+            "para": "抖音",
+            "x": 519,
+            "y": 1080,
+            "endX": 519,
+            "endY": 1080,
+            "storeFolder": "13373824",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "Open 抖音"
+        },
+        {
+            "targetName": "我",
+            "type": "click",
+            "para": "1",
+            "x": 958,
+            "y": 2113,
+            "endX": 958,
+            "endY": 2113,
+            "storeFolder": "69275995",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;X.0sk1|0;android.widget.TabHost|0;android.widget.FrameLayout|2;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|4;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我",
+            "imagePath": "image8.jpg"
+        },
+        {
+            "targetName": "抖音商城",
+            "type": "click",
+            "para": "1",
+            "x": 149,
+            "y": 1130,
+            "endX": 149,
+            "endY": 1130,
+            "storeFolder": "48413237",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;X.0sk1|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.view.ViewGroup|4;android.widget.LinearLayout|0;android.view.ViewGroup|0;android.widget.HorizontalScrollView|0;android.widget.LinearLayout|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:抖音商城",
+            "imagePath": "image9.jpg"
+        },
+        {
+            "targetName": "返回 按钮 点按两次即可激活日用品生活百货 搜索栏 轻点两下可编辑拍照搜同款 按钮购物车  按钮搜索 按钮我的订单 按钮评价中心 按钮退款/售后 按钮手机充值 按钮全球好物 按钮直播中丫头baby-7号晚6点歌莉娅抖音首播1.3万立减4直播中刘叮当🔔定制女包4.4万回龙观小户型收纳好物去首页商城用新人券·立减4元去使用",
+            "type": "scroll",
+            "para": "right",
+            "x": 843,
+            "y": 333,
+            "endX": 32,
+            "endY": 376,
+            "storeFolder": "250387795",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll right",
+            "imagePath": "image10.jpg"
+        },
+        {
+            "targetName": "返回 按钮 点按两次即可激活日用品生活百货 搜索栏 轻点两下可编辑拍照搜同款 按钮购物车  按钮搜索 按钮手机充值 按钮全球好物 按钮关注店铺 按钮抖音月付 按钮品牌馆 按钮试用领取 试大牌按钮直播中丫头baby-7号晚6点歌莉娅抖音首播1.3万立减4直播中刘叮当🔔定制女包4.4万回龙观小户型收纳好物去首页商城用新人券·立减4元去使用",
+            "type": "scroll",
+            "para": "right",
+            "x": 845,
+            "y": 317,
+            "endX": 299,
+            "endY": 335,
+            "storeFolder": "251158918",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll right",
+            "imagePath": "image11.jpg"
+        },
+        {
+            "targetName": "返回 按钮 点按两次即可激活日用品生活百货 搜索栏 轻点两下可编辑拍照搜同款 按钮购物车  按钮搜索 按钮抖音月付 按钮品牌馆 按钮试用领取 试大牌按钮店铺动态 按钮收藏 按钮购物消息 按钮直播中丫头baby-7号晚6点歌莉娅抖音首播1.3万立减4直播中刘叮当🔔定制女包4.4万回龙观小户型收纳好物去首页商城用新人券·立减4元去使用",
+            "type": "scroll",
+            "para": "right",
+            "x": 916,
+            "y": 315,
+            "endX": 174,
+            "endY": 307,
+            "storeFolder": "87510333",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll right",
+            "imagePath": "image12.jpg"
+        },
+        {
+            "targetName": "返回 按钮 点按两次即可激活日用品生活百货 搜索栏 轻点两下可编辑拍照搜同款 按钮购物车  按钮搜索 按钮收藏 按钮购物消息 按钮券红包 按钮足迹 按钮地址 按钮品牌会员 按钮直播中丫头baby-7号晚6点歌莉娅抖音首播1.3万立减4直播中刘叮当🔔定制女包4.4万回龙观小户型收纳好物去首页商城用新人券·立减4元去使用",
+            "type": "scroll",
+            "para": "right",
+            "x": 914,
+            "y": 311,
+            "endX": 299,
+            "endY": 309,
+            "storeFolder": "166672612",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll right",
+            "imagePath": "image13.jpg"
+        },
+        {
+            "targetName": "我要开店 新店免佣按钮",
+            "type": "click",
+            "para": "1",
+            "x": 736,
+            "y": 313,
+            "endX": 736,
+            "endY": 313,
+            "storeFolder": "3884615",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|1;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|0;android.widget.FrameLayout|0;android.widget.FrameLayout|3;com.lynx.tasm.behavior.ui.LynxFlattenUI",
+            "absoluteIdAvailable": true,
+            "description": "click:我要开店",
+            "imagePath": "image14.jpg"
+        }
+    ]
+}

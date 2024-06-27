@@ -1,0 +1,96 @@
+{
+    "tutorialId": -1112492060,
+    "tutorialName": "在手机中开启'查找我的手机'功能的步骤",
+    "tutorialDetail": "打开手机，进入<设置>页面选择点击安全选项在安全界面，选择点击查找设备打开并设置开启'查找我的手机'",
+    "original_instructions": [
+        "open:设置页面",
+        "click:安全选项",
+        "click:查找设备",
+        "switch:查找我的手机"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在手机中开启'查找我的手机'功能的步骤打开手机，进入<设置...1. open:设置页面2. click:安全选项3. click:查找设备4. switch:查找我的手机START",
+            "type": "open",
+            "para": "设置",
+            "x": 574,
+            "y": 1152,
+            "endX": 574,
+            "endY": 1152,
+            "storeFolder": "163260479",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:设置页面"
+        },
+        {
+            "targetName": "anxieter华为帐号、付款与账单、云空间等WLANTsinghua-Dongsheng蓝牙已开启移动网络超级终端更多连接桌面和个性化显示和亮度搜索设置项",
+            "type": "scroll",
+            "para": "down",
+            "x": 689,
+            "y": 1755,
+            "endX": 602,
+            "endY": 707,
+            "storeFolder": "173876068",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image59.jpg"
+        },
+        {
+            "targetName": "蓝牙已开启移动网络超级终端更多连接桌面和个性化显示和亮度声音和振动通知和状态栏生物识别和密码应用和服务电池",
+            "type": "scroll",
+            "para": "down",
+            "x": 566,
+            "y": 1721,
+            "endX": 390,
+            "endY": 386,
+            "storeFolder": "254195209",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image60.jpg"
+        },
+        {
+            "targetName": "安全",
+            "type": "click",
+            "para": "1",
+            "x": 311,
+            "y": 1500,
+            "endX": 311,
+            "endY": 1500,
+            "storeFolder": "4101588",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.recyclerview.widget.RecyclerView|6;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:安全选项",
+            "imagePath": "image61.jpg"
+        },
+        {
+            "targetName": "查找设备锁定及追踪设备",
+            "type": "click",
+            "para": "1",
+            "x": 750,
+            "y": 1452,
+            "endX": 750,
+            "endY": 1452,
+            "storeFolder": "62315241",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|0;android.widget.ScrollView|0;android.widget.LinearLayout|1;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|1;android.widget.RelativeLayout|0;androidx.recyclerview.widget.RecyclerView|3;android.widget.RelativeLayout|0;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:查找设备",
+            "imagePath": "image62.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "switch",
+            "para": "true",
+            "x": 857,
+            "y": 1167,
+            "endX": 857,
+            "endY": 1167,
+            "storeFolder": "221279574",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.ScrollView|0;android.widget.FrameLayout|0;android.widget.LinearLayout|1;android.widget.LinearLayout|2;android.widget.LinearLayout|0;android.widget.LinearLayout|1;android.widget.FrameLayout|0;android.widget.Switch",
+            "absoluteIdAvailable": true,
+            "description": "switch:查找我的手机",
+            "imagePath": "image63.jpg"
+        }
+    ]
+}

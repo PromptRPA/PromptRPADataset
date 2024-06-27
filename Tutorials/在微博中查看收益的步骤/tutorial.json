@@ -1,0 +1,69 @@
+{
+    "tutorialId": 2012543747,
+    "tutorialName": "在微博中查看收益的步骤",
+    "tutorialDetail": "打开微博应用点击页面下方的“我”进入个人主页点击“创作中心”在创作中心内点击“收益中心”在收益中心页面查看全部收益",
+    "original_instructions": [
+        "open:微博应用",
+        "click:我, 页面下方",
+        "click:创作中心",
+        "click:收益中心",
+        "click:全部收益"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在微博中查看收益的步骤打开微博应用点击页面...1. open:微博应用2. click:我, 页面下方3. click:创作中心4. click:收益中心5. click:全部收益START",
+            "type": "open",
+            "para": "微博",
+            "x": 749,
+            "y": 1178,
+            "endX": 749,
+            "endY": 1178,
+            "storeFolder": "148780298",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:微博应用"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 983,
+            "y": 2128,
+            "endX": 983,
+            "endY": 2128,
+            "storeFolder": "55750085",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.viewpager.widget.ViewPager|0;android.widget.TabHost|2;android.widget.FrameLayout|0;android.widget.LinearLayout|4;android.widget.FrameLayout|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我, 页面下方",
+            "imagePath": "image144.jpg"
+        },
+        {
+            "targetName": "创作中心",
+            "type": "click",
+            "para": "1",
+            "x": 669,
+            "y": 1263,
+            "endX": 669,
+            "endY": 1263,
+            "storeFolder": "74793767",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.viewpager.widget.ViewPager|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|1;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|1;android.view.ViewGroup|0;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|6;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:创作中心",
+            "imagePath": "image145.jpg"
+        },
+        {
+            "targetName": "Wbox",
+            "type": "click",
+            "para": "1",
+            "x": 670,
+            "y": 1222,
+            "endX": 670,
+            "endY": 1222,
+            "storeFolder": "55047569",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.webkit.WebView|0;android.webkit.WebView",
+            "absoluteIdAvailable": true,
+            "description": "click:收益中心",
+            "imagePath": "image146.jpg"
+        }
+    ]
+}

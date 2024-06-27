@@ -1,0 +1,48 @@
+{
+    "tutorialId": 230088109,
+    "tutorialName": "在抖音中查看完整热点榜单的步骤",
+    "tutorialDetail": "在抖音中单击搜索在弹出的页面中滑动到底部单击查看完整热点榜这样就可以查看抖音完整的热点榜单",
+    "original_instructions": [
+        "open:抖音",
+        "click:搜索",
+        "scroll:弹出页面",
+        "click:查看完整热点榜"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在抖音中查看完整热点榜单的步骤在抖音中单击搜索在弹...1. open:抖音2. click:搜索3. scroll:弹出页面4. click:查看完整热点榜START",
+            "type": "open",
+            "para": "抖音",
+            "x": 641,
+            "y": 1142,
+            "storeFolder": "131936041",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:抖音"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 1007,
+            "y": 175,
+            "storeFolder": "143509643",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;X.0sk1|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|1;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;com.bytedance.highperformanceview.layout.MeasureOnceRelativeLayout2|2;android.widget.FrameLayout|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:搜索",
+            "imagePath": "image20.jpg"
+        },
+        {
+            "targetName": "萌娃热门视频跟拍必火搜索猜你想搜，标题换一换，按钮萌娃热门视频跟拍必火，搜索，按钮骗你生女儿，搜索，按钮家用衣架搜索，按钮传奇手游搜索，按钮一分购搜索，按钮刘三姐原唱搜索，按钮仙侠修仙传游戏搜索，按钮小儿动画片3-6岁搜索，按钮抖音热榜，已选中，按钮同城榜，未选中，按钮直播榜，未选中，按钮团购榜，未选中，按钮品牌榜，未选中，按钮音乐榜，未选中，按钮",
+            "type": "scroll",
+            "para": "down",
+            "x": 669,
+            "y": 1830,
+            "storeFolder": "238785600",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "scroll:弹出页面",
+            "imagePath": "image21.jpg"
+        }
+    ]
+}

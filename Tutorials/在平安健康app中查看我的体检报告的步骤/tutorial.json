@@ -1,0 +1,69 @@
+{
+    "tutorialId": 1084461793,
+    "tutorialName": "在平安健康app中查看我的体检报告的步骤",
+    "tutorialDetail": "打开平安健康app，并点击首页的【我的】按钮在【我的】选项下，点击【我的体检】在体检页面，点击【我的报告】在报告页面，点击【查看报告】以查看体检报告详情",
+    "original_instructions": [
+        "open:平安健康app",
+        "click:我的按钮, 首页",
+        "click:我的体检, 我的选项下",
+        "click:我的报告, 体检页面",
+        "click:查看报告, 报告页面"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在平安健康app中查看我的体检报告的步骤打开平安健康app，...1. open:平安健康app2. click:我的按钮, 首页3. click:我的体检, 我的选项下4. click:我的报告, 体检页面5. click:查看报告, 报告页面START",
+            "type": "open",
+            "para": "平安健康",
+            "x": 792,
+            "y": 1193,
+            "endX": 792,
+            "endY": 1193,
+            "storeFolder": "197166585",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "Open 平安健康"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 982,
+            "y": 2127,
+            "endX": 982,
+            "endY": 2127,
+            "storeFolder": "240746628",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|2;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|4;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的按钮, 首页",
+            "imagePath": "image12.jpg"
+        },
+        {
+            "targetName": "我的体检",
+            "type": "click",
+            "para": "1",
+            "x": 345,
+            "y": 1245,
+            "endX": 345,
+            "endY": 1245,
+            "storeFolder": "135802915",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.viewpager.widget.ViewPager|0;android.widget.RelativeLayout|0;android.widget.ScrollView|0;android.widget.RelativeLayout|1;androidx.recyclerview.widget.RecyclerView|0;android.widget.LinearLayout|0;android.widget.LinearLayout|1;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|1;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的体检, 我的选项下",
+            "imagePath": "image13.jpg"
+        },
+        {
+            "targetName": "我的报告我的报告",
+            "type": "click",
+            "para": "1",
+            "x": 561,
+            "y": 447,
+            "endX": 561,
+            "endY": 447,
+            "storeFolder": "150652842",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.webkit.WebView|0;android.webkit.WebView|0;android.view.View|1;android.view.View|1;android.view.View",
+            "absoluteIdAvailable": true,
+            "description": "click:我的报告, 体检页面",
+            "imagePath": "image14.jpg"
+        }
+    ]
+}

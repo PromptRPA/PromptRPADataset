@@ -1,0 +1,96 @@
+{
+    "tutorialId": -451553078,
+    "tutorialName": "在影视大全app中查看版本号的步骤",
+    "tutorialDetail": "打开手机上的影视大全app点击设置在弹出的页面点击关于我们查看版本号",
+    "original_instructions": [
+        "open:影视大全app",
+        "click:设置",
+        "click:关于我们",
+        "click:版本号"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在影视大全app中查看版本号的步骤打开手机上的影视大全...1. open:影视大全app2. click:设置3. click:关于我们4. click:版本号START",
+            "type": "open",
+            "para": "影视大全",
+            "x": 633,
+            "y": 1178,
+            "endX": 633,
+            "endY": 1178,
+            "storeFolder": "76941572",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:影视大全app"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 936,
+            "y": 2161,
+            "endX": 936,
+            "endY": 2161,
+            "storeFolder": "97381335",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|3;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "Click 我的.",
+            "imagePath": "image218.jpg"
+        },
+        {
+            "targetName": "设置",
+            "type": "click",
+            "para": "1",
+            "x": 620,
+            "y": 1429,
+            "endX": 620,
+            "endY": 1429,
+            "storeFolder": "217013806",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.ScrollView|0;android.view.ViewGroup|4;android.widget.LinearLayout|2;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:设置",
+            "imagePath": "image219.jpg"
+        },
+        {
+            "targetName": "账户账户与安全播放个性化推荐跳过片头片尾短视频WIFI下自动播放短视频非WIFI下自动播放首页大卡片非WIFI下自动播放下载下载存储路径手机内置存储允许流量下载个人信息设置",
+            "type": "scroll",
+            "para": "down",
+            "x": 598,
+            "y": 1934,
+            "endX": 795,
+            "endY": 459,
+            "storeFolder": "148810755",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image220.jpg"
+        },
+        {
+            "targetName": "关于我们",
+            "type": "click",
+            "para": "1",
+            "x": 620,
+            "y": 2136,
+            "endX": 620,
+            "endY": 2136,
+            "storeFolder": "256791306",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.ScrollView|0;android.widget.LinearLayout|3;android.widget.LinearLayout|4;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:关于我们",
+            "imagePath": "image221.jpg"
+        },
+        {
+            "targetName": "5.9.3",
+            "type": "click",
+            "para": "1",
+            "x": 982,
+            "y": 858,
+            "endX": 982,
+            "endY": 858,
+            "storeFolder": "181130337",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|2;android.widget.RelativeLayout|1;android.widget.TextView",
+            "absoluteIdAvailable": true,
+            "description": "click:版本号",
+            "imagePath": "image222.jpg"
+        }
+    ]
+}

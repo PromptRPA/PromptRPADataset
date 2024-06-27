@@ -1,0 +1,69 @@
+{
+    "tutorialId": -2101527675,
+    "tutorialName": "在支付宝中查看当前版本号的步骤",
+    "tutorialDetail": "打开支付宝，进入【我的】页面点击上方的设置图标点击【关于】查看当前支付宝的版本号",
+    "original_instructions": [
+        "open:支付宝",
+        "click:我的 页面",
+        "click:设置图标, 页面上方",
+        "click:关于",
+        "scroll:当前页面"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在支付宝中查看当前版本号的步骤打开支付宝，进入【我...1. open:支付宝2. click:我的 页面3. click:设置图标, 页面上方4. click:关于5. scroll:当前页面START",
+            "type": "open",
+            "para": "支付宝",
+            "x": 694,
+            "y": 1184,
+            "endX": 694,
+            "endY": 1184,
+            "storeFolder": "132823960",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:支付宝"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 964,
+            "y": 2136,
+            "endX": 964,
+            "endY": 2136,
+            "storeFolder": "106909755",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.TabHost|1;android.widget.FrameLayout|0;android.widget.TabWidget|4;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的 页面",
+            "imagePath": "image243.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 984,
+            "y": 210,
+            "endX": 984,
+            "endY": 210,
+            "storeFolder": "47870136",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|2;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:设置图标, 页面上方",
+            "imagePath": "image244.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 732,
+            "y": 1593,
+            "endX": 732,
+            "endY": 1593,
+            "storeFolder": "187414576",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|1;android.widget.LinearLayout|0;android.support.v7.widget.RecyclerView|0;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:关于",
+            "imagePath": "image245.jpg"
+        }
+    ]
+}

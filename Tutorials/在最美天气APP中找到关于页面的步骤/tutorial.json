@@ -1,0 +1,82 @@
+{
+    "tutorialId": 1333726264,
+    "tutorialName": "在最美天气APP中找到关于页面的步骤",
+    "tutorialDetail": "点击屏幕中的【我的】图标进入个人主页在个人主页点击屏幕右上角的【设置】图标进入设置界面在设置界面滑动至屏幕下方找到并点击【关于】",
+    "original_instructions": [
+        "click:我的 图标",
+        "click:设置 图标, 右上角",
+        "scroll:设置界面",
+        "click:关于"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在APP中找到关于页面的步骤点击屏幕中的【我的】...1. click:我的 图标2. click:设置 图标, 右上角3. scroll:设置界面4. click:关于START",
+            "type": "open",
+            "para": "最美天气",
+            "x": 692,
+            "y": 1146,
+            "endX": 692,
+            "endY": 1146,
+            "storeFolder": "42064694",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "Open 最美天气"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 932,
+            "y": 2120,
+            "endX": 932,
+            "endY": 2120,
+            "storeFolder": "233793392",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|3;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的 图标",
+            "imagePath": "image5.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 991,
+            "y": 209,
+            "endX": 991,
+            "endY": 209,
+            "storeFolder": "135370406",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.RelativeLayout|0;android.widget.RelativeLayout|1;android.widget.ImageView",
+            "absoluteIdAvailable": true,
+            "description": "click:设置 图标, 右上角",
+            "imagePath": "image6.jpg"
+        },
+        {
+            "targetName": "设置账号与安全智慧提醒设置通知设置字体大小定位地址显示黄金会员设置点击解锁权益天气数据更新开启系统权限管理应用权限说明个人信息收集清单第三方共享信息清单版本信息V8.2.5",
+            "type": "scroll",
+            "para": "down",
+            "x": 634,
+            "y": 1840,
+            "endX": 774,
+            "endY": 785,
+            "storeFolder": "245468614",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image7.jpg"
+        },
+        {
+            "targetName": "关于我们     ",
+            "type": "click",
+            "para": "1",
+            "x": 326,
+            "y": 1995,
+            "endX": 326,
+            "endY": 1995,
+            "storeFolder": "56323699",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.RelativeLayout|0;android.widget.ScrollView|0;android.widget.LinearLayout|11;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:关于",
+            "imagePath": "image8.jpg"
+        }
+    ]
+}

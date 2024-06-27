@@ -1,0 +1,97 @@
+{
+    "tutorialId": 119467155,
+    "tutorialName": "在平安健康软件中设置安全密码的步骤",
+    "tutorialDetail": "点击进入APP主界面在软件主界面中找到并点击设置在设置界面中找到并点击帐户与安全在帐户与安全界面中找到并点击设置安全密码根据界面提示的流程操作设置安全密码",
+    "original_instructions": [
+        "click:APP主界面",
+        "click:APP资料页面右上方的设置图标",
+        "click:帐户与安全",
+        "click:设置安全密码",
+        "edit:安全密码"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在下载的软件中设置安全密码的步骤点击进入APP主界面...1. click:APP主界面2. click:APP资料页面右上方的设置图标3. click:帐户与安全4. click:设置安全密码5. edit:安全密码START",
+            "type": "open",
+            "para": "平安健康",
+            "x": 677,
+            "y": 1146,
+            "endX": 677,
+            "endY": 1146,
+            "storeFolder": "261682709",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "Open 平安健康"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 962,
+            "y": 2129,
+            "endX": 962,
+            "endY": 2129,
+            "storeFolder": "177408026",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|2;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|4;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的",
+            "imagePath": "image0.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 997,
+            "y": 195,
+            "endX": 997,
+            "endY": 195,
+            "storeFolder": "15775033",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.viewpager.widget.ViewPager|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|2;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.ImageView",
+            "absoluteIdAvailable": true,
+            "description": "Click 设置.",
+            "imagePath": "image1.jpg"
+        },
+        {
+            "targetName": "账户和安全",
+            "type": "click",
+            "para": "1",
+            "x": 586,
+            "y": 559,
+            "endX": 586,
+            "endY": 559,
+            "storeFolder": "258364508",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.ScrollView|0;android.widget.LinearLayout|1;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:帐户与安全",
+            "imagePath": "image2.jpg"
+        },
+        {
+            "targetName": "设置安全密码保护个人隐私",
+            "type": "click",
+            "para": "1",
+            "x": 843,
+            "y": 537,
+            "endX": 843,
+            "endY": 537,
+            "storeFolder": "78848285",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.FrameLayout|0;android.widget.LinearLayout|1;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:设置安全密码",
+            "imagePath": "image3.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "edit",
+            "para": "123456",
+            "x": 692,
+            "y": 881,
+            "endX": 692,
+            "endY": 881,
+            "storeFolder": "144723738",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.FrameLayout|0;android.widget.LinearLayout|2;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "edit:安全密码",
+            "imagePath": "image4.jpg"
+        }
+    ]
+}

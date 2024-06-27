@@ -1,0 +1,67 @@
+{
+    "tutorialId": 1794978864,
+    "tutorialName": "在华为手机中开启健康使用手机功能的步骤",
+    "tutorialDetail": "运行华为手机，并选择设置点击打开选择健康使用手机，并点击打开在健康使用手机页面中，点击开启即可",
+    "original_instructions": [
+        "open:设置",
+        "click:健康使用手机",
+        "switch:开启"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在华为手机中开启健康使用手机功能的步骤运行华为手机，并选择...1. open:设置2. click:健康使用手机3. switch:开启START",
+            "type": "open",
+            "para": "设置",
+            "x": 586,
+            "y": 1132,
+            "endX": 586,
+            "endY": 1132,
+            "storeFolder": "208449034",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:设置"
+        },
+        {
+            "targetName": "移动网络超级终端更多连接桌面和个性化显示和亮度声音和振动通知和状态栏生物识别和密码应用和服务电池搜索设置项",
+            "type": "scroll",
+            "para": "down",
+            "x": 691,
+            "y": 1877,
+            "endX": 806,
+            "endY": 623,
+            "storeFolder": "138990737",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image52.jpg"
+        },
+        {
+            "targetName": "健康使用手机",
+            "type": "click",
+            "para": "1",
+            "x": 459,
+            "y": 1792,
+            "endX": 459,
+            "endY": 1792,
+            "storeFolder": "135185903",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.recyclerview.widget.RecyclerView|8;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:健康使用手机",
+            "imagePath": "image53.jpg"
+        },
+        {
+            "targetName": "开启",
+            "type": "click",
+            "para": "1",
+            "x": 560,
+            "y": 2032,
+            "endX": 562,
+            "endY": 2034,
+            "storeFolder": "85346610",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|1;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|2;android.widget.LinearLayout|0;android.widget.Button",
+            "absoluteIdAvailable": true,
+            "description": "switch:开启",
+            "imagePath": "image54.jpg"
+        }
+    ]
+}

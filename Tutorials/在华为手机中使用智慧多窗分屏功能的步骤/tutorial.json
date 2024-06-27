@@ -1,0 +1,113 @@
+{
+    "tutorialId": 1580670156,
+    "tutorialName": "在华为手机中使用智慧多窗分屏功能的步骤",
+    "tutorialDetail": "在华为手机的设置页面，点击辅助功能进入新页面在辅助功能页面中，点击智慧多窗在智慧多窗页面中，开启智慧多窗应用栏右侧的滑块在可以分屏的应用页面，用手指从手机右侧边缘向内滑动，显示窗口按住需要分屏的另一个应用，将其拖动到页面下方，完成分屏",
+    "original_instructions": [
+        "click:设置",
+        "click:辅助功能",
+        "click:智慧多窗",
+        "switch:智慧多窗应用栏右侧的滑块",
+        "scroll:可以分屏的应用页面",
+        "longclick:需要分屏的另一个应用",
+        "drag:需要分屏的应用"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在华为手机中使用智慧多窗分屏功能的步骤在华为手机的设置页面...1. click:设置2. click:辅助功能3. click:智慧多窗4. switch:智慧多窗应用栏右侧的滑块5. scroll:可以分屏的应用页面6. longclick:需要分屏的另一个应用7. drag:需要分屏的应用START",
+            "type": "open",
+            "para": "设置",
+            "x": 438,
+            "y": 1202,
+            "endX": 438,
+            "endY": 1202,
+            "storeFolder": "123388874",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "click:设置"
+        },
+        {
+            "targetName": "anxieter华为帐号、付款与账单、云空间等WLANTsinghua-Dongsheng蓝牙已开启移动网络超级终端更多连接桌面和个性化显示和亮度声音和振动搜索设置项",
+            "type": "scroll",
+            "para": "down",
+            "x": 631,
+            "y": 1763,
+            "endX": 639,
+            "endY": 760,
+            "storeFolder": "166002535",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image69.jpg"
+        },
+        {
+            "targetName": "移动网络超级终端更多连接桌面和个性化显示和亮度声音和振动通知和状态栏生物识别和密码应用和服务电池",
+            "type": "scroll",
+            "para": "down",
+            "x": 705,
+            "y": 1818,
+            "endX": 655,
+            "endY": 529,
+            "storeFolder": "94388266",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image70.jpg"
+        },
+        {
+            "targetName": "声音和振动通知和状态栏生物识别和密码应用和服务电池存储安全隐私健康使用手机智慧助手钱包和支付",
+            "type": "scroll",
+            "para": "down",
+            "x": 602,
+            "y": 1886,
+            "endX": 529,
+            "endY": 845,
+            "storeFolder": "206279985",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image71.jpg"
+        },
+        {
+            "targetName": "辅助功能",
+            "type": "click",
+            "para": "1",
+            "x": 519,
+            "y": 1436,
+            "endX": 519,
+            "endY": 1436,
+            "storeFolder": "235976925",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.recyclerview.widget.RecyclerView|7;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:辅助功能",
+            "imagePath": "image72.jpg"
+        },
+        {
+            "targetName": "智慧多窗",
+            "type": "click",
+            "para": "1",
+            "x": 337,
+            "y": 1003,
+            "endX": 337,
+            "endY": 1003,
+            "storeFolder": "90697272",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.widget.LinearLayout|1;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.recyclerview.widget.RecyclerView|4;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:智慧多窗",
+            "imagePath": "image73.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "switch",
+            "para": "true",
+            "x": 920,
+            "y": 1737,
+            "endX": 920,
+            "endY": 1737,
+            "storeFolder": "17539127",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|1;android.widget.ScrollView|0;android.widget.LinearLayout|3;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.Switch",
+            "absoluteIdAvailable": true,
+            "description": "switch:智慧多窗应用栏右侧的滑块",
+            "imagePath": "image74.jpg"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "tutorialId": -1270848770,
+    "tutorialName": "在手机QQ中反馈问题的步骤",
+    "tutorialDetail": "打开手机QQ，进入个人页面，点击【设置】点击【关于QQ与帮助】在版本详情页点击【反馈】点击【我要发言】以提交反馈",
+    "original_instructions": [
+        "open:手机QQ",
+        "click:个人页面",
+        "click:设置",
+        "click:关于QQ与帮助",
+        "click:反馈, 版本详情页",
+        "click:我要发言"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在手机QQ中反馈问题的步骤打开手机QQ，进入个...1. open:手机QQ2. click:个人页面3. click:设置4. click:关于QQ与帮助5. click:反馈, 版本详情页6. click:我要发言START",
+            "type": "open",
+            "para": "QQ",
+            "x": 745,
+            "y": 1156,
+            "endX": 745,
+            "endY": 1156,
+            "storeFolder": "241870582",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:手机QQ"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 75,
+            "y": 230,
+            "endX": 73,
+            "endY": 229,
+            "storeFolder": "236379317",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|1;android.widget.RelativeLayout|0;android.widget.Button",
+            "absoluteIdAvailable": true,
+            "description": "click:个人页面",
+            "imagePath": "image78.jpg"
+        },
+        {
+            "targetName": "设置",
+            "type": "click",
+            "para": "1",
+            "x": 90,
+            "y": 2144,
+            "endX": 90,
+            "endY": 2144,
+            "storeFolder": "149807233",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|2;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.Button",
+            "absoluteIdAvailable": true,
+            "description": "click:设置",
+            "imagePath": "image79.jpg"
+        },
+        {
+            "targetName": "账号管理手机号码133******39账号安全消息通知隐私通用辅助功能QQ免流量个人信息收集清单第三方个人信息共享清单个人信息保护设置隐私政策摘要设置",
+            "type": "scroll",
+            "para": "down",
+            "x": 656,
+            "y": 1977,
+            "endX": 865,
+            "endY": 753,
+            "storeFolder": "76091993",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image80.jpg"
+        },
+        {
+            "targetName": "关于QQ与帮助",
+            "type": "click",
+            "para": "1",
+            "x": 519,
+            "y": 2074,
+            "endX": 519,
+            "endY": 2074,
+            "storeFolder": "137604280",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|12;com.tencent.mobileqq.widget.listitem.QUISingleLineListItem",
+            "absoluteIdAvailable": true,
+            "description": "click:关于QQ与帮助",
+            "imagePath": "image81.jpg"
+        },
+        {
+            "targetName": "反馈",
+            "type": "click",
+            "para": "1",
+            "x": 471,
+            "y": 1634,
+            "endX": 471,
+            "endY": 1634,
+            "storeFolder": "145243523",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|4;com.tencent.mobileqq.widget.listitem.QUISingleLineListItem",
+            "absoluteIdAvailable": true,
+            "description": "click:反馈, 版本详情页",
+            "imagePath": "image82.jpg"
+        },
+        {
+            "targetName": "我要发言",
+            "type": "click",
+            "para": "1",
+            "x": 565,
+            "y": 1905,
+            "endX": 565,
+            "endY": 1905,
+            "storeFolder": "75016842",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;com.tencent.tbs.core.webkit.WebView|0;android.webkit.WebView|0;android.view.View|0;android.view.View|0;android.view.View|0;android.view.View|0;android.view.View|0;android.widget.Button",
+            "absoluteIdAvailable": true,
+            "description": "click:我要发言",
+            "imagePath": "image83.jpg"
+        }
+    ]
+}

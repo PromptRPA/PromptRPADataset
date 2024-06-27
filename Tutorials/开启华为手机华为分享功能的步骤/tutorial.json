@@ -1,0 +1,68 @@
+{
+    "tutorialId": 1426286570,
+    "tutorialName": "开启华为手机华为分享功能的步骤",
+    "tutorialDetail": "进入到华为手机设置点击更多连接选项点击华为分享选项将华为分享按钮打开",
+    "original_instructions": [
+        "open:设置, 华为手机",
+        "click:更多连接选项",
+        "click:华为分享选项",
+        "switch:华为分享按钮"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW开启华为手机华为分享功能的步骤进入到华为手机设置点...1. open:设置, 华为手机2. click:更多连接选项3. click:华为分享选项4. switch:华为分享按钮START",
+            "type": "open",
+            "para": "设置",
+            "x": 537,
+            "y": 1177,
+            "endX": 537,
+            "endY": 1177,
+            "storeFolder": "18117260",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:设置"
+        },
+        {
+            "targetName": "更多连接",
+            "type": "click",
+            "para": "1",
+            "x": 396,
+            "y": 1703,
+            "endX": 396,
+            "endY": 1703,
+            "storeFolder": "109806419",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.recyclerview.widget.RecyclerView|5;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:更多连接选项",
+            "imagePath": "image49.jpg"
+        },
+        {
+            "targetName": "华为分享已关闭",
+            "type": "click",
+            "para": "1",
+            "x": 821,
+            "y": 366,
+            "endX": 821,
+            "endY": 366,
+            "storeFolder": "170321661",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.widget.LinearLayout|1;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.recyclerview.widget.RecyclerView|0;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:华为分享选项",
+            "imagePath": "image50.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "switch",
+            "para": "true",
+            "x": 891,
+            "y": 1246,
+            "endX": 891,
+            "endY": 1246,
+            "storeFolder": "171865995",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|1;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.ListView|1;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|1;android.widget.LinearLayout|0;android.widget.Switch",
+            "absoluteIdAvailable": true,
+            "description": "switch:华为分享按钮",
+            "imagePath": "image51.jpg"
+        }
+    ]
+}

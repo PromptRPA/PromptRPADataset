@@ -1,0 +1,68 @@
+{
+    "tutorialId": -644356374,
+    "tutorialName": "在飞书中创建问卷的步骤",
+    "tutorialDetail": "首先打开手机飞书桌面的图标选项然后点击工具栏的工作台按钮最后点击飞书问卷选项创建问卷",
+    "original_instructions": [
+        "open:飞书桌面图标选项",
+        "click:工作台按钮, 工具栏",
+        "click:飞书问卷选项",
+        "click:创建问卷"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在飞书中创建问卷的步骤首先打开手机飞书桌面...1. open:飞书桌面图标选项2. click:工作台按钮, 工具栏3. click:飞书问卷选项4. click:创建问卷START",
+            "type": "open",
+            "para": "飞书",
+            "x": 463,
+            "y": 1047,
+            "endX": 463,
+            "endY": 1047,
+            "storeFolder": "259927828",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:飞书"
+        },
+        {
+            "targetName": "工作台",
+            "type": "click",
+            "para": "1",
+            "x": 453,
+            "y": 2099,
+            "endX": 453,
+            "endY": 2099,
+            "storeFolder": "233024635",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.view.ViewGroup|1;android.widget.LinearLayout|2;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:工作台按钮, 工具栏",
+            "imagePath": "image26.jpg"
+        },
+        {
+            "targetName": "飞书问卷",
+            "type": "click",
+            "para": "1",
+            "x": 380,
+            "y": 983,
+            "endX": 380,
+            "endY": 983,
+            "storeFolder": "94186926",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.view.ViewGroup|0;android.widget.LinearLayout|1;androidx.viewpager.widget.ViewPager|0;androidx.recyclerview.widget.RecyclerView|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|2;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:飞书问卷选项",
+            "imagePath": "image27.jpg"
+        },
+        {
+            "targetName": "飞书问卷飞书问卷问卷问卷",
+            "type": "click",
+            "para": "1",
+            "x": 936,
+            "y": 2040,
+            "endX": 936,
+            "endY": 2040,
+            "storeFolder": "201908295",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:创建问卷",
+            "imagePath": "image28.jpg"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "tutorialId": -1932970167,
+    "tutorialName": "在影视大全app中设置跳过片头片尾的步骤",
+    "tutorialDetail": "打开影视大全app，进入首页点击右下角的【我的】找到并点击页面上的【设置】找到【跳过片头片尾】选项，并打开旁边的【按钮】",
+    "original_instructions": [
+        "open:影视大全app",
+        "click:我的, 右下角",
+        "click:设置",
+        "switch:跳过片头片尾 按钮"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在影视大全app中设置跳过片头片尾的步骤打开影视大全app，...1. open:影视大全app2. click:我的, 右下角3. click:设置4. switch:跳过片头片尾 按钮START",
+            "type": "open",
+            "para": "影视大全",
+            "x": 738,
+            "y": 1187,
+            "endX": 738,
+            "endY": 1187,
+            "storeFolder": "93642939",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:影视大全app"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 937,
+            "y": 2148,
+            "endX": 937,
+            "endY": 2148,
+            "storeFolder": "110495174",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|3;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的, 右下角",
+            "imagePath": "image240.jpg"
+        },
+        {
+            "targetName": "设置",
+            "type": "click",
+            "para": "1",
+            "x": 705,
+            "y": 1406,
+            "endX": 705,
+            "endY": 1406,
+            "storeFolder": "78506201",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.ScrollView|0;android.view.ViewGroup|4;android.widget.LinearLayout|2;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:设置",
+            "imagePath": "image241.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "switch",
+            "para": "false",
+            "x": 952,
+            "y": 1056,
+            "endX": 952,
+            "endY": 1056,
+            "storeFolder": "135220930",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.ScrollView|0;android.widget.LinearLayout|1;android.widget.LinearLayout|2;android.widget.RelativeLayout|1;android.widget.ToggleButton",
+            "absoluteIdAvailable": true,
+            "description": "switch:跳过片头片尾 按钮",
+            "imagePath": "image242.jpg"
+        }
+    ]
+}

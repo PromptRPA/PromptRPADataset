@@ -1,0 +1,83 @@
+{
+    "tutorialId": 1878660155,
+    "tutorialName": "在最美天气APP中使用微信账号登录的步骤",
+    "tutorialDetail": "打开最美天气APP，并点击右下角的【我的】在我的页面上点击登录按钮在登录界面中勾选表示已阅读的复选框点击微信图标完成登录流程",
+    "original_instructions": [
+        "open:最美天气APP",
+        "click:我的, 右下角",
+        "click:登录按钮",
+        "click:已阅读复选框",
+        "click:微信图标"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在最美天气APP中使用微信账号登录的步骤打开最美天气APP，...1. open:最美天气APP2. click:我的, 右下角3. click:登录按钮4. click:已阅读复选框5. click:微信图标START",
+            "type": "open",
+            "para": "最美天气",
+            "x": 496,
+            "y": 1411,
+            "endX": 496,
+            "endY": 1411,
+            "storeFolder": "114581559",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:最美天气APP"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 946,
+            "y": 2125,
+            "endX": 946,
+            "endY": 2125,
+            "storeFolder": "192836641",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|3;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的, 右下角",
+            "imagePath": "image5.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 137,
+            "y": 343,
+            "endX": 137,
+            "endY": 343,
+            "storeFolder": "17239456",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.recyclerview.widget.RecyclerView|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.view.ViewGroup|0;android.widget.ImageView",
+            "absoluteIdAvailable": true,
+            "description": "click:登录按钮",
+            "imagePath": "image6.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 127,
+            "y": 1224,
+            "endX": 127,
+            "endY": 1224,
+            "storeFolder": "123995342",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.view.ViewGroup|1;android.widget.LinearLayout|0;android.widget.CheckBox",
+            "absoluteIdAvailable": true,
+            "description": "click:已阅读复选框",
+            "imagePath": "image7.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 463,
+            "y": 2074,
+            "endX": 463,
+            "endY": 2074,
+            "storeFolder": "51341990",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.view.ViewGroup|4;android.widget.Button",
+            "absoluteIdAvailable": true,
+            "description": "click:微信图标",
+            "imagePath": "image8.jpg"
+        }
+    ]
+}
