@@ -1,0 +1,112 @@
+{
+    "tutorialId": -571944308,
+    "tutorialName": "在微信中设置聊天背景的步骤",
+    "tutorialDetail": "点击打开微信APP在微信主页面点击“我”在“我”的页面点击“设置”在设置页面点击“聊天”在聊天页面点击“聊天背景”在选择背景图页面，选中并确认自己喜欢的背景图",
+    "original_instructions": [
+        "open:微信APP",
+        "click:我, 首页",
+        "click:设置",
+        "click:聊天",
+        "click:聊天背景",
+        "click:喜欢的背景图"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在微信中设置聊天背景的步骤点击打开微信APP在...1. open:微信APP2. click:我, 首页3. click:设置4. click:聊天5. click:聊天背景6. click:喜欢的背景图START",
+            "type": "open",
+            "para": "微信",
+            "x": 384,
+            "y": 1282,
+            "endX": 384,
+            "endY": 1282,
+            "storeFolder": "104649475",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:微信APP"
+        },
+        {
+            "targetName": "我",
+            "type": "click",
+            "para": "1",
+            "x": 941,
+            "y": 2146,
+            "endX": 941,
+            "endY": 2146,
+            "storeFolder": "221864789",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|1;android.widget.RelativeLayout|0;android.widget.LinearLayout|3;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我, 首页",
+            "imagePath": "image155.jpg"
+        },
+        {
+            "targetName": "设置",
+            "type": "click",
+            "para": "1",
+            "x": 693,
+            "y": 1389,
+            "endX": 693,
+            "endY": 1389,
+            "storeFolder": "177081399",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.ListView|8;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:设置",
+            "imagePath": "image156.jpg"
+        },
+        {
+            "targetName": "聊天",
+            "type": "click",
+            "para": "1",
+            "x": 691,
+            "y": 967,
+            "endX": 691,
+            "endY": 967,
+            "storeFolder": "24389692",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|1;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|1;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.RelativeLayout|0;android.widget.ListView|6;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:聊天",
+            "imagePath": "image157.jpg"
+        },
+        {
+            "targetName": "设置隐私个人信息与权限个人信息收集清单第三方信息共享清单输入法支持颜文字了୧(๑✪◡✪๑)૭聊天使用听筒播放语音消息使用独立的发送按钮开启后，键盘上的发送按钮会被替换成换行聊天背景表情管理聊天记录聊天记录迁移与备份清空聊天记录",
+            "type": "click",
+            "para": "1",
+            "x": 779,
+            "y": 700,
+            "endX": 779,
+            "endY": 700,
+            "storeFolder": "44748583",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|1;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:聊天背景",
+            "imagePath": "image158.jpg"
+        },
+        {
+            "targetName": "聊天使用听筒播放语音消息使用独立的发送按钮开启后，键盘上的发送按钮会被替换成换行聊天记录聊天记录迁移与备份聊天背景选择背景图从相册中选择拍一张将选择的背景图应用到所有聊天场景",
+            "type": "click",
+            "para": "1",
+            "x": 763,
+            "y": 344,
+            "endX": 763,
+            "endY": 344,
+            "storeFolder": "100109776",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|1;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "Click 选择背景图.",
+            "imagePath": "image159.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 575,
+            "y": 455,
+            "endX": 575,
+            "endY": 455,
+            "storeFolder": "106485515",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.GridView|1;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:喜欢的背景图",
+            "imagePath": "image160.jpg"
+        }
+    ]
+}

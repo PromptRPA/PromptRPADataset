@@ -1,0 +1,69 @@
+{
+    "tutorialId": 1419413849,
+    "tutorialName": "在飞书应用中联系在线客服的步骤",
+    "tutorialDetail": "打开手机上的【飞书】应用点击左上角的【头像】点击【帮助与客服】选项点击左下角的【在线客服】在打开的对话页面与飞书在线客服联系",
+    "original_instructions": [
+        "open:飞书 应用",
+        "click:头像, 左上角",
+        "click:帮助与客服",
+        "click:在线客服, 左下角",
+        "click:对话页面"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在飞书应用中联系在线客服的步骤打开手机上的【飞书】...1. open:飞书 应用2. click:头像, 左上角3. click:帮助与客服4. click:在线客服, 左下角5. click:对话页面START",
+            "type": "open",
+            "para": "飞书",
+            "x": 578,
+            "y": 1179,
+            "endX": 578,
+            "endY": 1179,
+            "storeFolder": "250215999",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:飞书 应用"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 151,
+            "y": 222,
+            "endX": 151,
+            "endY": 222,
+            "storeFolder": "113941971",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.view.ViewGroup|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.view.ViewGroup|0;android.view.View",
+            "absoluteIdAvailable": true,
+            "description": "click:头像, 左上角",
+            "imagePath": "image0.jpg"
+        },
+        {
+            "targetName": "帮助与客服",
+            "type": "click",
+            "para": "1",
+            "x": 635,
+            "y": 1476,
+            "endX": 635,
+            "endY": 1476,
+            "storeFolder": "1497886",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|1;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.view.ViewGroup|1;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.ScrollView|0;android.widget.LinearLayout|4;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:帮助与客服",
+            "imagePath": "image1.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 600,
+            "y": 1947,
+            "endX": 600,
+            "endY": 1947,
+            "storeFolder": "28478698",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.webkit.WebView",
+            "absoluteIdAvailable": true,
+            "description": "click:在线客服, 左下角",
+            "imagePath": "image2.jpg"
+        }
+    ]
+}

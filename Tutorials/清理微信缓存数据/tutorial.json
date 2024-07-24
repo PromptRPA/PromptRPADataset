@@ -1,0 +1,112 @@
+{
+  "tutorialId": -1747995381,
+  "tutorialName": "清理微信缓存数据",
+  "tutorialDetail": "打开微信，点击“我”的，再点击“设置”。进入设置界面，点击“通用”。进入通用界面，点击“储存空间”。进入储存空间页面，点击“清理微信缓存”，即可清理微信缓存数据（注：清理缓存是不会清理聊天记录的）。",
+  "original_instructions": [
+    "open:微信",
+    "click:我",
+    "click:设置",
+    "click:通用",
+    "click:储存空间",
+    "click:清理微信缓存"
+  ],
+  "actual_instructions": [
+    {
+      "targetName": "PromptRPANEW清理微信缓存数据打开微信，点击“我”...1. open:微信2. click:我3. click:设置4. click:通用5. click:储存空间6. click:清理微信缓存START",
+      "type": "open",
+      "para": "微信",
+      "x": 519,
+      "y": 1906,
+      "endX": 519,
+      "endY": 1906,
+      "storeFolder": "267783325",
+      "absoluteId": "fake.root",
+      "absoluteIdAvailable": true,
+      "description": "Open 微信"
+    },
+    {
+      "targetName": "我",
+      "type": "click",
+      "para": "1",
+      "x": 931,
+      "y": 2126,
+      "endX": 931,
+      "endY": 2126,
+      "storeFolder": "40470152",
+      "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|1;android.widget.RelativeLayout|0;android.widget.LinearLayout|3;android.widget.RelativeLayout",
+      "absoluteIdAvailable": true,
+      "description": "Click 我.",
+      "imagePath": "image5.jpg"
+    },
+    {
+      "targetName": "设置",
+      "type": "click",
+      "para": "1",
+      "x": 624,
+      "y": 1368,
+      "endX": 624,
+      "endY": 1368,
+      "storeFolder": "147045027",
+      "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.ListView|8;android.widget.LinearLayout",
+      "absoluteIdAvailable": true,
+      "description": "Click 设置.",
+      "imagePath": "image6.jpg"
+    },
+    {
+      "targetName": "通用",
+      "type": "click",
+      "para": "1",
+      "x": 688,
+      "y": 1139,
+      "endX": 688,
+      "endY": 1139,
+      "storeFolder": "181397710",
+      "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|1;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|1;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.RelativeLayout|0;android.widget.ListView|7;android.widget.LinearLayout",
+      "absoluteIdAvailable": true,
+      "description": "Click 通用.",
+      "imagePath": "image7.jpg"
+    },
+    {
+      "targetName": "",
+      "type": "click",
+      "para": "1",
+      "x": 589,
+      "y": 1460,
+      "endX": 589,
+      "endY": 1460,
+      "storeFolder": "12619777",
+      "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.ListView|9;android.widget.TextView",
+      "absoluteIdAvailable": true,
+      "description": "Click 存储空间.",
+      "imagePath": "image8.jpg"
+    },
+    {
+      "targetName": "前往清理",
+      "type": "click",
+      "para": "1",
+      "x": 906,
+      "y": 947,
+      "endX": 906,
+      "endY": 947,
+      "storeFolder": "23094703",
+      "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.ScrollView|0;android.widget.LinearLayout|1;android.widget.RelativeLayout|2;android.widget.Button",
+      "absoluteIdAvailable": true,
+      "description": "Click 前往清理.",
+      "imagePath": "image9.jpg"
+    },
+    {
+      "targetName": "清理",
+      "type": "click",
+      "para": "1",
+      "x": 985,
+      "y": 2138,
+      "endX": 985,
+      "endY": 2138,
+      "storeFolder": "49588070",
+      "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|1;android.widget.RelativeLayout|2;android.widget.Button",
+      "absoluteIdAvailable": true,
+      "description": "Click 清理.",
+      "imagePath": "image10.jpg"
+    }
+  ]
+}

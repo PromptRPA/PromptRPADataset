@@ -1,0 +1,97 @@
+{
+    "tutorialId": 437441543,
+    "tutorialName": "在支付宝中查看商家收款码的步骤",
+    "tutorialDetail": "在支付宝的【我的】页面中，找到并点击页面上方的【商家服务】在商家服务页面，点击右上方的设置图标进入设置页面在设置页面中找到并点击【收钱码管理】在收钱码管理页面中点击【查看收钱码】，以此找到商家的收款码",
+    "original_instructions": [
+        "open:支付宝我的页面",
+        "click:商家服务, 页面上方",
+        "click:设置图标, 右上方",
+        "click:收钱码管理",
+        "click:查看收钱码"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在支付宝中查看商家收款码的步骤在支付宝的【我的】页...1. open:支付宝我的页面2. click:商家服务, 页面上方3. click:设置图标, 右上方4. click:收钱码管理5. click:查看收钱码START",
+            "type": "open",
+            "para": "支付宝",
+            "x": 721,
+            "y": 1221,
+            "endX": 721,
+            "endY": 1221,
+            "storeFolder": "237180725",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:支付宝"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 983,
+            "y": 2078,
+            "endX": 983,
+            "endY": 2078,
+            "storeFolder": "53703351",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.TabHost|1;android.widget.FrameLayout|0;android.widget.TabWidget|4;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Click 我的.",
+            "imagePath": "image271.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 878,
+            "y": 743,
+            "endX": 878,
+            "endY": 743,
+            "storeFolder": "112247318",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|1;android.support.v7.widget.RecyclerView|1;android.widget.FrameLayout|0;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:商家服务, 页面上方",
+            "imagePath": "image272.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 966,
+            "y": 202,
+            "endX": 970,
+            "endY": 201,
+            "storeFolder": "177512381",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|0;android.widget.RelativeLayout|2;android.widget.FrameLayout|0;android.widget.ImageButton",
+            "absoluteIdAvailable": true,
+            "description": "click:设置图标, 右上方",
+            "imagePath": "image273.jpg"
+        },
+        {
+            "targetName": "收钱码管理",
+            "type": "click",
+            "para": "1",
+            "x": 136,
+            "y": 627,
+            "endX": 136,
+            "endY": 627,
+            "storeFolder": "124549130",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;com.alipay.mywebview.sdk.WebView|0;android.webkit.WebView|0;android.view.View|2;android.view.View",
+            "absoluteIdAvailable": true,
+            "description": "click:收钱码管理",
+            "imagePath": "image274.jpg"
+        },
+        {
+            "targetName": "查看收钱码",
+            "type": "click",
+            "para": "1",
+            "x": 884,
+            "y": 400,
+            "endX": 884,
+            "endY": 400,
+            "storeFolder": "203934068",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;com.alipay.mywebview.sdk.WebView|0;android.webkit.WebView|0;android.view.View|0;android.view.View|2;android.widget.TextView",
+            "absoluteIdAvailable": true,
+            "description": "click:查看收钱码",
+            "imagePath": "image275.jpg"
+        }
+    ]
+}

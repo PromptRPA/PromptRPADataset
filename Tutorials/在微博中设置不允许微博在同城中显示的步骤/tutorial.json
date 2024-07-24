@@ -1,0 +1,95 @@
+{
+    "tutorialId": 462478540,
+    "tutorialName": "在微博中设置不允许微博在同城中显示的步骤",
+    "tutorialDetail": "在页面点击【设置】在设置页面选择【隐私设置】在隐私设置页面开启【不允许我的微博在同城中显示】",
+    "original_instructions": [
+        "click:设置",
+        "click:隐私设置",
+        "switch:不允许我的微博在同城中显示"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在微博中设置不允许微博在同城中显示的步骤在页面点击【设置】在...1. click:设置2. click:隐私设置3. switch:不允许我的微博在同城中显示START",
+            "type": "open",
+            "para": "微博",
+            "x": 780,
+            "y": 1187,
+            "endX": 780,
+            "endY": 1187,
+            "storeFolder": "200795350",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "Open 微博"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 977,
+            "y": 2139,
+            "endX": 977,
+            "endY": 2139,
+            "storeFolder": "262046273",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.viewpager.widget.ViewPager|0;android.widget.TabHost|2;android.widget.FrameLayout|0;android.widget.LinearLayout|4;android.widget.FrameLayout|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的",
+            "imagePath": "image128.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 996,
+            "y": 179,
+            "endX": 996,
+            "endY": 179,
+            "storeFolder": "107283395",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.viewpager.widget.ViewPager|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|3;android.widget.ImageView",
+            "absoluteIdAvailable": true,
+            "description": "click:设置",
+            "imagePath": "image129.jpg"
+        },
+        {
+            "targetName": "返回设置",
+            "type": "click",
+            "para": "1",
+            "x": 714,
+            "y": 1291,
+            "endX": 714,
+            "endY": 1291,
+            "storeFolder": "207356488",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "Click 隐私设置",
+            "imagePath": "image130.jpg"
+        },
+        {
+            "targetName": "隐私设置通讯录不允许给我推荐通讯录好友不允许通过此手机号搜到我互动管理一键防护开启后，7天内将不接收未关注人的私信/评论/转发/@消息，不能被关注/搜索到哪些人可以评论我的微博所有人我可以收到哪些人的私信默认评论防火墙开启后，系统将对含有屏蔽词、黑名单及不良信用记录用户的评论进行过滤。允许评论带图关闭后，其他人将不能在你的微博下发布带图片的评论折叠疑似低质评论开启后，疑似低质评论会在评论箱折叠展示不允许他人找我闪聊开启后，其他人无法找你开启闪聊微博可见范围返回隐私设置网页由m.weibo.cn提供",
+            "type": "scroll",
+            "para": "down",
+            "x": 625,
+            "y": 1811,
+            "endX": 773,
+            "endY": 677,
+            "storeFolder": "163353127",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image131.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "switch",
+            "para": "false",
+            "x": 967,
+            "y": 1701,
+            "endX": 967,
+            "endY": 1701,
+            "storeFolder": "266236841",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.webkit.WebView|0;android.webkit.WebView|0;android.view.View|5;android.view.View|2;android.view.View|1;android.widget.ToggleButton",
+            "absoluteIdAvailable": true,
+            "description": "switch:不允许我的微博在同城中显示",
+            "imagePath": "image132.jpg"
+        }
+    ]
+}

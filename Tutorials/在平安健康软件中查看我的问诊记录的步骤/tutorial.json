@@ -1,0 +1,54 @@
+{
+    "tutorialId": -1672398537,
+    "tutorialName": "在平安健康软件中查看我的问诊记录的步骤",
+    "tutorialDetail": "打开平安健康软件，进入软件主界面在主界面中点击【我的问诊】进入我的问诊界面在我的问诊界面中可以查看到问诊记录",
+    "original_instructions": [
+        "open:平安健康软件",
+        "click:我的, 主界面",
+        "click:我的问诊, 我的资料界面",
+        "scroll:问诊记录界面"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在平安健康软件中查看我的问诊记录的步骤打开平安健康软件，进...1. open:平安健康软件2. click:我的, 主界面3. click:我的问诊, 我的资料界面4. scroll:问诊记录界面START",
+            "type": "open",
+            "para": "平安健康",
+            "x": 501,
+            "y": 1727,
+            "endX": 501,
+            "endY": 1727,
+            "storeFolder": "90825729",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:平安健康软件"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 975,
+            "y": 2125,
+            "endX": 975,
+            "endY": 2125,
+            "storeFolder": "57393141",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|2;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|4;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的, 主界面",
+            "imagePath": "image17.jpg"
+        },
+        {
+            "targetName": "我的问诊",
+            "type": "click",
+            "para": "1",
+            "x": 179,
+            "y": 1241,
+            "endX": 179,
+            "endY": 1241,
+            "storeFolder": "236048619",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.viewpager.widget.ViewPager|0;android.widget.RelativeLayout|0;android.widget.ScrollView|0;android.widget.RelativeLayout|1;androidx.recyclerview.widget.RecyclerView|0;android.widget.LinearLayout|0;android.widget.LinearLayout|1;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|0;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的问诊, 我的资料界面",
+            "imagePath": "image18.jpg"
+        }
+    ]
+}

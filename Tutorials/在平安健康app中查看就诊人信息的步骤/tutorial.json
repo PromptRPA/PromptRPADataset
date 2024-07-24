@@ -1,0 +1,67 @@
+{
+    "tutorialId": 1223180716,
+    "tutorialName": "在平安健康app中查看就诊人信息的步骤",
+    "tutorialDetail": "打开平安健康app进入平安健康app界面点击进入个人主页在个人主页中查看就诊人信息",
+    "original_instructions": [
+        "open:平安健康app",
+        "click:个人主页",
+        "click:就诊人信息"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在平安健康app中查看就诊人信息的步骤打开平安健康app进...1. open:平安健康app2. click:个人主页3. click:就诊人信息START",
+            "type": "open",
+            "para": "平安健康",
+            "x": 544,
+            "y": 1544,
+            "endX": 544,
+            "endY": 1544,
+            "storeFolder": "33892838",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:平安健康app"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 969,
+            "y": 2120,
+            "endX": 969,
+            "endY": 2120,
+            "storeFolder": "201620737",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|2;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|4;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "Click 我的.",
+            "imagePath": "image19.jpg"
+        },
+        {
+            "targetName": "健康档案",
+            "type": "click",
+            "para": "1",
+            "x": 979,
+            "y": 354,
+            "endX": 979,
+            "endY": 354,
+            "storeFolder": "45251727",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.viewpager.widget.ViewPager|0;android.widget.RelativeLayout|0;android.widget.ScrollView|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.RelativeLayout|2;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "Click 健康档案",
+            "imagePath": "image20.jpg"
+        },
+        {
+            "targetName": "切换",
+            "type": "click",
+            "para": "1",
+            "x": 545,
+            "y": 362,
+            "endX": 545,
+            "endY": 362,
+            "storeFolder": "122482680",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.webkit.WebView|0;android.webkit.WebView|0;android.view.View|0;android.view.View|0;android.view.View|0;android.view.View|1;android.view.View|0;android.view.View|0;android.view.View|1;android.view.View|1;android.view.View|0;android.widget.TextView",
+            "absoluteIdAvailable": true,
+            "description": "Click 切换.",
+            "imagePath": "image21.jpg"
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "tutorialId": 880504433,
+    "tutorialName": "在最美天气APP中找到互动中心的步骤",
+    "tutorialDetail": "在最美天气APP界面选择屏幕右下角的【我的】并点击进入在随后的界面中找到并点击【互动中心】",
+    "original_instructions": [
+        "click:我的, 屏幕右下角",
+        "click:互动中心"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在最美天气APP中找到互动中心的步骤在最美天气APP界面...1. click:我的, 屏幕右下角2. click:互动中心START",
+            "type": "open",
+            "para": "最美天气",
+            "x": 639,
+            "y": 1511,
+            "endX": 639,
+            "endY": 1511,
+            "storeFolder": "50668419",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "Open 最美天气"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 971,
+            "y": 2123,
+            "endX": 982,
+            "endY": 2118,
+            "storeFolder": "105405887",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|3;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的, 屏幕右下角",
+            "imagePath": "image8.jpg"
+        },
+        {
+            "targetName": "133****3239快来点亮勋章吧 >1关注城市--收藏--亲情短信40云豆会员中心更多任务中心更多天文数据专属提醒专属图标个性主题查看更多树的世界财福多多自在远山水墨禅韵特色功能桌面插件台风路径历史天气语音播报首页90天发现我的",
+            "type": "scroll",
+            "para": "down",
+            "x": 530,
+            "y": 1731,
+            "endX": 583,
+            "endY": 908,
+            "storeFolder": "178111645",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down to find the contact center.",
+            "imagePath": "image9.jpg"
+        },
+        {
+            "targetName": "意见反馈",
+            "type": "click",
+            "para": "1",
+            "x": 438,
+            "y": 1839,
+            "endX": 438,
+            "endY": 1839,
+            "storeFolder": "66360845",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.recyclerview.widget.RecyclerView|2;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.RelativeLayout|1;androidx.recyclerview.widget.RecyclerView|5;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:意见反馈",
+            "imagePath": "image10.jpg"
+        }
+    ]
+}

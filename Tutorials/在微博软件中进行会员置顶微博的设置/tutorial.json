@@ -1,0 +1,71 @@
+{
+    "tutorialId": -1153357853,
+    "tutorialName": "在微博软件中进行会员置顶微博的设置",
+    "tutorialDetail": "点击设置图标进入设置界面在设置界面中，找到并点击【会员专属设置】选项在会员专属设置界面中，点击【微博置顶】选项进行置顶设置",
+    "original_instructions": [
+        "click:设置图标",
+        "click:会员专属设置",
+        "click:微博置顶"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在微博软件中进行会员置顶微博的设置点击设置图标进入设置...1. click:设置图标2. click:会员专属设置3. click:微博置顶START",
+            "type": "open",
+            "para": "微博",
+            "x": 636,
+            "y": 1457,
+            "storeFolder": "56716178",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "Open 微博"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 979,
+            "y": 2137,
+            "storeFolder": "61749179",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.viewpager.widget.ViewPager|0;android.widget.TabHost|2;android.widget.FrameLayout|0;android.widget.LinearLayout|4;android.widget.FrameLayout|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Click 我.",
+            "imagePath": "image0.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 978,
+            "y": 178,
+            "storeFolder": "185543506",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.viewpager.widget.ViewPager|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|3;android.widget.ImageView",
+            "absoluteIdAvailable": true,
+            "description": "Click 设置",
+            "imagePath": "image1.jpg"
+        },
+        {
+            "targetName": "返回设置",
+            "type": "click",
+            "para": "1",
+            "x": 879,
+            "y": 674,
+            "storeFolder": "248999259",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "Click 会员专属设置.",
+            "imagePath": "image2.jpg"
+        },
+        {
+            "targetName": "微博置顶",
+            "type": "click",
+            "para": "1",
+            "x": 995,
+            "y": 547,
+            "storeFolder": "171147441",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.webkit.WebView|0;android.webkit.WebView|0;android.view.View|0;android.view.View|2;android.view.View",
+            "absoluteIdAvailable": true,
+            "description": "Click 微博置顶.",
+            "imagePath": "image3.jpg"
+        }
+    ]
+}

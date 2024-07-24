@@ -1,0 +1,112 @@
+{
+    "tutorialId": 1170456198,
+    "tutorialName": "在微博中设置账号微博可见时间范围为半年的步骤",
+    "tutorialDetail": "打开手机上的“微博”应用进入微博APP后，点击右下角的“我”点击右上角的“设置”图标在设置页面，点击“隐私设置”点击“微博可见时间范围”选择并点击“半年可见”，完成设置",
+    "original_instructions": [
+        "open:微博应用",
+        "click:我, 右下角",
+        "click:设置图标, 右上角",
+        "click:隐私设置",
+        "click:微博可见时间范围",
+        "click:半年可见"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在微博中设置账号微博可见时间范围为半年的步骤打开手机上的“微博”...1. open:微博应用2. click:我, 右下角3. click:设置图标, 右上角4. click:隐私设置5. click:微博可见时间范围6. click:半年可见START",
+            "type": "open",
+            "para": "微博",
+            "x": 652,
+            "y": 1237,
+            "endX": 652,
+            "endY": 1237,
+            "storeFolder": "90342296",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:微博应用"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 983,
+            "y": 2111,
+            "endX": 983,
+            "endY": 2111,
+            "storeFolder": "92780343",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.viewpager.widget.ViewPager|0;android.widget.TabHost|2;android.widget.FrameLayout|0;android.widget.LinearLayout|4;android.widget.FrameLayout|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我, 右下角",
+            "imagePath": "image122.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 988,
+            "y": 187,
+            "endX": 988,
+            "endY": 187,
+            "storeFolder": "183130116",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.viewpager.widget.ViewPager|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|3;android.widget.ImageView",
+            "absoluteIdAvailable": true,
+            "description": "click:设置图标, 右上角",
+            "imagePath": "image123.jpg"
+        },
+        {
+            "targetName": "返回设置",
+            "type": "click",
+            "para": "1",
+            "x": 596,
+            "y": 1305,
+            "endX": 596,
+            "endY": 1305,
+            "storeFolder": "196591470",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:隐私设置",
+            "imagePath": "image124.jpg"
+        },
+        {
+            "targetName": "隐私设置通讯录不允许给我推荐通讯录好友不允许通过此手机号搜到我互动管理一键防护开启后，7天内将不接收未关注人的私信/评论/转发/@消息，不能被关注/搜索到哪些人可以评论我的微博所有人我可以收到哪些人的私信默认评论防火墙开启后，系统将对含有屏蔽词、黑名单及不良信用记录用户的评论进行过滤。允许评论带图关闭后，其他人将不能在你的微博下发布带图片的评论折叠疑似低质评论开启后，疑似低质评论会在评论箱折叠展示不允许他人找我闪聊开启后，其他人无法找你开启闪聊微博可见范围返回隐私设置网页由m.weibo.cn提供",
+            "type": "scroll",
+            "para": "down",
+            "x": 741,
+            "y": 1839,
+            "endX": 977,
+            "endY": 494,
+            "storeFolder": "57390438",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image125.jpg"
+        },
+        {
+            "targetName": "微博可见时间范围全部",
+            "type": "click",
+            "para": "1",
+            "x": 761,
+            "y": 1539,
+            "endX": 761,
+            "endY": 1539,
+            "storeFolder": "232240889",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.webkit.WebView|0;android.webkit.WebView|0;android.view.View|7;android.view.View",
+            "absoluteIdAvailable": true,
+            "description": "click:微博可见时间范围",
+            "imagePath": "image126.jpg"
+        },
+        {
+            "targetName": "最近半年",
+            "type": "click",
+            "para": "1",
+            "x": 736,
+            "y": 848,
+            "endX": 736,
+            "endY": 848,
+            "storeFolder": "28105238",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.webkit.WebView|0;android.webkit.WebView|0;android.view.View|4;android.view.View",
+            "absoluteIdAvailable": true,
+            "description": "click:半年可见",
+            "imagePath": "image127.jpg"
+        }
+    ]
+}

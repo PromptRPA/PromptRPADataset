@@ -1,0 +1,70 @@
+{
+    "tutorialId": 1439307787,
+    "tutorialName": "在平安健康中删除问诊记录的步骤",
+    "tutorialDetail": "点击百度手机客户端右下角的【我的】在问一问标签下点击【问医生】进入医疗助手界面在医疗助手界面点击【曾经问过】查看问诊记录在问诊记录右上角点击【删除】图标点击弹出的【全部删除】选项，确认后清空问诊记录",
+    "original_instructions": [
+        "click:我的, 百度手机客户端右下角",
+        "click:问医生, 问一问标签下",
+        "click:曾经问过, 医疗助手界面",
+        "click:删除, 问诊记录右上角图标",
+        "click:全部删除, 弹出选项",
+        "click:确认"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在百度手机客户端中删除问诊记录的步骤点击百度手机客户端右...1. click:我的, 百度手机客户端右下角2. click:问医生, 问一问标签下3. click:曾经问过, 医疗助手界面4. click:删除, 问诊记录右上角图标5. click:全部删除, 弹出选项6. click:确认START",
+            "type": "open",
+            "para": "平安健康",
+            "x": 675,
+            "y": 1133,
+            "endX": 675,
+            "endY": 1133,
+            "storeFolder": "213857400",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "click:我的, 百度手机客户端右下角"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 965,
+            "y": 2099,
+            "endX": 965,
+            "endY": 2099,
+            "storeFolder": "250729365",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|2;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|4;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "Click 我的.",
+            "imagePath": "image14.jpg"
+        },
+        {
+            "targetName": "我的问诊",
+            "type": "click",
+            "para": "1",
+            "x": 149,
+            "y": 1236,
+            "endX": 149,
+            "endY": 1236,
+            "storeFolder": "86578930",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.viewpager.widget.ViewPager|0;android.widget.RelativeLayout|0;android.widget.ScrollView|0;android.widget.RelativeLayout|1;androidx.recyclerview.widget.RecyclerView|0;android.widget.LinearLayout|0;android.widget.LinearLayout|1;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|0;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "Click 我的问诊.",
+            "imagePath": "image15.jpg"
+        },
+        {
+            "targetName": "用药记录",
+            "type": "click",
+            "para": "1",
+            "x": 873,
+            "y": 293,
+            "endX": 873,
+            "endY": 293,
+            "storeFolder": "114304850",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.webkit.WebView|0;android.webkit.WebView|0;android.view.View|0;android.view.View|0;android.view.View|0;android.view.View|0;android.view.View|1;android.view.View|2;android.view.View",
+            "absoluteIdAvailable": true,
+            "description": "Click 用药记录.",
+            "imagePath": "image16.jpg"
+        }
+    ]
+}

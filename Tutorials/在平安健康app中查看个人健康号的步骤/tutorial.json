@@ -1,0 +1,83 @@
+{
+    "tutorialId": -949677136,
+    "tutorialName": "在平安健康app中查看个人健康号的步骤",
+    "tutorialDetail": "打开手机上的【平安健康】应用点击进入【我的】页面在我的主页，点击右上角的设置图标点击进入【个人信息和地址管理】在个人信息页面，根据箭头指示找到自己的健康号",
+    "original_instructions": [
+        "open:平安健康应用",
+        "click:我的 页面",
+        "click:设置图标, 右上角",
+        "click:个人信息和地址管理",
+        "click:健康号, 箭头指示的位置"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在平安健康app中查看个人健康号的步骤打开手机上的【平安健...1. open:平安健康应用2. click:我的 页面3. click:设置图标, 右上角4. click:个人信息和地址管理5. click:健康号, 箭头指示的位置START",
+            "type": "open",
+            "para": "平安健康",
+            "x": 725,
+            "y": 1188,
+            "endX": 725,
+            "endY": 1188,
+            "storeFolder": "59675212",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:平安健康应用"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 980,
+            "y": 2105,
+            "endX": 980,
+            "endY": 2105,
+            "storeFolder": "215819522",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|2;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|4;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的 页面",
+            "imagePath": "image0.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 1004,
+            "y": 203,
+            "endX": 1004,
+            "endY": 203,
+            "storeFolder": "84633616",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.viewpager.widget.ViewPager|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|2;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.ImageView",
+            "absoluteIdAvailable": true,
+            "description": "click:设置图标, 右上角",
+            "imagePath": "image1.jpg"
+        },
+        {
+            "targetName": "个人信息和地址管理",
+            "type": "click",
+            "para": "1",
+            "x": 799,
+            "y": 977,
+            "endX": 799,
+            "endY": 977,
+            "storeFolder": "59775166",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.ScrollView|0;android.widget.LinearLayout|4;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:个人信息和地址管理",
+            "imagePath": "image2.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 1019,
+            "y": 691,
+            "endX": 1019,
+            "endY": 691,
+            "storeFolder": "142868872",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.ScrollView|0;android.widget.LinearLayout|0;android.widget.LinearLayout|2;android.widget.RelativeLayout|2;android.widget.ImageView",
+            "absoluteIdAvailable": true,
+            "description": "click:健康号, 箭头指示的位置",
+            "imagePath": "image3.jpg"
+        }
+    ]
+}

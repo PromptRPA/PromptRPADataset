@@ -1,0 +1,83 @@
+{
+    "tutorialId": 1817658377,
+    "tutorialName": "在微博中查看交易记录的步骤",
+    "tutorialDetail": "打开微博，点击页面下方的【我】按钮点击【我的钱包】按钮点击页面右上角的齿轮设置按钮在设置页面中点开【交易记录】选项即可查看",
+    "original_instructions": [
+        "open:微博",
+        "click:我按钮, 页面下方",
+        "click:我的钱包按钮",
+        "click:齿轮设置按钮, 页面右上角",
+        "click:交易记录选项"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在微博中查看交易记录的步骤打开微博，点击页面下...1. open:微博2. click:我按钮, 页面下方3. click:我的钱包按钮4. click:齿轮设置按钮, 页面右上角5. click:交易记录选项START",
+            "type": "open",
+            "para": "微博",
+            "x": 277,
+            "y": 1248,
+            "endX": 277,
+            "endY": 1248,
+            "storeFolder": "58200154",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:微博"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 982,
+            "y": 2116,
+            "endX": 982,
+            "endY": 2116,
+            "storeFolder": "8400981",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.viewpager.widget.ViewPager|0;android.widget.TabHost|2;android.widget.FrameLayout|0;android.widget.LinearLayout|4;android.widget.FrameLayout|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我按钮, 页面下方",
+            "imagePath": "image112.jpg"
+        },
+        {
+            "targetName": "我的钱包",
+            "type": "click",
+            "para": "1",
+            "x": 160,
+            "y": 1209,
+            "endX": 160,
+            "endY": 1209,
+            "storeFolder": "164262199",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.viewpager.widget.ViewPager|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|1;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|1;android.view.ViewGroup|0;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|4;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:我的钱包按钮",
+            "imagePath": "image113.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 1003,
+            "y": 205,
+            "endX": 1003,
+            "endY": 205,
+            "storeFolder": "11120754",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.View|0;android.view.View|0;android.view.View|0;android.view.View|2;android.widget.ImageView",
+            "absoluteIdAvailable": true,
+            "description": "click:齿轮设置按钮, 页面右上角",
+            "imagePath": "image114.jpg"
+        },
+        {
+            "targetName": "交易记录",
+            "type": "click",
+            "para": "1",
+            "x": 888,
+            "y": 400,
+            "endX": 888,
+            "endY": 400,
+            "storeFolder": "222622261",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|1;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:交易记录选项",
+            "imagePath": "image115.jpg"
+        }
+    ]
+}

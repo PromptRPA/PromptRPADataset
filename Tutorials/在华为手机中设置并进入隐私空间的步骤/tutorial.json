@@ -1,0 +1,100 @@
+{
+    "tutorialId": -425906981,
+    "tutorialName": "在华为手机中设置并进入隐私空间的步骤",
+    "tutorialDetail": "打开华为手机的设置点击进入安全和隐私在安全和隐私界面，选择并进入隐私空间点击开启，使用指纹或密码方式进入隐私空间设置一个与主系统不同的密码，连续输入两次以确认设置完成密码后，点击进入隐私空间",
+    "original_instructions": [
+        "open:设置, 华为手机",
+        "click:安全和隐私",
+        "click:隐私空间",
+        "click:开启",
+        "edit:指纹或密码",
+        "edit:密码",
+        "click:确认",
+        "click:进入"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在华为手机中设置并进入隐私空间的步骤打开华为手机的设置点...1. open:设置, 华为手机2. click:安全和隐私3. click:隐私空间4. click:开启5. edit:指纹或密码6. edit:密码7. click:确认8. click:进入START",
+            "type": "open",
+            "para": "设置",
+            "x": 745,
+            "y": 1144,
+            "endX": 745,
+            "endY": 1144,
+            "storeFolder": "261681900",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:设置"
+        },
+        {
+            "targetName": "anxieter华为帐号、付款与账单、云空间等WLANXuan蓝牙已开启移动网络超级终端更多连接桌面和个性化显示和亮度搜索设置项",
+            "type": "scroll",
+            "para": "down",
+            "x": 628,
+            "y": 1984,
+            "endX": 753,
+            "endY": 742,
+            "storeFolder": "167847215",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image9.jpg"
+        },
+        {
+            "targetName": "移动网络超级终端更多连接桌面和个性化显示和亮度声音和振动通知和状态栏生物识别和密码应用和服务电池存储",
+            "type": "scroll",
+            "para": "down",
+            "x": 677,
+            "y": 1943,
+            "endX": 851,
+            "endY": 807,
+            "storeFolder": "195861306",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image10.jpg"
+        },
+        {
+            "targetName": "隐私",
+            "type": "click",
+            "para": "1",
+            "x": 634,
+            "y": 1658,
+            "endX": 634,
+            "endY": 1658,
+            "storeFolder": "202375335",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.recyclerview.widget.RecyclerView|7;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:隐私",
+            "imagePath": "image11.jpg"
+        },
+        {
+            "targetName": "隐私空间独立于主空间的私密空间",
+            "type": "click",
+            "para": "1",
+            "x": 856,
+            "y": 1659,
+            "endX": 856,
+            "endY": 1659,
+            "storeFolder": "82015806",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.ScrollView|0;android.view.ViewGroup|1;android.view.ViewGroup|0;android.widget.LinearLayout|1;android.widget.GridView|1;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:隐私空间",
+            "imagePath": "image12.jpg"
+        },
+        {
+            "targetName": "开启",
+            "type": "click",
+            "para": "1",
+            "x": 685,
+            "y": 2077,
+            "endX": 685,
+            "endY": 2077,
+            "storeFolder": "123990309",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.widget.LinearLayout|1;android.widget.FrameLayout|0;android.widget.RelativeLayout|2;android.widget.LinearLayout|0;android.widget.Button",
+            "absoluteIdAvailable": true,
+            "description": "click:开启",
+            "imagePath": "image13.jpg"
+        }
+    ]
+}

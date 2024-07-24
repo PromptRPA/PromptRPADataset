@@ -1,0 +1,98 @@
+{
+    "tutorialId": -221700049,
+    "tutorialName": "在飞书中退出登录个人版账号的步骤",
+    "tutorialDetail": "打开飞书，点击头像点击设置点击退出登录点击退出登录“飞书个人版”，注销个人账号",
+    "original_instructions": [
+        "open:飞书",
+        "click:头像",
+        "click:设置",
+        "click:退出登录",
+        "click:退出登录“飞书个人版”",
+        "click:注销个人账号"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在飞书中退出登录个人版账号的步骤打开飞书，点击头像点...1. open:飞书2. click:头像3. click:设置4. click:退出登录5. click:退出登录“飞书个人版”6. click:注销个人账号START",
+            "type": "open",
+            "para": "飞书",
+            "x": 507,
+            "y": 1027,
+            "endX": 507,
+            "endY": 1027,
+            "storeFolder": "104537884",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:飞书"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 88,
+            "y": 204,
+            "endX": 88,
+            "endY": 204,
+            "storeFolder": "232004215",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.view.ViewGroup|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.view.ViewGroup|0;android.view.View",
+            "absoluteIdAvailable": true,
+            "description": "click:头像",
+            "imagePath": "image37.jpg"
+        },
+        {
+            "targetName": "设置",
+            "type": "click",
+            "para": "1",
+            "x": 572,
+            "y": 1783,
+            "endX": 572,
+            "endY": 1783,
+            "storeFolder": "127526062",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|1;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.view.ViewGroup|1;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.ScrollView|0;android.widget.LinearLayout|6;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:设置",
+            "imagePath": "image38.jpg"
+        },
+        {
+            "targetName": "设置账号安全中心通用通知隐私日历视频会议任务效率个人信息收集清单接入合作方目录内部设置",
+            "type": "scroll",
+            "para": "down",
+            "x": 649,
+            "y": 1686,
+            "endX": 523,
+            "endY": 697,
+            "storeFolder": "129077053",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image39.jpg"
+        },
+        {
+            "targetName": "退出登录",
+            "type": "click",
+            "para": "1",
+            "x": 556,
+            "y": 1854,
+            "endX": 556,
+            "endY": 1854,
+            "storeFolder": "100868490",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.ScrollView|0;android.widget.LinearLayout|3;android.widget.LinearLayout|0;android.widget.TextView",
+            "absoluteIdAvailable": true,
+            "description": "click:退出登录",
+            "imagePath": "image40.jpg"
+        },
+        {
+            "targetName": "退出登录“健”",
+            "type": "click",
+            "para": "1",
+            "x": 570,
+            "y": 1905,
+            "endX": 570,
+            "endY": 1905,
+            "storeFolder": "205482911",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.ScrollView|0;android.widget.LinearLayout|1;android.widget.FrameLayout|0;android.widget.LinearLayout|0;androidx.recyclerview.widget.RecyclerView|0;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:退出登录",
+            "imagePath": "image41.jpg"
+        }
+    ]
+}

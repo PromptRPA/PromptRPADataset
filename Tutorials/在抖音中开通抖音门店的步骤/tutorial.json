@@ -1,0 +1,98 @@
+{
+    "tutorialId": -697631885,
+    "tutorialName": "在抖音中开通抖音门店的步骤",
+    "tutorialDetail": "点击图标打开抖音软件点击右下角的“我”进入个人页面点击右上角的三条横线进入设置点击“创作者服务中心”点击“开通抖音门店”，并按提示操作",
+    "original_instructions": [
+        "click:抖音图标",
+        "open:抖音软件",
+        "click:我, 右下角",
+        "click:三条横线, 右上角",
+        "click:创作者服务中心",
+        "click:开通抖音门店"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在抖音中开通抖音门店的步骤点击图标打开抖音软件...1. click:抖音图标2. open:抖音软件3. click:我, 右下角4. click:三条横线, 右上角5. click:创作者服务中心6. click:开通抖音门店START",
+            "type": "open",
+            "para": "抖音",
+            "x": 732,
+            "y": 1134,
+            "storeFolder": "254458105",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:抖音软件"
+        },
+        {
+            "targetName": "我",
+            "type": "click",
+            "para": "1",
+            "x": 978,
+            "y": 2125,
+            "storeFolder": "128162893",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;X.0sk1|0;android.widget.TabHost|0;android.widget.FrameLayout|2;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|4;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我, 右下角",
+            "imagePath": "image14.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 974,
+            "y": 210,
+            "storeFolder": "62280011",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;X.0sk1|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|2;com.bytedance.highperformanceview.layout.MeasureOnceRelativeLayout2|0;com.bytedance.highperformanceview.layout.MeasureOnceRelativeLayout2|3;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:三条横线, 右上角",
+            "imagePath": "image15.jpg"
+        },
+        {
+            "targetName": "抖音创作者中心",
+            "type": "click",
+            "para": "1",
+            "x": 683,
+            "y": 1068,
+            "storeFolder": "106263327",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;X.0sk1|1;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.ScrollView|0;android.widget.LinearLayout|1;android.widget.LinearLayout|0;android.widget.LinearLayout|4;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:创作者服务中心",
+            "imagePath": "image16.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 113,
+            "y": 944,
+            "storeFolder": "145980476",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.webkit.WebView",
+            "absoluteIdAvailable": true,
+            "description": "Click 全部",
+            "imagePath": "image17.jpg"
+        },
+        {
+            "targetName": "返回学创作涨收入//abc账号正常粉丝 0/1000查看权益7日账号数据详情/了解视频数据/分析作品热度/监测实时动态开通数据看板能力//全部/行业频道/变现任务/账号检测/开始直播/上热门/学习中心/规则中心/全民任务tab-bg-light.f0c1d3f5.png~tplv-ej45yr35bn-webp学创作涨收入我的收藏灵感宝库创作助手作品检测创作周报一周总结流量奖励0张待使用挑战跟拍活动激励热搜灵感探索选题工具服务/账号安全/账号检测/规则中心/原创保护创作/学习中心/创作灵感/活动中心经营成长/数据中心/成长中心/上热门/小店随心推变现/全民任务/变现任务/星图商单/中视频计划/伙伴计划/开始直播/电商带货/赞赏/团购带货/站外播放",
+            "type": "scroll",
+            "para": "down",
+            "x": 715,
+            "y": 1895,
+            "storeFolder": "48866486",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image18.jpg"
+        },
+        {
+            "targetName": "/我要开店",
+            "type": "click",
+            "para": "1",
+            "x": 734,
+            "y": 2055,
+            "storeFolder": "257546149",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.webkit.WebView|0;android.webkit.WebView|0;android.view.View|1;android.view.View|1;android.view.View|0;android.view.View|2;android.view.View|29;android.view.View",
+            "absoluteIdAvailable": true,
+            "description": "Click 我要开店",
+            "imagePath": "image19.jpg"
+        }
+    ]
+}

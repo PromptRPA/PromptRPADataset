@@ -1,0 +1,98 @@
+{
+    "tutorialId": -367371001,
+    "tutorialName": "设置抖音app开启时默认为静音模式的步骤",
+    "tutorialDetail": "打开抖音app点击进入我的界面点击右上角的“三”选择“设置”点击“通用设置”点击打开“开启抖音时默认静音”按钮",
+    "original_instructions": [
+        "open:抖音app",
+        "click:我的界面",
+        "click:三, 右上角",
+        "click:设置",
+        "click:通用设置",
+        "switch:开启抖音时默认静音 按钮"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW设置抖音app开启时默认为静音模式的步骤打开抖音app点击进...1. open:抖音app2. click:我的界面3. click:三, 右上角4. click:设置5. click:通用设置6. switch:开启抖音时默认静音 按钮START",
+            "type": "open",
+            "para": "抖音",
+            "x": 702,
+            "y": 1185,
+            "endX": 702,
+            "endY": 1185,
+            "storeFolder": "169336175",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:抖音app"
+        },
+        {
+            "targetName": "我",
+            "type": "click",
+            "para": "1",
+            "x": 956,
+            "y": 2123,
+            "endX": 956,
+            "endY": 2123,
+            "storeFolder": "192460768",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;X.0sk1|0;android.widget.TabHost|0;android.widget.FrameLayout|2;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|4;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的界面",
+            "imagePath": "image7.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 957,
+            "y": 233,
+            "endX": 957,
+            "endY": 233,
+            "storeFolder": "75975732",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;X.0sk1|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|2;com.bytedance.highperformanceview.layout.MeasureOnceRelativeLayout2|0;com.bytedance.highperformanceview.layout.MeasureOnceRelativeLayout2|3;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:三, 右上角",
+            "imagePath": "image8.jpg"
+        },
+        {
+            "targetName": "设置",
+            "type": "click",
+            "para": "1",
+            "x": 555,
+            "y": 1872,
+            "endX": 555,
+            "endY": 1872,
+            "storeFolder": "94466602",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;X.0sk1|1;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.ScrollView|0;android.widget.LinearLayout|2;android.widget.LinearLayout|0;android.widget.LinearLayout|4;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:设置",
+            "imagePath": "image9.jpg"
+        },
+        {
+            "targetName": "播放设置",
+            "type": "click",
+            "para": "1",
+            "x": 470,
+            "y": 1779,
+            "endX": 470,
+            "endY": 1779,
+            "storeFolder": "79635070",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.ScrollView|0;android.widget.LinearLayout|4;android.widget.LinearLayout|3;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:播放设置",
+            "imagePath": "image10.jpg"
+        },
+        {
+            "targetName": "开启抖音时默认静音",
+            "type": "switch",
+            "para": "true",
+            "x": 937,
+            "y": 1236,
+            "endX": 937,
+            "endY": 1236,
+            "storeFolder": "145515445",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|1;android.widget.ScrollView|0;android.widget.LinearLayout|2;android.widget.LinearLayout|0;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "switch:开启抖音时默认静音 按钮",
+            "imagePath": "image11.jpg"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "tutorialId": -1442600087,
+    "tutorialName": "在微博借钱上申请贷款的步骤以及基本条件",
+    "tutorialDetail": "登录新浪微博APP点击页面下方菜单栏的“我”点击“微博钱包”找到并点击“微博借钱”进入点击“领取信用额度”进行借款",
+    "original_instructions": [
+        "open:新浪微博APP",
+        "click:我, 页面下方菜单栏",
+        "click:微博钱包",
+        "click:微博借钱",
+        "click:领取信用额度"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在微博借钱上申请贷款的步骤以及基本条件登录新浪微博APP点...1. open:新浪微博APP2. click:我, 页面下方菜单栏3. click:微博钱包4. click:微博借钱5. click:领取信用额度START",
+            "type": "open",
+            "para": "微博",
+            "x": 832,
+            "y": 1187,
+            "endX": 832,
+            "endY": 1187,
+            "storeFolder": "233588189",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:新浪微博APP"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 978,
+            "y": 2103,
+            "endX": 978,
+            "endY": 2103,
+            "storeFolder": "93636962",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.viewpager.widget.ViewPager|0;android.widget.TabHost|1;android.widget.FrameLayout|0;android.widget.LinearLayout|4;android.widget.FrameLayout|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我, 页面下方菜单栏",
+            "imagePath": "image133.jpg"
+        },
+        {
+            "targetName": "我的钱包",
+            "type": "click",
+            "para": "1",
+            "x": 174,
+            "y": 1249,
+            "endX": 174,
+            "endY": 1249,
+            "storeFolder": "133131740",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.viewpager.widget.ViewPager|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|1;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|1;android.view.ViewGroup|0;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|4;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:微博钱包",
+            "imagePath": "image134.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 140,
+            "y": 1337,
+            "endX": 140,
+            "endY": 1337,
+            "storeFolder": "185843035",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.View|0;android.view.View|0;android.view.View|0;android.view.View|3;android.view.View|0;android.view.View|3;android.view.View|0;android.view.View|0;android.view.View|0;android.widget.ImageView",
+            "absoluteIdAvailable": true,
+            "description": "click:微博借钱",
+            "imagePath": "image135.jpg"
+        },
+        {
+            "targetName": "获取额度",
+            "type": "click",
+            "para": "1",
+            "x": 712,
+            "y": 1036,
+            "endX": 712,
+            "endY": 1036,
+            "storeFolder": "127813580",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.webkit.WebView|0;android.webkit.WebView|0;android.view.View|0;android.view.View|0;android.view.View|0;android.view.View|1;android.view.View|0;android.view.View|3;android.view.View|0;android.widget.Button",
+            "absoluteIdAvailable": true,
+            "description": "click:领取信用额度",
+            "imagePath": "image136.jpg"
+        }
+    ]
+}

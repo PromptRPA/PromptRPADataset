@@ -1,0 +1,69 @@
+{
+    "tutorialId": 1394152880,
+    "tutorialName": "在影视大全app中关闭短视频自动播放的步骤",
+    "tutorialDetail": "点击进入影视大全app点击进入“我的”，点击上方的“设置”，进入设置页面在设置中点击关闭“短视频下自动播放”选项",
+    "original_instructions": [
+        "open:影视大全app",
+        "click:我的",
+        "click:设置, 上方",
+        "click:短视频下自动播放开关",
+        "switch:短视频下自动播放开关"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在影视大全app中关闭短视频自动播放的步骤点击进入影视大全ap...1. open:影视大全app2. click:我的3. click:设置, 上方4. click:短视频下自动播放开关5. switch:短视频下自动播放开关START",
+            "type": "open",
+            "para": "影视大全",
+            "x": 669,
+            "y": 1218,
+            "endX": 669,
+            "endY": 1218,
+            "storeFolder": "10738105",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:影视大全app"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 928,
+            "y": 2143,
+            "endX": 928,
+            "endY": 2143,
+            "storeFolder": "121094876",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|3;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的",
+            "imagePath": "image209.jpg"
+        },
+        {
+            "targetName": "设置",
+            "type": "click",
+            "para": "1",
+            "x": 746,
+            "y": 1424,
+            "endX": 746,
+            "endY": 1424,
+            "storeFolder": "50232844",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|4;android.widget.LinearLayout|2;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:设置",
+            "imagePath": "image210.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "switch",
+            "para": "false",
+            "x": 957,
+            "y": 1207,
+            "endX": 957,
+            "endY": 1207,
+            "storeFolder": "247072325",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.ScrollView|0;android.widget.LinearLayout|1;android.widget.LinearLayout|3;android.widget.RelativeLayout|1;android.widget.ToggleButton",
+            "absoluteIdAvailable": true,
+            "description": "Switch to state:false",
+            "imagePath": "image211.jpg"
+        }
+    ]
+}

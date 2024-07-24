@@ -1,0 +1,97 @@
+{
+    "tutorialId": 2041416243,
+    "tutorialName": "在飞书app中调整字体大小的步骤",
+    "tutorialDetail": "打开手机并点击进入【飞书】app进入飞书的设置点击列表中的【通用】点击选择【字体大小】点击并滑动底部的滑条以调整字体大小",
+    "original_instructions": [
+        "open:飞书app",
+        "click:设置",
+        "click:通用",
+        "click:字体大小",
+        "scroll:滑条, 底部"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在飞书app中调整字体大小的步骤打开手机并点击进入【...1. open:飞书app2. click:设置3. click:通用4. click:字体大小5. scroll:滑条, 底部START",
+            "type": "open",
+            "para": "飞书",
+            "x": 584,
+            "y": 1096,
+            "endX": 584,
+            "endY": 1096,
+            "storeFolder": "173539881",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:飞书 app"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 93,
+            "y": 211,
+            "endX": 93,
+            "endY": 211,
+            "storeFolder": "151901852",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.view.ViewGroup|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.view.ViewGroup|0;android.view.View",
+            "absoluteIdAvailable": true,
+            "description": "Click 我的头像",
+            "imagePath": "image0.jpg"
+        },
+        {
+            "targetName": "设置",
+            "type": "click",
+            "para": "1",
+            "x": 633,
+            "y": 1802,
+            "endX": 633,
+            "endY": 1802,
+            "storeFolder": "168702601",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|1;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.view.ViewGroup|1;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.ScrollView|0;android.widget.LinearLayout|6;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:设置",
+            "imagePath": "image1.jpg"
+        },
+        {
+            "targetName": "通用",
+            "type": "click",
+            "para": "1",
+            "x": 467,
+            "y": 538,
+            "endX": 467,
+            "endY": 538,
+            "storeFolder": "36882506",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.ScrollView|0;android.widget.LinearLayout|0;android.widget.LinearLayout|1;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:通用",
+            "imagePath": "image2.jpg"
+        },
+        {
+            "targetName": "字体大小",
+            "type": "click",
+            "para": "1",
+            "x": 562,
+            "y": 1283,
+            "endX": 562,
+            "endY": 1283,
+            "storeFolder": "78122547",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.ScrollView|0;android.widget.LinearLayout|2;android.widget.LinearLayout|0;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:字体大小",
+            "imagePath": "image3.jpg"
+        },
+        {
+            "targetName": "取消字体大小完成预览聊天字体大小拖动下面的滑块，可设置字体大小设置后，会改变聊天中的字体大小。如果在使用过程中存在问题或意见，可反馈给飞书客服团队。",
+            "type": "click",
+            "para": "1",
+            "x": 291,
+            "y": 2109,
+            "endX": 469,
+            "endY": 2099,
+            "storeFolder": "135025923",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "scroll:滑条, 底部",
+            "imagePath": "image4.jpg"
+        }
+    ]
+}

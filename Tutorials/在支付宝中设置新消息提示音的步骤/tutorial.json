@@ -1,0 +1,99 @@
+{
+    "tutorialId": 1444438346,
+    "tutorialName": "在支付宝中设置新消息提示音的步骤",
+    "tutorialDetail": "打开支付宝APP点击页面下方的【我的】按钮在我的页面中点击右上角的【齿轮图标】进入设置在设置中点击【新消息通知】选项在新消息通知中点击【声音】选项选择一个【提示音】，然后点击【确定】按钮以设置新的消息提示音",
+    "original_instructions": [
+        "open:支付宝APP",
+        "click:我的, 页面下方",
+        "click:齿轮图标, 右上角",
+        "click:新消息通知",
+        "click:声音",
+        "click:提示音",
+        "click:确定按钮"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在支付宝中设置新消息提示音的步骤打开支付宝APP点击...1. open:支付宝APP2. click:我的, 页面下方3. click:齿轮图标, 右上角4. click:新消息通知5. click:声音6. click:提示音7. click:确定按钮START",
+            "type": "open",
+            "para": "支付宝",
+            "x": 661,
+            "y": 1312,
+            "endX": 661,
+            "endY": 1312,
+            "storeFolder": "119495429",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:支付宝APP"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 987,
+            "y": 2157,
+            "endX": 989,
+            "endY": 2160,
+            "storeFolder": "130957048",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.TabHost|1;android.widget.FrameLayout|0;android.widget.TabWidget|4;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的, 页面下方",
+            "imagePath": "image0.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 1001,
+            "y": 190,
+            "endX": 1001,
+            "endY": 190,
+            "storeFolder": "97205519",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|2;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:齿轮图标, 右上角",
+            "imagePath": "image1.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 743,
+            "y": 838,
+            "endX": 743,
+            "endY": 838,
+            "storeFolder": "136123137",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|1;android.widget.LinearLayout|0;android.support.v7.widget.RecyclerView|0;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:新消息通知",
+            "imagePath": "image2.jpg"
+        },
+        {
+            "targetName": "去设置",
+            "type": "click",
+            "para": "1",
+            "x": 890,
+            "y": 1373,
+            "endX": 890,
+            "endY": 1373,
+            "storeFolder": "223305809",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;com.alipay.mywebview.sdk.WebView|0;android.webkit.WebView|0;android.view.View|0;android.view.View|12;android.view.View|1;android.widget.TextView",
+            "absoluteIdAvailable": true,
+            "description": "click:声音",
+            "imagePath": "image3.jpg"
+        },
+        {
+            "targetName": "通知铃声Rise",
+            "type": "click",
+            "para": "1",
+            "x": 912,
+            "y": 1329,
+            "endX": 912,
+            "endY": 1329,
+            "storeFolder": "264548691",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|6;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:提示音",
+            "imagePath": "image4.jpg"
+        }
+    ]
+}

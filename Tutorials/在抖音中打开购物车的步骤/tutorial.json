@@ -1,0 +1,60 @@
+{
+    "tutorialId": -1940102290,
+    "tutorialName": "在抖音中打开购物车的步骤",
+    "tutorialDetail": "打开抖音并点击【我】在我的页面点击【抖音商城】进入商城后点击右上角的【购物车】图标页面跳转后就可以看到购物车内容",
+    "original_instructions": [
+        "open:抖音",
+        "click:我",
+        "click:抖音商城",
+        "click:购物车图标, 右上角"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在抖音中打开购物车的步骤打开抖音并点击【我】...1. open:抖音2. click:我3. click:抖音商城4. click:购物车图标, 右上角START",
+            "type": "open",
+            "para": "抖音",
+            "x": 614,
+            "y": 1108,
+            "storeFolder": "208529645",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "Open 抖音"
+        },
+        {
+            "targetName": "我",
+            "type": "click",
+            "para": "1",
+            "x": 982,
+            "y": 2105,
+            "storeFolder": "261473281",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;X.0sk1|0;android.widget.TabHost|0;android.widget.FrameLayout|2;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|4;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我",
+            "imagePath": "image11.jpg"
+        },
+        {
+            "targetName": "抖音商城",
+            "type": "click",
+            "para": "1",
+            "x": 165,
+            "y": 1118,
+            "storeFolder": "187014014",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;X.0sk1|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.view.ViewGroup|4;android.widget.LinearLayout|0;android.view.ViewGroup|0;android.widget.HorizontalScrollView|0;android.widget.LinearLayout|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:抖音商城",
+            "imagePath": "image12.jpg"
+        },
+        {
+            "targetName": "购物车  按钮",
+            "type": "click",
+            "para": "1",
+            "x": 1003,
+            "y": 165,
+            "storeFolder": "177190084",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|3;com.bytedance.android.ec.hybrid.xelement.ecomimage.ECCustomUiImage",
+            "absoluteIdAvailable": true,
+            "description": "click:购物车图标, 右上角",
+            "imagePath": "image13.jpg"
+        }
+    ]
+}

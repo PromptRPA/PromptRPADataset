@@ -1,0 +1,110 @@
+{
+    "tutorialId": 620626619,
+    "tutorialName": "关闭华为手机纯净模式的步骤",
+    "tutorialDetail": "进入手机设置，点击“系统和更新”选项在系统和更新页面中，点击“纯净模式”进入纯净模式设置，点击下方的“退出”按钮",
+    "original_instructions": [
+        "open:手机设置",
+        "click:系统和更新",
+        "click:纯净模式",
+        "click:退出按钮, 下方"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW关闭华为手机纯净模式的步骤进入手机设置，点击“...1. open:手机设置2. click:系统和更新3. click:纯净模式4. click:退出按钮, 下方START",
+            "type": "open",
+            "para": "设置",
+            "x": 540,
+            "y": 1090,
+            "endX": 540,
+            "endY": 1090,
+            "storeFolder": "67281743",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:手机设置"
+        },
+        {
+            "targetName": "anxieter华为帐号、付款与账单、云空间等WLANTsinghua-Dongsheng蓝牙已开启移动网络超级终端更多连接桌面和个性化显示和亮度搜索设置项",
+            "type": "scroll",
+            "para": "down",
+            "x": 606,
+            "y": 1735,
+            "endX": 434,
+            "endY": 171,
+            "storeFolder": "199309274",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image43.jpg"
+        },
+        {
+            "targetName": "超级终端更多连接桌面和个性化显示和亮度声音和振动通知和状态栏生物识别和密码应用和服务电池存储安全",
+            "type": "scroll",
+            "para": "down",
+            "x": 701,
+            "y": 1678,
+            "endX": 639,
+            "endY": 442,
+            "storeFolder": "52215048",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image44.jpg"
+        },
+        {
+            "targetName": "生物识别和密码应用和服务电池存储安全隐私健康使用手机智慧助手钱包和支付辅助功能",
+            "type": "scroll",
+            "para": "down",
+            "x": 639,
+            "y": 1814,
+            "endX": 631,
+            "endY": 580,
+            "storeFolder": "97818086",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image45.jpg"
+        },
+        {
+            "targetName": "系统和更新",
+            "type": "click",
+            "para": "1",
+            "x": 489,
+            "y": 1913,
+            "endX": 489,
+            "endY": 1913,
+            "storeFolder": "178213941",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.recyclerview.widget.RecyclerView|9;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:系统和更新",
+            "imagePath": "image46.jpg"
+        },
+        {
+            "targetName": "纯净模式",
+            "type": "click",
+            "para": "1",
+            "x": 489,
+            "y": 1650,
+            "endX": 489,
+            "endY": 1650,
+            "storeFolder": "72932531",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.widget.LinearLayout|1;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.recyclerview.widget.RecyclerView|7;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:纯净模式",
+            "imagePath": "image47.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "switch",
+            "para": "false",
+            "x": 922,
+            "y": 1587,
+            "endX": 924,
+            "endY": 1587,
+            "storeFolder": "188772340",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.LinearLayout|0;android.widget.LinearLayout|0;androidx.recyclerview.widget.RecyclerView|0;android.view.ViewGroup|0;android.widget.LinearLayout|2;android.view.ViewGroup|0;android.view.ViewGroup|1;android.widget.Switch",
+            "absoluteIdAvailable": true,
+            "description": "click:关闭增强防护",
+            "imagePath": "image48.jpg"
+        }
+    ]
+}

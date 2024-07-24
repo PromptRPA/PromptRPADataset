@@ -1,0 +1,68 @@
+{
+    "tutorialId": 1410278489,
+    "tutorialName": "在微博APP中删除微博的步骤",
+    "tutorialDetail": "打开微博APP，找到需要删除的微博点击该条微博右上方的“∨”按钮在弹出的菜单中点击“删除”在弹出的确认对话框中点击“确定”以删除微博",
+    "original_instructions": [
+        "open:微博APP",
+        "click:微博右上方∨按钮",
+        "click:删除, 菜单中",
+        "click:确定, 确认对话框中"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在微博APP中删除微博的步骤打开微博APP，找到...1. open:微博APP2. click:微博右上方∨按钮3. click:删除, 菜单中4. click:确定, 确认对话框中START",
+            "type": "open",
+            "para": "微博",
+            "x": 326,
+            "y": 1172,
+            "endX": 326,
+            "endY": 1172,
+            "storeFolder": "232606007",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:微博APP"
+        },
+        {
+            "targetName": "公开转发评论赞",
+            "type": "click",
+            "para": "1",
+            "x": 1018,
+            "y": 985,
+            "endX": 1018,
+            "endY": 985,
+            "storeFolder": "49926690",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.viewpager.widget.ViewPager|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;androidx.viewpager.widget.ViewPager|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.viewpager.widget.ViewPager|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|2;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:微博右上方∨按钮",
+            "imagePath": "image45.jpg"
+        },
+        {
+            "targetName": "删除",
+            "type": "click",
+            "para": "1",
+            "x": 322,
+            "y": 1932,
+            "endX": 322,
+            "endY": 1932,
+            "storeFolder": "113061633",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.ScrollView|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|5;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:菜单中的删除",
+            "imagePath": "image46.jpg"
+        },
+        {
+            "targetName": "确定",
+            "type": "click",
+            "para": "1",
+            "x": 692,
+            "y": 1280,
+            "endX": 692,
+            "endY": 1280,
+            "storeFolder": "233624576",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|1;android.widget.LinearLayout|0;android.widget.LinearLayout|1;android.widget.TextView",
+            "absoluteIdAvailable": true,
+            "description": "click:确定, 确认对话框中",
+            "imagePath": "image47.jpg"
+        }
+    ]
+}

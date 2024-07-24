@@ -1,0 +1,67 @@
+{
+    "tutorialId": 630604136,
+    "tutorialName": "在最美天气APP中设置自动更新的步骤",
+    "tutorialDetail": "点击屏幕中的【我的】图标进入个人或设置区域点击屏幕右上角的【设置】图标进入设置选项在设置菜单中找到并点击【自动更新设置】进行相应更新配置",
+    "original_instructions": [
+        "click:【我的】图标",
+        "click:【设置】图标, 右上角",
+        "click:【自动更新设置】"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在APP中设置自动更新的步骤点击屏幕中的【我的】...1. click:【我的】图标2. click:【设置】图标, 右上角3. click:【自动更新设置】START",
+            "type": "open",
+            "para": "最美天气",
+            "x": 759,
+            "y": 1129,
+            "endX": 759,
+            "endY": 1129,
+            "storeFolder": "263321874",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "Open 最美天气"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 955,
+            "y": 2141,
+            "endX": 955,
+            "endY": 2141,
+            "storeFolder": "252902686",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|3;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:【我的】图标",
+            "imagePath": "image12.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 1008,
+            "y": 182,
+            "endX": 1008,
+            "endY": 182,
+            "storeFolder": "196731940",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.RelativeLayout|0;android.widget.RelativeLayout|1;android.widget.ImageView",
+            "absoluteIdAvailable": true,
+            "description": "click:【设置】图标, 右上角",
+            "imagePath": "image13.jpg"
+        },
+        {
+            "targetName": "天气数据更新关闭",
+            "type": "click",
+            "para": "1",
+            "x": 681,
+            "y": 1336,
+            "endX": 681,
+            "endY": 1336,
+            "storeFolder": "121006734",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.RelativeLayout|0;android.widget.ScrollView|0;android.widget.LinearLayout|6;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:【自动更新设置】",
+            "imagePath": "image14.jpg"
+        }
+    ]
+}

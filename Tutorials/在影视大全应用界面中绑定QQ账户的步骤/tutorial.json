@@ -1,0 +1,81 @@
+{
+    "tutorialId": -1828783542,
+    "tutorialName": "在影视大全应用界面中绑定QQ账户的步骤",
+    "tutorialDetail": "选择界面上的【设置】图标并点击在设置界面中选择【账户与安全】并点击进入账户与安全页面后点击【QQ】进行账户绑定",
+    "original_instructions": [
+        "click:设置 图标",
+        "click:账户与安全",
+        "click:QQ"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在某个应用界面中绑定QQ账户的步骤选择界面上的【设置】...1. click:设置 图标2. click:账户与安全3. click:QQSTART",
+            "type": "open",
+            "para": "影视大全",
+            "x": 656,
+            "y": 1112,
+            "endX": 656,
+            "endY": 1112,
+            "storeFolder": "83018244",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "Open 影视大全"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 976,
+            "y": 2134,
+            "endX": 976,
+            "endY": 2134,
+            "storeFolder": "66983352",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|3;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的",
+            "imagePath": "image205.jpg"
+        },
+        {
+            "targetName": "设置",
+            "type": "click",
+            "para": "1",
+            "x": 782,
+            "y": 1382,
+            "endX": 782,
+            "endY": 1382,
+            "storeFolder": "156577850",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.ScrollView|0;android.view.ViewGroup|4;android.widget.LinearLayout|2;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "Click 设置.",
+            "imagePath": "image206.jpg"
+        },
+        {
+            "targetName": "账户与安全",
+            "type": "click",
+            "para": "1",
+            "x": 783,
+            "y": 561,
+            "endX": 783,
+            "endY": 561,
+            "storeFolder": "256758609",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.ScrollView|0;android.widget.LinearLayout|0;android.widget.LinearLayout|1;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:账户与安全",
+            "imagePath": "image207.jpg"
+        },
+        {
+            "targetName": "QQ未绑定",
+            "type": "click",
+            "para": "1",
+            "x": 974,
+            "y": 665,
+            "endX": 974,
+            "endY": 665,
+            "storeFolder": "194394512",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.LinearLayout|2;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:QQ",
+            "imagePath": "image208.jpg"
+        }
+    ]
+}

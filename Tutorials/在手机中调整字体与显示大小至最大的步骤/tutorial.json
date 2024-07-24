@@ -1,0 +1,69 @@
+{
+    "tutorialId": -212410440,
+    "tutorialName": "在手机中调整字体与显示大小至最大的步骤",
+    "tutorialDetail": "打开手机设置，找到显示和亮度点击字体与显示大小将字体大小和显示大小的滑块拉到最右边",
+    "original_instructions": [
+        "open:手机设置",
+        "click:显示和亮度",
+        "click:字体与显示大小",
+        "scroll:字体大小滑块",
+        "scroll:显示大小滑块"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在手机中调整字体与显示大小至最大的步骤打开手机设置，找到显...1. open:手机设置2. click:显示和亮度3. click:字体与显示大小4. scroll:字体大小滑块5. scroll:显示大小滑块START",
+            "type": "open",
+            "para": "设置",
+            "x": 469,
+            "y": 1118,
+            "endX": 469,
+            "endY": 1118,
+            "storeFolder": "189480411",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:手机设置"
+        },
+        {
+            "targetName": "显示和亮度",
+            "type": "click",
+            "para": "1",
+            "x": 552,
+            "y": 2077,
+            "endX": 556,
+            "endY": 2079,
+            "storeFolder": "151118077",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.recyclerview.widget.RecyclerView|7;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:显示和亮度",
+            "imagePath": "image64.jpg"
+        },
+        {
+            "targetName": "字体大小与粗细",
+            "type": "click",
+            "para": "1",
+            "x": 548,
+            "y": 1600,
+            "endX": 548,
+            "endY": 1600,
+            "storeFolder": "41191498",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.widget.LinearLayout|1;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.recyclerview.widget.RecyclerView|8;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:字体与显示大小",
+            "imagePath": "image65.jpg"
+        },
+        {
+            "targetName": "字体大小与粗细你知道不仅可以调节字体大小，还可调节字体粗细吗？知道，我们可以调节到适合自己的效果。太好了，如何调节呢？拖动控制条来调节，试试吧。字体大小标准字体粗细标准",
+            "type": "scroll",
+            "para": "left",
+            "x": 370,
+            "y": 1563,
+            "endX": 483,
+            "endY": 1565,
+            "storeFolder": "239168343",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "scroll:字体大小滑块",
+            "imagePath": "image66.jpg"
+        }
+    ]
+}

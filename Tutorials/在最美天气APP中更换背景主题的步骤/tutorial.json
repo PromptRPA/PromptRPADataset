@@ -1,0 +1,83 @@
+{
+    "tutorialId": -809943909,
+    "tutorialName": "在最美天气APP中更换背景主题的步骤",
+    "tutorialDetail": "在最美天气APP右下角点击【我的】在当前页面中找到并点击【背景主题】选择喜欢的主题，然后点击【下载】或【使用】来更换背景主题",
+    "original_instructions": [
+        "open:最美天气APP",
+        "click:我的, 右下角",
+        "click:背景主题",
+        "click:主题",
+        "click:下载"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在最美天气APP中更换背景主题的步骤在最美天气APP右下...1. open:最美天气APP2. click:我的, 右下角3. click:背景主题4. click:主题5. click:下载START",
+            "type": "open",
+            "para": "最美天气",
+            "x": 506,
+            "y": 1258,
+            "endX": 506,
+            "endY": 1258,
+            "storeFolder": "112706156",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "Open 最美天气"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 941,
+            "y": 2155,
+            "endX": 941,
+            "endY": 2155,
+            "storeFolder": "45445014",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|3;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的, 右下角",
+            "imagePath": "image0.jpg"
+        },
+        {
+            "targetName": "查看更多",
+            "type": "click",
+            "para": "1",
+            "x": 879,
+            "y": 1282,
+            "endX": 879,
+            "endY": 1282,
+            "storeFolder": "80194025",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.recyclerview.widget.RecyclerView|1;android.widget.RelativeLayout|0;android.view.ViewGroup|1;android.widget.TextView",
+            "absoluteIdAvailable": true,
+            "description": "click:背景主题",
+            "imagePath": "image1.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 758,
+            "y": 1981,
+            "endX": 758,
+            "endY": 1981,
+            "storeFolder": "1192819",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.view.ViewGroup|1;android.widget.LinearLayout|1;androidx.viewpager.widget.ViewPager|0;android.view.ViewGroup|0;android.widget.ScrollView|0;android.widget.GridView|1;android.view.ViewGroup|0;android.widget.ImageView",
+            "absoluteIdAvailable": true,
+            "description": "click:主题",
+            "imagePath": "image2.jpg"
+        },
+        {
+            "targetName": "融入传统元素，让天气更“财福多多”~作者：小晴天立即使用",
+            "type": "click",
+            "para": "1",
+            "x": 601,
+            "y": 2035,
+            "endX": 601,
+            "endY": 2035,
+            "storeFolder": "253144906",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.webkit.WebView|0;android.webkit.WebView|0;android.view.View|0;android.view.View",
+            "absoluteIdAvailable": true,
+            "description": "click:立即使用",
+            "imagePath": "image3.jpg"
+        }
+    ]
+}

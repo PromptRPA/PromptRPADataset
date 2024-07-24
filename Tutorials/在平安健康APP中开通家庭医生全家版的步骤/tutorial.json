@@ -1,0 +1,72 @@
+{
+    "tutorialId": -1878482315,
+    "tutorialName": "在平安健康APP中开通家庭医生全家版的步骤",
+    "tutorialDetail": "在平安健康APP首页找到并点击【家庭医生】栏目进入在家庭医生页面中，选择并点击【全家版】进入全家版页面后，点击最下方的【立即开通】按钮根据家庭需求选择医生类型和开通时长完成选择后下单并支付以开通服务",
+    "original_instructions": [
+        "open:平安健康APP首页",
+        "click:家庭医生 栏目",
+        "click:全家版",
+        "click:立即开通, 最下方",
+        "edit:医生类型",
+        "edit:开通时长",
+        "click:下单按钮",
+        "click:支付以开通服务"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在平安健康APP中开通家庭医生全家版的步骤在平安健康APP首页...1. open:平安健康APP首页2. click:家庭医生 栏目3. click:全家版4. click:立即开通, 最下方5. edit:医生类型6. edit:开通时长7. click:下单按钮8. click:支付以开通服务START",
+            "type": "open",
+            "para": "平安健康",
+            "x": 230,
+            "y": 1134,
+            "endX": 230,
+            "endY": 1134,
+            "storeFolder": "112825525",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:平安健康APP首页"
+        },
+        {
+            "targetName": "服务",
+            "type": "click",
+            "para": "1",
+            "x": 342,
+            "y": 2123,
+            "endX": 342,
+            "endY": 2123,
+            "storeFolder": "128152459",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|2;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|1;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "Click 服务.",
+            "imagePath": "image19.jpg"
+        },
+        {
+            "targetName": "平安家医",
+            "type": "click",
+            "para": "1",
+            "x": 147,
+            "y": 656,
+            "endX": 147,
+            "endY": 656,
+            "storeFolder": "88297540",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;androidx.viewpager.widget.ViewPager|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|1;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.HorizontalScrollView|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:家庭医生 栏目",
+            "imagePath": "image20.jpg"
+        },
+        {
+            "targetName": "底部购买按钮",
+            "type": "click",
+            "para": "1",
+            "x": 871,
+            "y": 2125,
+            "endX": 871,
+            "endY": 2125,
+            "storeFolder": "24846285",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.webkit.WebView|0;android.webkit.WebView|0;android.view.View|0;android.view.View|0;android.view.View|0;android.view.View|1;android.view.View|0;android.view.View",
+            "absoluteIdAvailable": true,
+            "description": "click:立即开通, 最下方",
+            "imagePath": "image21.jpg"
+        }
+    ]
+}

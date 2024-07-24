@@ -1,0 +1,83 @@
+{
+    "tutorialId": -1375881486,
+    "tutorialName": "在飞书app中添加飞书提醒到常用功能的步骤",
+    "tutorialDetail": "打开飞书app点击工作台按钮选择添加常用的功能选择飞书提醒点击添加完成操作",
+    "original_instructions": [
+        "open:飞书app",
+        "click:工作台按钮",
+        "click:添加常用",
+        "click:飞书提醒",
+        "click:添加"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在飞书app中添加飞书提醒到常用功能的步骤打开飞书app点击工...1. open:飞书app2. click:工作台按钮3. click:添加常用4. click:飞书提醒5. click:添加START",
+            "type": "open",
+            "para": "飞书",
+            "x": 434,
+            "y": 1116,
+            "endX": 434,
+            "endY": 1116,
+            "storeFolder": "149233408",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:飞书app"
+        },
+        {
+            "targetName": "工作台",
+            "type": "click",
+            "para": "1",
+            "x": 432,
+            "y": 2097,
+            "endX": 432,
+            "endY": 2097,
+            "storeFolder": "74739159",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.view.ViewGroup|1;android.widget.LinearLayout|2;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:工作台按钮",
+            "imagePath": "image13.jpg"
+        },
+        {
+            "targetName": "添加常用",
+            "type": "click",
+            "para": "1",
+            "x": 885,
+            "y": 1670,
+            "endX": 885,
+            "endY": 1670,
+            "storeFolder": "4479290",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.view.ViewGroup|0;android.widget.LinearLayout|1;androidx.viewpager.widget.ViewPager|0;androidx.recyclerview.widget.RecyclerView|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|12;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:添加常用",
+            "imagePath": "image14.jpg"
+        },
+        {
+            "targetName": "添加常用已添加 (11)设置全部应用最近使用项目管理敏捷研发设计工具待办工具月报月度工作小结汇报添加服务台通知与公告，AI 机器人，人工服务添加飞书人事（标准版）简单好用的人事管理应用，原智能人事已添加飞书项目飞书官方项目管理平台添加智能门禁安全、高效、智能的通行管理解决方案添加工资单便捷、安全的工资单管理，一键完成工资发布已添加",
+            "type": "scroll",
+            "para": "down",
+            "x": 542,
+            "y": 1885,
+            "endX": 720,
+            "endY": 754,
+            "storeFolder": "194631819",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image15.jpg"
+        },
+        {
+            "targetName": "添加",
+            "type": "click",
+            "para": "1",
+            "x": 910,
+            "y": 2129,
+            "endX": 910,
+            "endY": 2129,
+            "storeFolder": "191833129",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|1;android.widget.FrameLayout|0;android.widget.LinearLayout|2;androidx.viewpager.widget.ViewPager|0;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|6;android.widget.RelativeLayout|1;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:添加飞书提醒",
+            "imagePath": "image16.jpg"
+        }
+    ]
+}

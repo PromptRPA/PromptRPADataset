@@ -1,0 +1,112 @@
+{
+    "tutorialId": 1522897933,
+    "tutorialName": "在支付宝APP中清理缓存的步骤",
+    "tutorialDetail": "打开支付宝APP并选择【我的】页面点击页面右上方的小齿轮进入【设置】在设置中点击【通用】选择【存储空间管理-清理缓存】点击【清理】按钮完成缓存清理",
+    "original_instructions": [
+        "open:支付宝APP",
+        "click:我的 页面",
+        "click:小齿轮, 右上方",
+        "click:通用",
+        "click:存储空间管理-清理缓存",
+        "click:清理 按钮"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在支付宝APP中清理缓存的步骤打开支付宝APP并选...1. open:支付宝APP2. click:我的 页面3. click:小齿轮, 右上方4. click:通用5. click:存储空间管理-清理缓存6. click:清理 按钮START",
+            "type": "open",
+            "para": "支付宝",
+            "x": 754,
+            "y": 1375,
+            "endX": 754,
+            "endY": 1375,
+            "storeFolder": "124898676",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:支付宝APP"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 972,
+            "y": 2120,
+            "endX": 972,
+            "endY": 2120,
+            "storeFolder": "50999697",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.TabHost|1;android.widget.FrameLayout|0;android.widget.TabWidget|4;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的 页面",
+            "imagePath": "image10.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 1010,
+            "y": 193,
+            "endX": 1010,
+            "endY": 193,
+            "storeFolder": "174151260",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|2;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:小齿轮, 右上方",
+            "imagePath": "image11.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 641,
+            "y": 1299,
+            "endX": 641,
+            "endY": 1299,
+            "storeFolder": "265668451",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|1;android.widget.LinearLayout|0;android.support.v7.widget.RecyclerView|0;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:通用",
+            "imagePath": "image12.jpg"
+        },
+        {
+            "targetName": "通用",
+            "type": "scroll",
+            "para": "down",
+            "x": 655,
+            "y": 1770,
+            "endX": 743,
+            "endY": 893,
+            "storeFolder": "55793328",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image13.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 633,
+            "y": 1918,
+            "endX": 633,
+            "endY": 1918,
+            "storeFolder": "17874918",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|1;android.widget.LinearLayout|0;android.support.v7.widget.RecyclerView|0;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:存储空间管理-清理缓存",
+            "imagePath": "image14.jpg"
+        },
+        {
+            "targetName": "清理",
+            "type": "click",
+            "para": "1",
+            "x": 865,
+            "y": 1136,
+            "endX": 865,
+            "endY": 1136,
+            "storeFolder": "70264041",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.ScrollView|0;android.widget.LinearLayout|2;android.widget.LinearLayout|1;android.widget.LinearLayout|1;android.widget.Button",
+            "absoluteIdAvailable": true,
+            "description": "click:清理 按钮",
+            "imagePath": "image15.jpg"
+        }
+    ]
+}

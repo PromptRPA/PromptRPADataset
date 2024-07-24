@@ -1,0 +1,84 @@
+{
+    "tutorialId": 447188908,
+    "tutorialName": "在平安健康app中查看用药记录的步骤",
+    "tutorialDetail": "打开平安健康app，在首页点击右下角的【我的】找到【我的医疗】选项，点击【我的问诊】进入【我的问诊】界面，点击【用药记录】选择就诊人，即可查看其以前的用药记录",
+    "original_instructions": [
+        "open:平安健康app",
+        "click:我的, 右下角",
+        "click:我的医疗",
+        "click:我的问诊",
+        "click:用药记录",
+        "click:就诊人"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在平安健康app中查看用药记录的步骤打开平安健康app，...1. open:平安健康app2. click:我的, 右下角3. click:我的医疗4. click:我的问诊5. click:用药记录6. click:就诊人START",
+            "type": "open",
+            "para": "平安健康",
+            "x": 751,
+            "y": 1155,
+            "endX": 751,
+            "endY": 1155,
+            "storeFolder": "158381198",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "Open 平安健康"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 985,
+            "y": 2110,
+            "endX": 985,
+            "endY": 2110,
+            "storeFolder": "209998333",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|2;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|4;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的, 右下角",
+            "imagePath": "image8.jpg"
+        },
+        {
+            "targetName": "更多",
+            "type": "click",
+            "para": "1",
+            "x": 941,
+            "y": 1115,
+            "endX": 941,
+            "endY": 1115,
+            "storeFolder": "267690345",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.viewpager.widget.ViewPager|0;android.widget.RelativeLayout|0;android.widget.ScrollView|0;android.widget.RelativeLayout|1;androidx.recyclerview.widget.RecyclerView|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.RelativeLayout|1;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的医疗",
+            "imagePath": "image9.jpg"
+        },
+        {
+            "targetName": "我的问诊",
+            "type": "click",
+            "para": "1",
+            "x": 112,
+            "y": 656,
+            "endX": 112,
+            "endY": 656,
+            "storeFolder": "154069000",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.FrameLayout|0;android.widget.LinearLayout|1;androidx.recyclerview.widget.RecyclerView|0;android.widget.LinearLayout|0;android.widget.LinearLayout|1;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|0;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我的问诊",
+            "imagePath": "image10.jpg"
+        },
+        {
+            "targetName": "用药记录",
+            "type": "click",
+            "para": "1",
+            "x": 853,
+            "y": 307,
+            "endX": 853,
+            "endY": 307,
+            "storeFolder": "207518921",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.webkit.WebView|0;android.webkit.WebView|0;android.view.View|0;android.view.View|0;android.view.View|0;android.view.View|0;android.view.View|1;android.view.View|2;android.view.View",
+            "absoluteIdAvailable": true,
+            "description": "Click 用药记录.",
+            "imagePath": "image11.jpg"
+        }
+    ]
+}

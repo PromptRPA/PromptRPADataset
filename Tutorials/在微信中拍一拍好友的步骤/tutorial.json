@@ -1,0 +1,53 @@
+{
+    "tutorialId": 1411611979,
+    "tutorialName": "在微信中拍一拍好友的步骤",
+    "tutorialDetail": "打开微信APP选择一个好友进入聊天界面快速双击好友的头像以拍一拍对方",
+    "original_instructions": [
+        "open:微信APP",
+        "click:好友",
+        "click:好友头像"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在微信中拍一拍好友的步骤打开微信APP选择一...1. open:微信APP2. click:好友3. click:好友头像START",
+            "type": "open",
+            "para": "微信",
+            "x": 607,
+            "y": 1593,
+            "endX": 607,
+            "endY": 1593,
+            "storeFolder": "61307440",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:微信APP"
+        },
+        {
+            "targetName": "Friend15:48hello",
+            "type": "click",
+            "para": "1",
+            "x": 707,
+            "y": 352,
+            "endX": 707,
+            "endY": 352,
+            "storeFolder": "105441073",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.ListView|1;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:好友",
+            "imagePath": "image12.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "2",
+            "x": 129,
+            "y": 475,
+            "endX": 129,
+            "endY": 475,
+            "storeFolder": "138122123",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|1;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|0;android.widget.RelativeLayout|0;android.widget.ImageView",
+            "absoluteIdAvailable": true,
+            "description": "double click:好友头像",
+            "imagePath": "image13.jpg"
+        }
+    ]
+}

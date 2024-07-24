@@ -1,0 +1,69 @@
+{
+    "tutorialId": 739982323,
+    "tutorialName": "在最美天气APP中查询历史天气的步骤",
+    "tutorialDetail": "进入手机并打开【最美天气】APP在APP内点击【我】进入个人页面在个人页面中找到并点击【历史天气】选择想要查询的日期点击【查询】后，查询结果会显示在页面下方",
+    "original_instructions": [
+        "open:最美天气 APP",
+        "click:我, 页面下方",
+        "click:历史天气",
+        "edit:查询的日期",
+        "click:查询"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在最美天气APP中查询历史天气的步骤进入手机并打开【最美...1. open:最美天气 APP2. click:我, 页面下方3. click:历史天气4. edit:查询的日期5. click:查询START",
+            "type": "open",
+            "para": "最美天气",
+            "x": 484,
+            "y": 1142,
+            "endX": 484,
+            "endY": 1142,
+            "storeFolder": "82243552",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:最美天气 APP"
+        },
+        {
+            "targetName": "我的",
+            "type": "click",
+            "para": "1",
+            "x": 933,
+            "y": 2114,
+            "endX": 933,
+            "endY": 2114,
+            "storeFolder": "184276147",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|3;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我, 页面下方",
+            "imagePath": "image22.jpg"
+        },
+        {
+            "targetName": "133****3239快来点亮勋章吧 >1关注城市--收藏--亲情短信40云豆会员中心更多任务中心更多无广告亲情短信专属主题钓鱼指数个性主题查看更多树的世界财福多多自在远山水墨禅韵特色功能桌面插件台风路径历史天气语音播报首页90天发现我的",
+            "type": "scroll",
+            "para": "down",
+            "x": 466,
+            "y": 1728,
+            "endX": 235,
+            "endY": 1090,
+            "storeFolder": "16545706",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image23.jpg"
+        },
+        {
+            "targetName": "历史天气",
+            "type": "click",
+            "para": "1",
+            "x": 662,
+            "y": 1656,
+            "endX": 662,
+            "endY": 1656,
+            "storeFolder": "96500402",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;androidx.recyclerview.widget.RecyclerView|2;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.RelativeLayout|1;androidx.recyclerview.widget.RecyclerView|2;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:历史天气",
+            "imagePath": "image24.jpg"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "tutorialId": -1161520165,
+    "tutorialName": "在QQ中修改密码的步骤",
+    "tutorialDetail": "打开QQ个人中心页面点击【设置】在设置页面点击【账号安全】在账号安全页面点击【QQ安全中心】在QQ安全中心点击【修改密码】进入密码重置中心页面",
+    "original_instructions": [
+        "open:QQ个人中心页面",
+        "click:设置",
+        "click:账号安全",
+        "click:QQ安全中心",
+        "click:修改密码"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在QQ中修改密码的步骤打开QQ个人中心页面...1. open:QQ个人中心页面2. click:设置3. click:账号安全4. click:QQ安全中心5. click:修改密码START",
+            "type": "open",
+            "para": "QQ",
+            "x": 742,
+            "y": 1188,
+            "endX": 742,
+            "endY": 1188,
+            "storeFolder": "9738013",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:QQ个人中心页面"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 68,
+            "y": 203,
+            "endX": 68,
+            "endY": 203,
+            "storeFolder": "191644061",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|1;android.widget.RelativeLayout|0;android.widget.Button",
+            "absoluteIdAvailable": true,
+            "description": "click:头像",
+            "imagePath": "image36.jpg"
+        },
+        {
+            "targetName": "设置",
+            "type": "click",
+            "para": "1",
+            "x": 79,
+            "y": 2111,
+            "endX": 79,
+            "endY": 2111,
+            "storeFolder": "235336250",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|2;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.Button",
+            "absoluteIdAvailable": true,
+            "description": "Click 设置",
+            "imagePath": "image37.jpg"
+        },
+        {
+            "targetName": "账号安全",
+            "type": "click",
+            "para": "1",
+            "x": 800,
+            "y": 684,
+            "endX": 800,
+            "endY": 684,
+            "storeFolder": "100265972",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|2;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:账号安全",
+            "imagePath": "image38.jpg"
+        },
+        {
+            "targetName": "账号社区修改密码找回账号及密码解冻账号好友辅助查询联系客服全民社区公约未成年&家长守护专区企鹅成长园安全保护反诈专区防网暴攻略辟谣专区安全精选技术合作防诈攻略青少年账号安全",
+            "type": "click",
+            "para": "1",
+            "x": 1320,
+            "y": 673,
+            "endX": 1320,
+            "endY": 673,
+            "storeFolder": "101826373",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;com.tencent.tbs.core.webkit.WebView|0;android.webkit.WebView|4;android.view.View|0;android.view.View",
+            "absoluteIdAvailable": true,
+            "description": "click:修改密码",
+            "imagePath": "image39.jpg"
+        }
+    ]
+}

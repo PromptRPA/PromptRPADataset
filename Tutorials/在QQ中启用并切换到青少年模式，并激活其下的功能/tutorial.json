@@ -1,0 +1,99 @@
+{
+    "tutorialId": -1849562894,
+    "tutorialName": "在QQ中启用并切换到青少年模式，并激活其下的功能",
+    "tutorialDetail": "首先打开QQ打开后点击左上角的【头像】进入个人中心进入个人中心后，点击底部的【设置】图标进入设置后，点击列表中的【通用】选项点击【通用】选项后，点击顶部的【青少年模式】点击青少年模式后，需要等待一段时间以完成切换切换成功后，可以开启青少年模式下的两种功能",
+    "original_instructions": [
+        "open:QQ",
+        "click:头像, 左上角",
+        "click:设置, 底部图标",
+        "click:通用",
+        "click:青少年模式, 顶部",
+        "longclick:青少年模式切换",
+        "switch:青少年模式功能"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在QQ中启用并切换到青少年模式，并激活其下的功能首先打开QQ打开后点...1. open:QQ2. click:头像, 左上角3. click:设置, 底部图标4. click:通用5. click:青少年模式, 顶部6. longclick:青少年模式切换7. switch:青少年模式功能START",
+            "type": "open",
+            "para": "QQ",
+            "x": 553,
+            "y": 1468,
+            "storeFolder": "18238835",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:QQ"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 72,
+            "y": 196,
+            "storeFolder": "85450558",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|1;android.widget.RelativeLayout|0;android.widget.Button",
+            "absoluteIdAvailable": true,
+            "description": "click:头像, 左上角",
+            "imagePath": "image0.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 107,
+            "y": 2127,
+            "storeFolder": "26848040",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.TabHost|0;android.widget.FrameLayout|1;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;androidx.recyclerview.widget.RecyclerView|10;android.view.ViewGroup|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:设置, 底部图标",
+            "imagePath": "image1.jpg"
+        },
+        {
+            "targetName": "通用",
+            "type": "click",
+            "para": "1",
+            "x": 890,
+            "y": 1183,
+            "storeFolder": "52290682",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|5;com.tencent.mobileqq.widget.listitem.QUISingleLineListItem",
+            "absoluteIdAvailable": true,
+            "description": "click:通用",
+            "imagePath": "image2.jpg"
+        },
+        {
+            "targetName": "青少年模式功能管控，守护成长。",
+            "type": "click",
+            "para": "1",
+            "x": 874,
+            "y": 658,
+            "storeFolder": "96604978",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.recyclerview.widget.RecyclerView|0;android.widget.LinearLayout|1;android.widget.LinearLayout|2;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:青少年模式, 顶部",
+            "imagePath": "image3.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 199,
+            "y": 1554,
+            "storeFolder": "96057418",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|0;android.view.ViewGroup|2;android.widget.LinearLayout|0;android.widget.CheckBox",
+            "absoluteIdAvailable": true,
+            "description": "Click 同意",
+            "imagePath": "image4.jpg"
+        },
+        {
+            "targetName": "开启青少年模式",
+            "type": "click",
+            "para": "1",
+            "x": 707,
+            "y": 1692,
+            "storeFolder": "87735724",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|0;android.view.ViewGroup|3;android.widget.Button",
+            "absoluteIdAvailable": true,
+            "description": "Click 开启青少年模式.",
+            "imagePath": "image5.jpg"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "tutorialId": 273329476,
+    "tutorialName": "在手机QQ中进入自习室的步骤",
+    "tutorialDetail": "在手机QQ页面中，点击动态。在动态页面中，点击自习室选项。在自习室页面中，选择自习室加入就可以了。",
+    "original_instructions": [
+        "open:QQ",
+        "click:动态",
+        "click:自习室",
+        "click:加入"
+    ],
+    "actual_instructions": [
+    ]
+}

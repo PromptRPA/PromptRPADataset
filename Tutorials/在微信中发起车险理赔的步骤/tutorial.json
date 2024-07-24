@@ -1,0 +1,110 @@
+{
+    "tutorialId": -1965481810,
+    "tutorialName": "在微信中发起车险理赔的步骤",
+    "tutorialDetail": "打开微信APP，在服务界面点击“保险服务”在保险服务界面点击“理赔服务”进入在理赔服务界面点击“车险”发起理赔",
+    "original_instructions": [
+        "open:微信APP",
+        "click:保险服务, 服务界面",
+        "click:理赔服务, 保险服务界面",
+        "click:车险, 理赔服务界面"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在微信中发起车险理赔的步骤打开微信APP，在服...1. open:微信APP2. click:保险服务, 服务界面3. click:理赔服务, 保险服务界面4. click:车险, 理赔服务界面START",
+            "type": "open",
+            "para": "微信",
+            "x": 756,
+            "y": 1178,
+            "endX": 756,
+            "endY": 1178,
+            "storeFolder": "89293902",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:微信APP"
+        },
+        {
+            "targetName": "我",
+            "type": "click",
+            "para": "1",
+            "x": 958,
+            "y": 2126,
+            "endX": 958,
+            "endY": 2126,
+            "storeFolder": "226348244",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|1;android.widget.RelativeLayout|0;android.widget.LinearLayout|3;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "Click .",
+            "imagePath": "image165.jpg"
+        },
+        {
+            "targetName": "服务",
+            "type": "click",
+            "para": "1",
+            "x": 841,
+            "y": 702,
+            "endX": 841,
+            "endY": 702,
+            "storeFolder": "19322870",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.ListView|2;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "Click 服务.",
+            "imagePath": "image166.jpg"
+        },
+        {
+            "targetName": "保险服务",
+            "type": "click",
+            "para": "1",
+            "x": 677,
+            "y": 984,
+            "endX": 677,
+            "endY": 984,
+            "storeFolder": "36091302",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.ListView|1;android.widget.LinearLayout|1;android.widget.LinearLayout|2;android.widget.RelativeLayout|0;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:保险服务",
+            "imagePath": "image167.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 907,
+            "y": 542,
+            "endX": 907,
+            "endY": 542,
+            "storeFolder": "44796254",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|1;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "Click 办理陪",
+            "imagePath": "image168.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 297,
+            "y": 735,
+            "endX": 297,
+            "endY": 735,
+            "storeFolder": "174281906",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|1;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "Click 申请理赔",
+            "imagePath": "image169.jpg"
+        },
+        {
+            "targetName": "査茻首页理赔过程简单透明累计理赔超亿元客服全程陪伴累计服务客户万人申请记录选险种去理赔车险车辆发生意外事故理赔暂无微保保单医疗、重疾、意外、寿险被保险人生病或发生意外伤害理赔暂无微保保单财产险家财、宠物、碎屏理赔暂无微保保单外部保单，快捷申请理赔理赔微保安心享健康服务在线使用热门帮手秒懂热门理赔问题理赔指引流程及资料提前get理赔协办理赔申请人工协助结论协助理赔结论解读沟通",
+            "type": "click",
+            "para": "1",
+            "x": 937,
+            "y": 1033,
+            "endX": 937,
+            "endY": 1033,
+            "storeFolder": "78855451",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Click 车险理赔",
+            "imagePath": "image170.jpg"
+        }
+    ]
+}

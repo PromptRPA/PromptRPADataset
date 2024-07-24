@@ -1,0 +1,83 @@
+{
+    "tutorialId": 1985072426,
+    "tutorialName": "在微信中查询微信豆明细的步骤",
+    "tutorialDetail": "点开微信个人信息页进入微信豆界面在微信豆明细查询页，选择时间然后点击确定",
+    "original_instructions": [
+        "open:微信个人信息页",
+        "click:微信豆界面",
+        "click:微信豆明细查询页",
+        "click:时间",
+        "click:确定"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在微信中查询微信豆明细的步骤点开微信个人信息页进...1. open:微信个人信息页2. click:微信豆界面3. click:微信豆明细查询页4. click:时间5. click:确定START",
+            "type": "open",
+            "para": "微信",
+            "x": 717,
+            "y": 1271,
+            "endX": 717,
+            "endY": 1271,
+            "storeFolder": "227155985",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:微信"
+        },
+        {
+            "targetName": "我",
+            "type": "click",
+            "para": "1",
+            "x": 970,
+            "y": 2117,
+            "endX": 970,
+            "endY": 2117,
+            "storeFolder": "239007475",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|1;android.widget.RelativeLayout|0;android.widget.LinearLayout|3;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:我",
+            "imagePath": "image161.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 194,
+            "y": 395,
+            "endX": 194,
+            "endY": 395,
+            "storeFolder": "74380367",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.ListView|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.RelativeLayout|0;android.widget.ImageView",
+            "absoluteIdAvailable": true,
+            "description": "Click 头像",
+            "imagePath": "image162.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 621,
+            "y": 1470,
+            "endX": 621,
+            "endY": 1470,
+            "storeFolder": "68902611",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.ListView|9;android.widget.TextView",
+            "absoluteIdAvailable": true,
+            "description": "click:微信豆",
+            "imagePath": "image163.jpg"
+        },
+        {
+            "targetName": "微信豆明细",
+            "type": "click",
+            "para": "1",
+            "x": 956,
+            "y": 216,
+            "endX": 956,
+            "endY": 216,
+            "storeFolder": "114874205",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.RelativeLayout|1;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.TextView",
+            "absoluteIdAvailable": true,
+            "description": "Click 微信豆明细.",
+            "imagePath": "image164.jpg"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "tutorialId": 1689754610,
+    "tutorialName": "在飞书中切换外观模式的步骤",
+    "tutorialDetail": "首先打开飞书然后点击头像点击设置接着点击通用再点击外观最后勾选喜欢的外观模式，可选择跟随系统、浅色或者深色",
+    "original_instructions": [
+        "open:飞书",
+        "click:头像",
+        "click:设置",
+        "click:通用",
+        "click:外观",
+        "click:外观模式, 喜欢的"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在飞书中切换外观模式的步骤首先打开飞书然后点击...1. open:飞书2. click:头像3. click:设置4. click:通用5. click:外观6. click:外观模式, 喜欢的START",
+            "type": "open",
+            "para": "飞书",
+            "x": 521,
+            "y": 1155,
+            "endX": 521,
+            "endY": 1155,
+            "storeFolder": "90370541",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:飞书"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 82,
+            "y": 186,
+            "endX": 82,
+            "endY": 186,
+            "storeFolder": "208656929",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.view.ViewGroup|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.view.ViewGroup|0;android.view.View",
+            "absoluteIdAvailable": true,
+            "description": "click:头像",
+            "imagePath": "image29.jpg"
+        },
+        {
+            "targetName": "设置",
+            "type": "click",
+            "para": "1",
+            "x": 578,
+            "y": 1828,
+            "endX": 578,
+            "endY": 1828,
+            "storeFolder": "693804",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|1;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.view.ViewGroup|1;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.ScrollView|0;android.widget.LinearLayout|6;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:设置",
+            "imagePath": "image30.jpg"
+        },
+        {
+            "targetName": "通用",
+            "type": "click",
+            "para": "1",
+            "x": 303,
+            "y": 566,
+            "endX": 303,
+            "endY": 566,
+            "storeFolder": "260492522",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.ScrollView|0;android.widget.LinearLayout|0;android.widget.LinearLayout|1;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:通用",
+            "imagePath": "image31.jpg"
+        },
+        {
+            "targetName": "外观跟随系统",
+            "type": "click",
+            "para": "1",
+            "x": 717,
+            "y": 368,
+            "endX": 717,
+            "endY": 368,
+            "storeFolder": "239831618",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.ScrollView|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:外观",
+            "imagePath": "image32.jpg"
+        }
+    ]
+}

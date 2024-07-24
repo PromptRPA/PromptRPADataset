@@ -1,0 +1,83 @@
+{
+    "tutorialId": -2003724977,
+    "tutorialName": "在微博APP中发布新微博的步骤",
+    "tutorialDetail": "打开手机中的“微博”APP进入首页，点击右上角的“＋”图标点击“写微博”进入微博编辑页面编辑想要发布的微博内容点击右上角的“发送”完成发布",
+    "original_instructions": [
+        "open:微博APP",
+        "click:＋图标, 右上角",
+        "click:写微博",
+        "edit:微博编辑页面",
+        "click:发送, 右上角"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在微博APP中发布新微博的步骤打开手机中的“微博”...1. open:微博APP2. click:＋图标, 右上角3. click:写微博4. edit:微博编辑页面5. click:发送, 右上角START",
+            "type": "open",
+            "para": "微博",
+            "x": 342,
+            "y": 1167,
+            "endX": 342,
+            "endY": 1167,
+            "storeFolder": "236354136",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:微博APP"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 1005,
+            "y": 167,
+            "endX": 1005,
+            "endY": 167,
+            "storeFolder": "170385128",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;androidx.viewpager.widget.ViewPager|0;android.widget.TabHost|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.RelativeLayout|0;android.widget.RelativeLayout|2;android.widget.RelativeLayout|0;android.widget.TextView",
+            "absoluteIdAvailable": true,
+            "description": "click:＋图标, 右上角",
+            "imagePath": "image41.jpg"
+        },
+        {
+            "targetName": "写微博",
+            "type": "click",
+            "para": "1",
+            "x": 782,
+            "y": 359,
+            "endX": 782,
+            "endY": 359,
+            "storeFolder": "96947769",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:写微博",
+            "imagePath": "image42.jpg"
+        },
+        {
+            "targetName": "分享新鲜事...",
+            "type": "edit",
+            "para": "微博内容",
+            "x": 110,
+            "y": 371,
+            "endX": 110,
+            "endY": 371,
+            "storeFolder": "173804695",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|1;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.ScrollView|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.EditText",
+            "absoluteIdAvailable": true,
+            "description": "edit:微博编辑页面",
+            "imagePath": "image43.jpg"
+        },
+        {
+            "targetName": "发送",
+            "type": "click",
+            "para": "1",
+            "x": 959,
+            "y": 206,
+            "endX": 959,
+            "endY": 206,
+            "storeFolder": "175066396",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|0;android.widget.RelativeLayout|2;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:发送, 右上角",
+            "imagePath": "image44.jpg"
+        }
+    ]
+}

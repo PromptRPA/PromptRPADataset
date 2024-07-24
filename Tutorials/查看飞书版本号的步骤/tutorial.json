@@ -1,0 +1,97 @@
+{
+    "tutorialId": 1166313740,
+    "tutorialName": "查看飞书版本号的步骤",
+    "tutorialDetail": "进入【飞书】首页点击左下角【消息】点击右上角头像点击【设置】点击【关于飞书】以完成查看版本号的操作",
+    "original_instructions": [
+        "open:飞书, 首页",
+        "click:消息, 左下角",
+        "click:头像, 右上角",
+        "click:设置",
+        "click:关于飞书"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW查看飞书版本号的步骤进入【飞书】首页点击...1. open:飞书, 首页2. click:消息, 左下角3. click:头像, 右上角4. click:设置5. click:关于飞书START",
+            "type": "open",
+            "para": "飞书",
+            "x": 455,
+            "y": 1219,
+            "endX": 455,
+            "endY": 1219,
+            "storeFolder": "76142217",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:飞书"
+        },
+        {
+            "targetName": "消息",
+            "type": "click",
+            "para": "1",
+            "x": 82,
+            "y": 2099,
+            "endX": 82,
+            "endY": 2099,
+            "storeFolder": "205904970",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.view.ViewGroup|1;android.widget.LinearLayout|0;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:消息, 左下角",
+            "imagePath": "image17.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 103,
+            "y": 196,
+            "endX": 103,
+            "endY": 196,
+            "storeFolder": "120682992",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|0;android.view.ViewGroup|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.view.ViewGroup|0;android.view.View",
+            "absoluteIdAvailable": true,
+            "description": "click:头像, 右上角",
+            "imagePath": "image18.jpg"
+        },
+        {
+            "targetName": "设置",
+            "type": "click",
+            "para": "1",
+            "x": 511,
+            "y": 1792,
+            "endX": 511,
+            "endY": 1792,
+            "storeFolder": "226446078",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;androidx.drawerlayout.widget.DrawerLayout|1;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.view.ViewGroup|1;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.ScrollView|0;android.widget.LinearLayout|6;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:设置",
+            "imagePath": "image19.jpg"
+        },
+        {
+            "targetName": "设置账号安全中心通用通知隐私日历视频会议任务效率个人信息收集清单接入合作方目录内部设置",
+            "type": "scroll",
+            "para": "down",
+            "x": 540,
+            "y": 1953,
+            "endX": 578,
+            "endY": 550,
+            "storeFolder": "140836512",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image20.jpg"
+        },
+        {
+            "targetName": "关于飞书",
+            "type": "click",
+            "para": "1",
+            "x": 497,
+            "y": 1630,
+            "endX": 497,
+            "endY": 1630,
+            "storeFolder": "51657724",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.ScrollView|0;android.widget.LinearLayout|2;android.widget.LinearLayout|1;android.view.ViewGroup",
+            "absoluteIdAvailable": true,
+            "description": "click:关于飞书",
+            "imagePath": "image21.jpg"
+        }
+    ]
+}

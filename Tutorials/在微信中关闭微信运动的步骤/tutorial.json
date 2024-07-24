@@ -1,0 +1,82 @@
+{
+    "tutorialId": -1471867542,
+    "tutorialName": "在微信中关闭微信运动的步骤",
+    "tutorialDetail": "打开微信，点击【微信运动】在微信运动页面，点击右上角的【设置】在设置页面，点击底部的【停用】以关闭微信运动",
+    "original_instructions": [
+        "open:微信",
+        "click:微信运动",
+        "click:设置, 右上角",
+        "click:停用, 底部"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在微信中关闭微信运动的步骤打开微信，点击【微信...1. open:微信2. click:微信运动3. click:设置, 右上角4. click:停用, 底部START",
+            "type": "open",
+            "para": "微信",
+            "x": 779,
+            "y": 1116,
+            "endX": 779,
+            "endY": 1116,
+            "storeFolder": "172023590",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:微信"
+        },
+        {
+            "targetName": "微信运动5月17日[链接] 这一次，与你分享运动的快乐",
+            "type": "click",
+            "para": "1",
+            "x": 634,
+            "y": 1331,
+            "endX": 634,
+            "endY": 1331,
+            "storeFolder": "61249534",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.ListView|6;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:微信运动",
+            "imagePath": "image172.jpg"
+        },
+        {
+            "targetName": "",
+            "type": "click",
+            "para": "1",
+            "x": 971,
+            "y": 215,
+            "endX": 971,
+            "endY": 215,
+            "storeFolder": "262425585",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.RelativeLayout|2;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.LinearLayout|0;android.widget.RelativeLayout|0;android.widget.ImageView",
+            "absoluteIdAvailable": true,
+            "description": "click:设置, 右上角",
+            "imagePath": "image173.jpg"
+        },
+        {
+            "targetName": "微信运动已启用功能介绍在这里可以看到朋友的运动情况进入微信运动进入我的主页邀请朋友常见问题数据来源隐私及提醒设置置顶此功能消息免打扰清空此功能消息记录",
+            "type": "scroll",
+            "para": "down",
+            "x": 693,
+            "y": 1883,
+            "endX": 854,
+            "endY": 442,
+            "storeFolder": "73553655",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "Scroll down",
+            "imagePath": "image174.jpg"
+        },
+        {
+            "targetName": "停用",
+            "type": "click",
+            "para": "1",
+            "x": 641,
+            "y": 2057,
+            "endX": 641,
+            "endY": 2057,
+            "storeFolder": "70473166",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.LinearLayout|0;android.widget.RelativeLayout|0;android.widget.ListView|14;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:停用, 底部",
+            "imagePath": "image175.jpg"
+        }
+    ]
+}

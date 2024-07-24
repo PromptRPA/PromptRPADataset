@@ -1,0 +1,99 @@
+{
+    "tutorialId": 630184653,
+    "tutorialName": "在微信中进行养老保险待遇资格认证的步骤",
+    "tutorialDetail": "打开微信app服务界面，进入城市服务页在城市服务页面，进入社保服务界面在养老保险栏目，点击相关指引功能在养老保险相关指引页面，点击养老保险待遇资格认证在养老保险待遇资格认证页面，点击网上办理进行认证",
+    "original_instructions": [
+        "open:微信app服务界面",
+        "click:城市服务",
+        "click:社保服务",
+        "click:养老保险栏目",
+        "click:相关指引功能",
+        "click:养老保险待遇资格认证",
+        "click:网上办理"
+    ],
+    "actual_instructions": [
+        {
+            "targetName": "PromptRPANEW在微信中进行养老保险待遇资格认证的步骤打开微信app服务界...1. open:微信app服务界面2. click:城市服务3. click:社保服务4. click:养老保险栏目5. click:相关指引功能6. click:养老保险待遇资格认证7. click:网上办理START",
+            "type": "open",
+            "para": "微信",
+            "x": 687,
+            "y": 1069,
+            "endX": 687,
+            "endY": 1069,
+            "storeFolder": "50943260",
+            "absoluteId": "fake.root",
+            "absoluteIdAvailable": true,
+            "description": "open:微信"
+        },
+        {
+            "targetName": "我",
+            "type": "click",
+            "para": "1",
+            "x": 944,
+            "y": 2148,
+            "endX": 944,
+            "endY": 2148,
+            "storeFolder": "77527308",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|1;android.widget.RelativeLayout|0;android.widget.LinearLayout|3;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "Click .",
+            "imagePath": "image176.jpg"
+        },
+        {
+            "targetName": "服务",
+            "type": "click",
+            "para": "1",
+            "x": 806,
+            "y": 724,
+            "endX": 806,
+            "endY": 724,
+            "storeFolder": "226047209",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.ListView|2;android.widget.LinearLayout",
+            "absoluteIdAvailable": true,
+            "description": "Click 服务.",
+            "imagePath": "image177.jpg"
+        },
+        {
+            "targetName": "城市服务",
+            "type": "click",
+            "para": "1",
+            "x": 917,
+            "y": 1394,
+            "endX": 917,
+            "endY": 1394,
+            "storeFolder": "66669564",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.LinearLayout|0;android.widget.FrameLayout|0;android.view.ViewGroup|1;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.ListView|2;android.widget.LinearLayout|1;android.widget.LinearLayout|3;android.widget.RelativeLayout|0;android.widget.RelativeLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:城市服务",
+            "imagePath": "image178.jpg"
+        },
+        {
+            "targetName": "返回微信城市服务北京搜索\"出入境证件换补发网上申请\"常用服务更多北京城乡居民养老保险缴纳北京城乡居民养老保险参保登记北京学位证书查询机动车违法查询推荐服务乘车码社保缴费记录查询电子社保卡医保电子凭证热门专题社保医疗公积金交管交通违法公安办证便民出行政务综合搜索\"出入境证件换补发网上申请\"城市服务办事大厅办事大厅",
+            "type": "click",
+            "para": "1",
+            "x": 196,
+            "y": 1725,
+            "endX": 196,
+            "endY": 1725,
+            "storeFolder": "46674854",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:社保服务",
+            "imagePath": "image179.jpg"
+        },
+        {
+            "targetName": "返回更多北京社保服务电子社保卡社保查询社保缴费订阅社保账户查询提醒可在“服务通知”中接收并管理消息。订阅城乡居民社保城乡居民医疗保险缴纳城乡居民医保缴费记录查询城乡居民养老保险参保登记城乡居民养老保险缴纳城乡居民养老保险缴费记录查询",
+            "type": "click",
+            "para": "1",
+            "x": 342,
+            "y": 1730,
+            "endX": 342,
+            "endY": 1730,
+            "storeFolder": "102104190",
+            "absoluteId": "fake.root|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.RelativeLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout|0;android.widget.FrameLayout",
+            "absoluteIdAvailable": true,
+            "description": "click:养老保险栏目",
+            "imagePath": "image180.jpg"
+        }
+    ]
+}
